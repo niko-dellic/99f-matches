@@ -52,7 +52,7 @@ const matchMaker = [];
 // restructure the json for matches to be in the same object
 Object.keys(jsonData.matches).forEach((entry, index) => {
   const pair = jsonData.matches[entry][0];
-  const cutie = jsonData.aliens.find((alien) => alien.id === entry);
+  const cutie = jsonData.aliens.find((alien) => alien.id == entry);
 
   //   update the cutie keys with the cutie prefix
   const keys = Object.keys(cutie);
@@ -63,7 +63,7 @@ Object.keys(jsonData.matches).forEach((entry, index) => {
     //   delete the old key or maybe not
     // delete cutie[keys[index]];
   });
-  const matchmate = jsonData.aliens.find((alien) => alien.id === pair) || {};
+  const matchmate = jsonData.aliens.find((alien) => alien.id == pair) || {};
 
   //   if not emptry object
   if (Object.keys(matchmate).length > 0) {
