@@ -2,23 +2,38 @@ const fs = require("fs");
 const Papa = require("papaparse");
 const puppeteer = require("puppeteer");
 const handlebars = require("handlebars");
+const path = require("path"); // Import the 'path' module
+const { captureRejectionSymbol } = require("events");
 
 // Read and parse the CSV file
-const csvData = fs.readFileSync("./test.csv", "utf8");
-const parsedData = Papa.parse(csvData, { header: true }).data;
-const jsonData = JSON.parse(fs.readFileSync("./aliens.json", "utf8"));
+const jsonData = JSON.parse(
+  fs.readFileSync("./aliens_first_round_final.json", "utf8")
+);
 
 // Load the Handlebars template from file
 const templateHtml = fs.readFileSync("./template.html", "utf8");
 const template = handlebars.compile(templateHtml);
 
+// add the matches to the aliens
+jsonData.aliens.map((alien, index) => {
+  alien.match = jsonData.matches[alien.id];
+
+  //   if match is an array, grab the first item
+  if (Array.isArray(alien.match)) {
+    alien.match = alien.match[0];
+  }
+
+  // Resolve the image path and add it to the alien data
+  alien.imagePath = path.resolve(__dirname, alien.imgurl); // Assuming 'image' is the key for the image path in your JSON data
+});
+
 // partition the json into sets of four
 const pagedJson = [];
 
-for (let i = 0; i < jsonData.length; i += 4) {
+for (let i = 0; i < jsonData.aliens.length; i += 4) {
   // get flatten of json with combined keys
   //   slice into 4
-  const partition = jsonData.slice(i, i + 4);
+  const partition = jsonData.aliens.slice(i, i + 4);
   const flatten = [];
   // get flatten of json with combined keys
   const newElement = {};
@@ -34,9 +49,13 @@ for (let i = 0; i < jsonData.length; i += 4) {
     });
   });
 
-  flatten.push(newElement);
-  pagedJson.push(flatten);
+  pagedJson.push(newElement);
 }
+
+// create a test variable with a slice of the first three pages
+const test = pagedJson.slice(0, 3);
+
+// console.log(test[0]);
 
 (async () => {
   const browser = await puppeteer.launch({
@@ -45,7 +64,7 @@ for (let i = 0; i < jsonData.length; i += 4) {
   const page = await browser.newPage();
 
   // Inject the HTML content into the page
-  const htmlContent = template({ data: pagedJson[0] });
+  const htmlContent = template({ data: [test[0]] });
 
   console.log(htmlContent);
 
