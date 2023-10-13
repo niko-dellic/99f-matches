@@ -63,7 +63,15 @@ Object.keys(jsonData.matches).forEach((entry, index) => {
   if (Object.keys(matchmate).length > 0) {
     //   update the matchmate keys with the matchmate prefix
     const matchKeys = Object.keys(matchmate);
-    const newMatchKeys = matchKeys.map((key) => `matchmate-${key}`);
+    const newMatchKeys = matchKeys
+      .map((key) => {
+        // if the key does not contain "cutie"
+        if (!key.includes("cutie") && !key.includes("matchmate")) {
+          return `matchmate-${key}`;
+        }
+      })
+      .filter((key) => key !== undefined);
+
     // add the new keys to the cutie object
     newMatchKeys.forEach((key, index) => {
       cutie[key] = matchmate[keys[index]];
@@ -99,9 +107,18 @@ for (let i = 0; i < matchMaker.length; i += partitionSize) {
 }
 
 // slice none of the json
-const plot = pagedJson.slice(0, pagedJson.length);
+// const plot = pagedJson.slice(0, pagedJson.length);
 // const plot = pagedJson.slice(0, 2);
 
+const start = pagedJson.length - 1;
+const end = pagedJson.length;
+console.log(start);
+
+const plot = pagedJson.slice(start, end);
+
+console.log(plot);
+
+// prettier-ignore
 (async () => {
   const browser = await puppeteer.launch({
     headless: "new",
@@ -123,7 +140,7 @@ const plot = pagedJson.slice(0, pagedJson.length);
 
     // Generate a PDF for each data item
     await page.pdf({
-      path: `./output/output_${plot.indexOf(dataItem)}.pdf`, // Use a unique name for each PDF
+      path: `./output/output_${plot.indexOf(dataItem) + start}.pdf`, // Use a unique name for each PDF
       width: "17in",
       height: "11in",
       margin: {
