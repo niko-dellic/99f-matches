@@ -8,16 +8,36 @@
   font-family: "eurostyle";
 }
 
+/* add michroma font face from google fonts */
+@font-face {
+  font-family: "michroma";
+  /* src: url(https://fonts.googleapis.com/css2?family=Michroma&display=swap); */
+  /* src: url(https://fonts.gstatic.com/s/michroma/v19/PN_zRfy9qWD8fEagAPgzpTnr_w.woff2); */
+  src: url(/Michroma-Regular.ttf);
+}
+
 body {
   /* linear gradient backgrounbd */
   background: linear-gradient(
     45deg,
-    rgba(0, 212, 255, 1) 0%,
-    rgba(9, 9, 121, 1) 65%,
-    rgb(17, 255, 0) 80%,
-    rgba(0, 212, 255, 1) 100%
+    #000033,
+    #330066,
+    #660099,
+    #7777aa,
+    #9900cc,
+    #aaaaee,
+    #cc00ff,
+    #ddbbff,
+    #ff99dd,
+    #ff0066,
+    #ff3333,
+    #ff6600,
+    #dddddd,
+    #ffcccc,
+    #eeeeee
   );
-  font-family: "eurostyle", "Exo 2", "roboto", sans-serif !important;
+
+  font-family: "roboto", sans-serif;
   margin: 3rem;
   color: white;
   /* animation: gradientAnimation 5s linear infinite; */
@@ -43,6 +63,8 @@ h1 {
   /* align center */
   text-align: center;
   gap: 5rem;
+  /* page break before */
+  page-break-before: always;
 }
 
 .grid * {
@@ -162,7 +184,7 @@ img {
 .grid div:nth-child(2),
 .grid div:nth-child(3),
 .grid div:nth-child(4) {
-  /* transform: rotate(180deg); */
+  transform: rotate(180deg);
 }
 
 /* first row of grid upside down */

@@ -1,2235 +1,2694 @@
 {
-  "aliens": [
-    {
-      "realname": "William J. Wakefield",
-      "name": "Willifish J. Technofield",
-      "description": "Fact: Can telepathically communicate with fish.\nFeature: Glows in the dark.\nFlaw: Terrified of earth squirrels.",
-      "imgurl": "img/0.jpg",
-      "partnernum": "102023145",
-      "location": "Quasarinsum",
-      "id": "0"
-    },
-    {
-      "realname": "Eyal Perry",
-      "name": "Yale Paradox",
-      "description": "Communicates through efficient Morse code.\nCan complete tasks lightning-fast.\nOccasionally glitches but reboots quickly.",
-      "imgurl": "img/1.jpg",
-      "partnernum": "102719740",
-      "location": "Syneron",
-      "id": "1"
-    },
-    {
-      "realname": "Philip Tan",
-      "name": "Fliptor Phanstro",
-      "description": "Never judges your questionable wardrobe.\nSweats enough for two.\nGuaranteed to save money on cheese.",
-      "imgurl": "img/2.jpg",
-      "partnernum": "103034776",
-      "location": "Perspirium",
-      "id": "2"
-    },
-    {
-      "realname": "Cathy Fang",
-      "name": "Xa'feth Xi'ler",
-      "description": "Can play Jenga in 5-dimensional space.\nUnlimited cosmic pun potential.\nSometimes forgets which dimension you're in.",
-      "imgurl": "img/3.jpg",
-      "partnernum": "104887448",
-      "location": "Zerimox",
-      "id": "3"
-    },
-    {
-      "realname": "Jan Tiepelt",
-      "name": "Jan Triplox",
-      "description": "Creates art with fallen leaves.\nCan communicate with forest critters.\nHas a weakness for sunsets.",
-      "imgurl": "img/4.jpg",
-      "partnernum": "108734050",
-      "location": "Verdora",
-      "id": "4"
-    },
-    {
-      "realname": "Farhan Khodaee",
-      "name": "Orlak Zenojed",
-      "description": "Fact: Can solve any problem \nFeature: Telepathic communication \nFlaw: Socially awkward mathematician",
-      "imgurl": "img/5.jpg",
-      "partnernum": "109410345",
-      "location": "Solacris",
-      "id": "5"
-    },
-    {
-      "realname": "Alfonso Parra Runio",
-      "name": "Glimmorbubble",
-      "description": "Can juggle exploding glitter bombs.\nZero fear of bubble baths.\nCan't resist shiny trinkets.",
-      "imgurl": "img/6.jpg",
-      "partnernum": "110960710",
-      "location": "Glitternova",
-      "id": "6"
-    },
-    {
-      "realname": "Camron Blackburn",
-      "name": "Camara Blixon",
-      "description": "Can breathe underwater.\nGlows in the dark.\nProne to excessive hugging.",
-      "imgurl": "img/7.jpg",
-      "partnernum": "114944072",
-      "location": "Aquorion",
-      "id": "7"
-    },
-    {
-      "realname": "Ariel Ekblaw",
-      "name": "Floralix Ekbyag",
-      "description": "Only alien that can photosynthesize.\nSpaceships are literal flower bouquets.\nAccidentally creates time paradoxes sometimes.",
-      "imgurl": "img/8.jpg",
-      "partnernum": "115259625",
-      "location": "Lumentia",
-      "id": "8"
-    },
-    {
-      "realname": "Christian Landis",
-      "name": "Exillian Dimarchus",
-      "description": "No \"inside voice\" button.\nCan pan-fry with telekinesis.\nOccasionally speaks in alien puns.",
-      "imgurl": "img/9.jpg",
-      "partnernum": "116970399",
-      "location": "Savora",
-      "id": "9"
-    },
-    {
-      "realname": "Michael Fernandez",
-      "name": "Mikthrall Ferva",
-      "description": "Masters mowing lawns with stilts!\nInvented \"banana-potato\" fusion cuisine.\nCollects novelty rubber chicken toys.",
-      "imgurl": "img/10.jpg",
-      "partnernum": "115447424",
-      "location": "Quixarium",
-      "id": "10"
-    },
-    {
-      "realname": "Mike Hao Jiang",
-      "name": "Mikarnus Jawahvort",
-      "description": "Can paint with thoughts.\nCan morph into anything.\nEasily misunderstood due to telepathy.",
-      "imgurl": "img/11.jpg",
-      "partnernum": "115749344",
-      "location": "Melodria",
-      "id": "11"
-    },
-    {
-      "realname": "Bel\u00e9n Sald\u00edas",
-      "name": "Techb\u00e9len Sald\u00edas",
-      "description": "Fact: Can hack multiple dimensions.\nFeature: Glowing neon tentacles.\nFlaw: Always forgets to charge.",
-      "imgurl": "img/12.jpg",
-      "partnernum": "116654896",
-      "location": "Chromatopia",
-      "id": "12"
-    },
-    {
-      "realname": "Isabelle Iversen",
-      "name": "Ivora Issen",
-      "description": "Gives galaxy's best hugs.\nCan cure alien heartbreak.\nSometimes forgets they have tentacles.",
-      "imgurl": "img/13.jpg",
-      "partnernum": "118458830",
-      "location": "Harmonia",
-      "id": "13"
-    },
-    {
-      "realname": "Tzofi Klinghoffer",
-      "name": "Tzotechlinghive",
-      "description": "Has twelve tentacles for hugs.\nWorships the galactic disco ball.\nIs oddly addicted to lasagna.",
-      "imgurl": "img/14.jpg",
-      "partnernum": "120812175",
-      "location": "Nebuloria",
-      "id": "14"
-    },
-    {
-      "realname": "Han Zhang",
-      "name": "Zhangzor",
-      "description": "Infallible dance moves.\nAlways wears mismatched socks.\nOccasionally eats partners' leftovers.",
-      "imgurl": "img/15.jpg",
-      "partnernum": "121293315",
-      "location": "Quasarxor",
-      "id": "15"
-    },
-    {
-      "realname": "Lucy Li",
-      "name": "Lutech",
-      "description": "Can generate electricity mentally.\nAdorable glowing antennae.\nTends to accidentally delete memories.",
-      "imgurl": "img/16.jpg",
-      "partnernum": "127924335",
-      "location": "Lutara",
-      "id": "16"
-    },
-    {
-      "realname": "Kai Hu",
-      "name": "Kio Shlur",
-      "description": "Never needs to pay electric bills.\nGlows in the dark... naturally.\nOccasionally mistaken for a houseplant.",
-      "imgurl": "img/17.jpg",
-      "partnernum": "131118975",
-      "location": "Chlorios",
-      "id": "17"
-    },
-    {
-      "realname": "Shrestha Mohanty",
-      "name": "Mohantyshrestha",
-      "description": "Fact: Telepathic communication with plants.\nFeature: Glows in the dark.\nFlaw: Sensitive to Earth's gravity.",
-      "imgurl": "img/18.jpg",
-      "partnernum": "131483835",
-      "location": "Euphoros",
-      "id": "18"
-    },
-    {
-      "realname": "Minja Axelsson",
-      "name": "Mijix Fluxon",
-      "description": "Communicates with your pet!\nGlawarps the best home-cooked meals.\nBit of a sugar addict.",
-      "imgurl": "img/19.jpg",
-      "partnernum": "133089500",
-      "location": "Glawarpterra",
-      "id": "19"
-    },
-    {
-      "realname": "Ada Ren-Mitchell",
-      "name": "Treasa Junkwet",
-      "description": "Can turn trash into treasure.\nCreates elaborate paper spaceships.\nHas an aversion to cleaning.",
-      "imgurl": "img/20.jpg",
-      "partnernum": "133178325",
-      "location": "Eternal Waste",
-      "id": "20"
-    },
-    {
-      "realname": "I\u00f1igo Azcarate",
-      "name": "Azca\u00f1igo",
-      "description": "Dresses in stylish intergalactic fashion.\nCan mimic any voice perfectly.\nHas an uncontrollable love for disco dancing.",
-      "imgurl": "img/21.jpg",
-      "partnernum": "133768816",
-      "location": "Zephrosia",
-      "id": "21"
-    },
-    {
-      "realname": "Georine Pierre",
-      "name": "Georine Pierretech",
-      "description": "Can levitate for 30 seconds.\nHas a contagious giggle.\nOccasionally gets lost in time.",
-      "imgurl": "img/22.jpg",
-      "partnernum": "126671985",
-      "location": "Pyroterra",
-      "id": "22"
-    },
-    {
-      "realname": "Hope Schroeder",
-      "name": "Xebor Hopesen",
-      "description": "Can paint with telekinesis.\nNever sleeps, always creates.\nFrequently forgets to eat.",
-      "imgurl": "img/23.jpg",
-      "partnernum": "134312152",
-      "location": "Novastrum",
-      "id": "23"
-    },
-    {
-      "realname": "Robert Bench",
-      "name": "Curious Thriveling",
-      "description": "Eats curiosity for breakfast.\nCan translate cosmic languages. \nForgets to refill spaceship's fuel.",
-      "imgurl": "img/24.jpg",
-      "partnernum": "134886465",
-      "location": "Lushoria",
-      "id": "24"
-    },
-    {
-      "realname": "Patrick Chwalek",
-      "name": "Patralek",
-      "description": "Fact: Loves to dance awkwardly.\nFeature: Glowing tentacle hair.\nFlaw: Always forgets their spaceship keys.",
-      "imgurl": "img/25.jpg",
-      "partnernum": "136549413",
-      "location": "Quasirix",
-      "id": "25"
-    },
-    {
-      "realname": "Vincy Xiao",
-      "name": "Vindy Xaonzo",
-      "description": "Can make you do anything.\nNo more indecisiveness!\nDangerously persuasive in arguments.",
-      "imgurl": "img/26.jpg",
-      "partnernum": "136770075",
-      "location": "Psychoria",
-      "id": "26"
-    },
-    {
-      "realname": "Lasse Mohr",
-      "name": "Lasse Mohrror",
-      "description": "Fun facts about Lasse Mohrror:\n\nCan turn puns into sustenance. \nHas an impressive collection of constellation prizes. \nMay be a tad unoriginal at times.",
-      "imgurl": "img/27.jpg",
-      "partnernum": "137424188",
-      "location": "Punthos",
-      "id": "27"
-    },
-    {
-      "realname": "Manuel Cherep",
-      "name": "Ponguel Cherex",
-      "description": "Also great at air hockey.\nMasters hide and seek champion.\nCan't resist marathons... of sitcoms.",
-      "imgurl": "img/28.jpg",
-      "partnernum": "138605350",
-      "location": "Gravitasia",
-      "id": "28"
-    },
-    {
-      "realname": "Katie Matton",
-      "name": "Kattar Volcanis",
-      "description": "Can teleport across galaxies.\nGlow-in-the-dark lava hair.\nGets overly attached to space rocks.",
-      "imgurl": "img/29.jpg",
-      "partnernum": "147313850",
-      "location": "Pyrosphere",
-      "id": "29"
-    },
-    {
-      "realname": "Alex Berke",
-      "name": "Alestra Frostbane",
-      "description": "Learns salsa, teaches partners.\nMind reader: never second-guessing you.\nForgets own birthday, cooks great.",
-      "imgurl": "img/30.jpg",
-      "partnernum": "176374564",
-      "location": "Glacialoria",
-      "id": "30"
-    },
-    {
-      "realname": "Fangzheng Liu",
-      "name": "Fengrom Liiari",
-      "description": "Fact: Can communicate telepathically with plants.\nFeature: Glows in the dark.\nFlaw: Easily offended by sarcasm.",
-      "imgurl": "img/31.jpg",
-      "partnernum": "139009990",
-      "location": "Hydraelia",
-      "id": "31"
-    },
-    {
-      "realname": "Shivam",
-      "name": "Shisha",
-      "description": "Fact: Breathes sweet scented smoke.\nFeature: Glows in the dark.\nFlaw: Constantly craving sugary treats.",
-      "imgurl": "img/32.jpg",
-      "partnernum": "132692805",
-      "location": "Lumis",
-      "id": "32"
-    },
-    {
-      "realname": "Georgios Varelas",
-      "name": "Gekrox Varlun",
-      "description": "Can calculate galaxy-sized expenses.\nMakes taxes strangely enjoyable.\nOccasionally forgets to blink.",
-      "imgurl": "img/33.jpg",
-      "partnernum": "140744835",
-      "location": "Quaztron",
-      "id": "33"
-    },
-    {
-      "realname": "Ayush Chopra",
-      "name": "Choprayquarium",
-      "description": "Loves to dance like jellyfish\nGrows bioluminescent tentacles when happy\nOften forgets own alien language",
-      "imgurl": "img/34.jpg",
-      "partnernum": "140815384",
-      "location": "Chrominost",
-      "id": "34"
-    },
-    {
-      "realname": "Tobin South",
-      "name": "Tobin Peanutgrow",
-      "description": "Almost always has snacks\nCan crack peanuts with mind\nAlways prepared for movie night",
-      "imgurl": "img/35.jpg",
-      "partnernum": "144788020",
-      "location": "Arachis Farmland",
-      "id": "35"
-    },
-    {
-      "realname": "anurag237@gmail.com",
-      "name": "Anuraglon",
-      "description": "Talks in alien limericks.\nTentacles that give great massages.\nHas a slight marshmallow addiction.",
-      "imgurl": "img/36.jpg",
-      "partnernum": "145040288",
-      "location": "Chromalite",
-      "id": "36"
-    },
-    {
-      "realname": "Jessica Shand",
-      "name": "Jessysand of Climagia",
-      "description": "Communicates through flute solos.\nCan create art out of anything.\nOccasionally forgets to breathe.",
-      "imgurl": "img/37.jpg",
-      "partnernum": "116983744",
-      "location": "Zyphoros",
-      "id": "37"
-    },
-    {
-      "realname": "Paris Myers",
-      "name": "Aquryn Metalix",
-      "description": "Fluent in love languages\nShimmering liquid voice\nRusts when emotionally overwhelmed",
-      "imgurl": "img/38.jpg",
-      "partnernum": "146648612",
-      "location": "Hydronix",
-      "id": "38"
-    },
-    {
-      "realname": "Hang Jiang",
-      "name": "Techligator",
-      "description": "Fact: Eats phones for breakfast.\nFeature: Can communicate through Wi-Fi.\nFlaw: Constantly glitches while dancing.",
-      "imgurl": "img/39.jpg",
-      "partnernum": "147366765",
-      "location": "Electro",
-      "id": "39"
-    },
-    {
-      "realname": "Xiajie Zhang",
-      "name": "Xialien Zhunquad",
-      "description": "Problem-solving magician\nDeep thinker, shallow problems\nOccasionally forgets Earthly responsibilities",
-      "imgurl": "img/40.jpg",
-      "partnernum": "148077644",
-      "location": "Vanishara",
-      "id": "40"
-    },
-    {
-      "realname": "Dian Zhong",
-      "name": "Dizzro Zang",
-      "description": "Reads minds, ignores bad thoughts.\nAlways brings the best snacks.\nBreakdances like nobody's business.",
-      "imgurl": "img/41.jpg",
-      "partnernum": "153015550",
-      "location": "Celebron",
-      "id": "41"
-    },
-    {
-      "realname": "Stephen Holtz ",
-      "name": "Holzarian",
-      "description": "Has two left feet.\nGlows in the dark.\nObsessed with intergalactic karaoke.",
-      "imgurl": "img/42.jpg",
-      "partnernum": "154190750",
-      "location": "Zentura",
-      "id": "42"
-    },
-    {
-      "realname": "Ruby Liu",
-      "name": "Aurubi Uniquenova",
-      "description": "Can effortlessly become your favorite person\nNo need for disguise on Halloween\nSometimes forgets what it is",
-      "imgurl": "img/43.jpg",
-      "partnernum": "155578180",
-      "location": "Prolimorph",
-      "id": "43"
-    },
-    {
-      "realname": "Benedetta D\u2019Elia",
-      "name": "Benedorama Delphian",
-      "description": "Can serenade you anytime, anywhere.\nDancing skills rival Dancing Queen.\nMight break into spontaneous karaoke.",
-      "imgurl": "img/44.jpg",
-      "partnernum": "155797390",
-      "location": "Melodysphere",
-      "id": "44"
-    },
-    {
-      "realname": "michael pusic",
-      "name": "Micropus",
-      "description": "Can juggle 10 flaming asteroids.\nTentacles that give great backrubs.\nGets hangry if not fed.",
-      "imgurl": "img/45.jpg",
-      "partnernum": "156226856",
-      "location": "Lunaria",
-      "id": "45"
-    },
-    {
-      "realname": "Valerie Balog",
-      "name": "Valob Eafar",
-      "description": "Can possess 10 bodies simultaneously.\nLoves hosting celestial dinner parties.\nOccasionally forgets which body they're in.",
-      "imgurl": "img/46.jpg",
-      "partnernum": "166562685",
-      "location": "Symbinor",
-      "id": "46"
-    },
-    {
-      "realname": "Dexter Callender",
-      "name": "Dextercorn",
-      "description": "Silently juggles rainbow-colored quills.\nCan communicate telepathically with chickens.\nOccasionally falls asleep mid-conversation.",
-      "imgurl": "img/47.jpg",
-      "partnernum": "157151410",
-      "location": "Lumisire",
-      "id": "47"
-    },
-    {
-      "realname": "Luis Alonso Pastor",
-      "name": "Lushalon Crescendo",
-      "description": "Photosynthetic partner: Guaranteed fresh oxygen!\nSolar-powered snuggles: Warmth without electric bills.\nSnooze-a-thon champion: Medals for marathon naps.",
-      "imgurl": "img/48.jpg",
-      "partnernum": "161088158",
-      "location": "Verdora",
-      "id": "48"
-    },
-    {
-      "realname": "Mary Chan",
-      "name": "Merriax Raynfall",
-      "description": "Never needs an umbrella\nMaster of condensing conversations\nSometimes talks in shorthand",
-      "imgurl": "img/49.jpg",
-      "partnernum": "162936904",
-      "location": "Planimbia",
-      "id": "49"
-    },
-    {
-      "realname": "Abby Obeng-Marnu",
-      "name": "Abbyfari Obeng-Marnu!",
-      "description": "Fact: Travelled through 10 wormholes.\nFeature: Glowing tentacles that hypnotize.\nFlaw: Obsessed with chewing on asteroids.",
-      "imgurl": "img/50.jpg",
-      "partnernum": "139057448",
-      "location": "Zelthran",
-      "id": "50"
-    },
-    {
-      "realname": "Mrinalini Singha",
-      "name": "Mrinxia Singtat",
-      "description": "Can massage for lightyears.\nGlows with cosmic charm.\nHas an insatiable appetite.",
-      "imgurl": "img/51.jpg",
-      "partnernum": "164733752",
-      "location": "Luminova",
-      "id": "51"
-    },
-    {
-      "realname": "Marcus Edmonds",
-      "name": "Marcedus Extratech",
-      "description": "Fact: Eats entire pizzas, crust first.\nFeature: Glows in the dark.\nFlaw: Develops sudden ping pong obsession.",
-      "imgurl": "img/52.jpg",
-      "partnernum": "165323696",
-      "location": "Xylovon",
-      "id": "52"
-    },
-    {
-      "realname": "Jue Ma",
-      "name": "Jue Mareo",
-      "description": "Fact: Absorbs energy from surroundings.\nFeature: Glowing neon tentacles.\nFlaw: Has an insatiable appetite.",
-      "imgurl": "img/53.jpg",
-      "partnernum": "165742395",
-      "location": "Nebulos",
-      "id": "53"
-    },
-    {
-      "realname": "Linyue Zhang",
-      "name": "Linzhang the Caffeineless",
-      "description": "Can levitate while sleeping\nSmiles even while dreaming\nSnores in perfect harmony",
-      "imgurl": "img/54.jpg",
-      "partnernum": "166737550",
-      "location": "Somnia",
-      "id": "54"
-    },
-    {
-      "realname": "Mehul Agarwal",
-      "name": "Lexis Chronosmoke",
-      "description": "Infinite laughter generator!\nCan do aerial flips!\nOccasionally arrives fashionably late...",
-      "imgurl": "img/55.jpg",
-      "partnernum": "168930032",
-      "location": "Chromaflame",
-      "id": "55"
-    },
-    {
-      "realname": "Anne Curtis",
-      "name": "Nneacust Rnis",
-      "description": "Can ride gravity-defying waves.\nHas a perpetual suntan.\nOccasionally gets lost in the ocean.",
-      "imgurl": "img/56.jpg",
-      "partnernum": "169000448",
-      "location": "Aquorid",
-      "id": "56"
-    },
-    {
-      "realname": "Gauri Agarwal",
-      "name": "Gaurifish",
-      "description": "Can levitate... sometimes.\nCan breathe underwater indefinitely.\nCan eat planets... on accident.",
-      "imgurl": "img/57.jpg",
-      "partnernum": "169335790",
-      "location": "Luminara",
-      "id": "57"
-    },
-    {
-      "realname": "Nathan Whitmore",
-      "name": "Neitham Whgit",
-      "description": "Mind-reader without an off-switch.\nAble to navigate virtual worlds effortlessly.\nHas an adorable obsession with Canadian geese.",
-      "imgurl": "img/58.jpg",
-      "partnernum": "169652512",
-      "location": "Simultron",
-      "id": "58"
-    },
-    {
-      "realname": "Indrajeet Haldar",
-      "name": "Indrija Malnick",
-      "description": "Can levitate while laughing.\nAlways remembers everyone's birthdays.\nHas a tendency to adopt stray asteroids.",
-      "imgurl": "img/59.jpg",
-      "partnernum": "159017308",
-      "location": "Whisperia",
-      "id": "59"
-    },
-    {
-      "realname": "Justin Kipness",
-      "name": "Kiptun Xalas",
-      "description": "Eats cosmic tacos with no regrets.\nCan teleport via bike.\nBeware intergalactic dad jokes.",
-      "imgurl": "img/60.jpg",
-      "partnernum": "169884784",
-      "location": "Aquaflora",
-      "id": "60"
-    },
-    {
-      "realname": "Ne Myo Han",
-      "name": "Neptio the Tiddletat Farmer",
-      "description": "Effortlessly walks on brewdios\nObsessed with tiddletat fashion\nOccasionally forgets to harvest tiddletats",
-      "imgurl": "img/61.jpg",
-      "partnernum": "170566690",
-      "location": "Croporia",
-      "id": "61"
-    },
-    {
-      "realname": "Becky Lin",
-      "name": "Veckanlina",
-      "description": "Fact: Highly skilled prankster extraordinaire!\nFeature: Glows in the dark.\nFlaw: Has an insatiable appetite.",
-      "imgurl": "img/62.jpg",
-      "partnernum": "167155024",
-      "location": "Verlixi",
-      "id": "62"
-    },
-    {
-      "realname": "Angela Vujic",
-      "name": "Anglex Vujifrex",
-      "description": "Never loses car keys.\nSings in intergalactic choir.\nAlways forgets birthdays.",
-      "imgurl": "img/63.jpg",
-      "partnernum": "179029010",
-      "location": "Remnoria",
-      "id": "63"
-    },
-    {
-      "realname": "Perrin Davidson",
-      "name": "Derron Pavidsen",
-      "description": "Expert at intergalactic karaoke.\nGravity-defying dance moves.\nAlways gets lost in space.",
-      "imgurl": "img/64.jpg",
-      "partnernum": "172271385",
-      "location": "Whalopia",
-      "id": "64"
-    },
-    {
-      "realname": "Aditi Garg",
-      "name": "Adritor Gling",
-      "description": "Can predict your future.\nMind-reader extraordinaire.\nOccasionally predicts winning lottery numbers.",
-      "imgurl": "img/65.jpg",
-      "partnernum": "132926625",
-      "location": "Alvorith",
-      "id": "65"
-    },
-    {
-      "realname": "Duncan Lee",
-      "name": "Daxtrix Chee",
-      "description": "Ultimate party snack improviser\nFoot finger contortionist\nTerrible at following instructions",
-      "imgurl": "img/66.jpg",
-      "partnernum": "175032884",
-      "location": "Doritox",
-      "id": "66"
-    },
-    {
-      "realname": "Matthias Hofer",
-      "name": "Matthias Hofertron",
-      "description": "Master of interstellar dance.\nBioluminescent tentacle party trick.\nInability to understand sarcasm.",
-      "imgurl": "img/67.jpg",
-      "partnernum": "165195890",
-      "location": "Astrelope",
-      "id": "67"
-    },
-    {
-      "realname": "Valerie Chen",
-      "name": "Cheniferous Valsari",
-      "description": "Fact: Speaks fluent Klingonian.\nFeature: Has bright, multi-colored tentacles.\nFlaw: Occasionally forgets to blink.",
-      "imgurl": "img/68.jpg",
-      "partnernum": "163634510",
-      "location": "Chromaluna",
-      "id": "68"
-    },
-    {
-      "realname": "Berta Vall",
-      "name": "Sportta Exploreza",
-      "description": "Can talk, *no words*\nChanges color for fun\nTerrible at landing spaceships",
-      "imgurl": "img/69.jpg",
-      "partnernum": "176632390",
-      "location": "Gymsphere",
-      "id": "69"
-    },
-    {
-      "realname": "Yan Luo",
-      "name": "Techlyan",
-      "description": "Fact: Can send cat videos telepathically.\nFeature: Glows in the dark.\nFlaw: Gets sidetracked by intergalactic memes.",
-      "imgurl": "img/70.jpg",
-      "partnernum": "182618810",
-      "location": "Xenoplasmia",
-      "id": "70"
-    },
-    {
-      "realname": "Miela Gross",
-      "name": "Meepel Grix",
-      "description": "Can belly roll on demand!\nAlways ready for a food challenge.\nMay accidentally roll away mid-conversation.",
-      "imgurl": "img/71.jpg",
-      "partnernum": "147382335",
-      "location": "Quigorp",
-      "id": "71"
-    },
-    {
-      "realname": "Ilse Hill",
-      "name": "Ilsema Hilmom",
-      "description": "Predicts lottery numbers. \nHas x-ray vision glasses. \nOften gets lost in visions.",
-      "imgurl": "img/72.jpg",
-      "partnernum": "116251550",
-      "location": "Zyphora",
-      "id": "72"
-    },
-    {
-      "realname": "Nina Roussille",
-      "name": "Zina Dazzilar",
-      "description": "Fact: Zina never misses a beat\nFeature: Dazzling disco diva\nFlaw: Sometimes dance floor domination",
-      "imgurl": "img/73.jpg",
-      "partnernum": "177997352",
-      "location": "Glittergroove",
-      "id": "73"
-    },
-    {
-      "realname": "Elinor Poole-Dayan ",
-      "name": "Elinea Beautiscape",
-      "description": "Can talk to plants!\nHome planet is stunningly breathtaking.\nCan be a bit nostalgic.",
-      "imgurl": "img/74.jpg",
-      "partnernum": "180038452",
-      "location": "Verdelight",
-      "id": "74"
-    },
-    {
-      "realname": "Wylie Chang",
-      "name": "Wylfishang",
-      "description": "Double-jointed tentacles for cuddling.\nCan levitate while meditating.\nConstantly mispronounces popular Earth names.",
-      "imgurl": "img/75.jpg",
-      "partnernum": "181088985",
-      "location": "Vexira",
-      "id": "75"
-    },
-    {
-      "realname": "Gauri Gupta",
-      "name": "Gauri Guptanian",
-      "description": "Sparkling Eyes: Reflects cosmic wonder\nTentacle Tickles: Prone to playful surprises\nMemory Mix-up: Endearing forgetfulness",
-      "imgurl": "img/76.jpg",
-      "partnernum": "182702024",
-      "location": "Ziridian",
-      "id": "76"
-    },
-    {
-      "realname": "Phillip Cherner",
-      "name": "Funkor Dancernativo",
-      "description": "Spontaneous dance parties guaranteed!\nCan talk to any creature.\nOccasionally gets stuck in dance-off competitions",
-      "imgurl": "img/77.jpg",
-      "partnernum": "173499952",
-      "location": "Rhythmosphere",
-      "id": "77"
-    },
-    {
-      "realname": "Alessandro Buzzi",
-      "name": "Allesandro Buzzuplanet",
-      "description": "Can levitate while eating cookies.\nShiny bald head attracts good luck.\nTerrible at hiding cookie crumbs.",
-      "imgurl": "img/78.jpg",
-      "partnernum": "183408615",
-      "location": "Crumbsia",
-      "id": "78"
-    },
-    {
-      "realname": "Jurgis Ruza",
-      "name": "Jurtelix Ruzatron",
-      "description": "Fact: Can communicate through interpretive dance.\nFeature: Has glowing tentacles for hair.\nFlaw: Constantly mispronounces Earth words.",
-      "imgurl": "img/79.jpg",
-      "partnernum": "186753688",
-      "location": "\"Vortustria\"",
-      "id": "79"
-    },
-    {
-      "realname": "Emma Batson",
-      "name": "Marella Vortex",
-      "description": "Can recite entire encyclopedia.\nTentacles for high-fives.\nJokes dissolve into giggles.",
-      "imgurl": "img/80.jpg",
-      "partnernum": "186878110",
-      "location": "Aquora",
-      "id": "80"
-    },
-    {
-      "realname": "Jonny Cohen",
-      "name": "Cohenix",
-      "description": "Fact: Can communicate through interpretive dance.\nFeature: Glowing tentacles for hugs.\nFlaw: Often gets lost in other dimensions.",
-      "imgurl": "img/81.jpg",
-      "partnernum": "189406984",
-      "location": "Quarkos",
-      "id": "81"
-    },
-    {
-      "realname": "Vicole Li",
-      "name": "Vicolatron",
-      "description": "Can levitate small objects.\nNever forgets a person's birthday.\nGets easily distracted by shiny objects.",
-      "imgurl": "img/82.jpg",
-      "partnernum": "190888155",
-      "location": "Syntharis",
-      "id": "82"
-    },
-    {
-      "realname": "Cassie Lee",
-      "name": "Casleen Falorra",
-      "description": "Can serenade with cosmic melodies\nAlways up for an adventure\nCan communicate without words",
-      "imgurl": "img/83.jpg",
-      "partnernum": "195857415",
-      "location": "Glitteron",
-      "id": "83"
-    },
-    {
-      "realname": "Jo\u00e3o Loula",
-      "name": "Joulala",
-      "description": "Can communicate through interpretive dance.\nGlows in the dark.\nOccasionally gets sucked into time vortexes.",
-      "imgurl": "img/84.jpg",
-      "partnernum": "196421715",
-      "location": "Ziratul",
-      "id": "84"
-    },
-    {
-      "realname": "Lisia Pertiwi",
-      "name": "Pelisia Vertix",
-      "description": "Fact: Can shape-shift into snacks.\nFeature: Has nine eyes. \nFlaw: Constantly mispronounces common words.",
-      "imgurl": "img/85.jpg",
-      "partnernum": "197704670",
-      "location": "Pyroflix",
-      "id": "85"
-    },
-    {
-      "realname": "Shayne Longpre",
-      "name": "Shaynepre",
-      "description": "Fact: Has six tentacles for multitasking\nFeature: Glows in the dark\nFlaw: Constantly speaks in rhymes",
-      "imgurl": "img/86.jpg",
-      "partnernum": "133471275",
-      "location": "Aetherius",
-      "id": "86"
-    },
-    {
-      "realname": "Anna Stansbury",
-      "name": "Stanna Blanstury",
-      "description": "Colorful dancing alien Sunny.\nHandsome and charming, with a killer smile.\nHas a slight addiction to gum.",
-      "imgurl": "img/87.jpg",
-      "partnernum": "123757335",
-      "location": "Zephyrionex",
-      "id": "87"
-    },
-    {
-      "realname": "Guillermo Herrera-Arcos",
-      "name": "The alien name is Guitrachthos",
-      "description": "Has a pet space sloth.\nCan flawlessly play air guitar.\nTerrible at intergalactic karaoke.",
-      "imgurl": "img/88.jpg",
-      "partnernum": "199432948",
-      "location": "Zephritheia",
-      "id": "88"
-    },
-    {
-      "realname": "Naana Obeng-Marnu",
-      "name": "Noolara Cal-enjoyer",
-      "description": "Floats pancakes for breakfast.\nCan levitate during movie marathons.\nSometimes telepathy leads to awkwardness.",
-      "imgurl": "img/89.jpg",
-      "partnernum": "196214265",
-      "location": "Blissoria",
-      "id": "89"
-    },
-    {
-      "realname": "Rachele Didero",
-      "name": "Rachelle Shido",
-      "description": "Always glowing pink\nCan make you shine too\nTerrible at blending in",
-      "imgurl": "img/90.jpg",
-      "partnernum": "200328232",
-      "location": "Glimmerdusk",
-      "id": "90"
-    },
-    {
-      "realname": "Beatrice Quagliarini",
-      "name": "QuagliariniTech",
-      "description": "Flaw: Frequently forgets to blink.\nFeature: Has a glowing tentacle.\nFact: Communicates through interpretive dance.",
-      "imgurl": "img/91.jpg",
-      "partnernum": "200879055",
-      "location": "Nebulon",
-      "id": "91"
-    },
-    {
-      "realname": "Rachele Invernizzi",
-      "name": "Invernifish",
-      "description": "Breathes ice, makes cool drinks.\nGlows in the dark parties.\nLeaves slippery trails like disco dance floor.",
-      "imgurl": "img/92.jpg",
-      "partnernum": "155709416",
-      "location": "Cryofinale",
-      "id": "92"
-    },
-    {
-      "realname": "Riccardo Giorgino",
-      "name": "Riccardogino",
-      "description": "Quick-witted and pun-derful.\nCan cook intergalactic pasta.\nOverpowers conversation with loudness.",
-      "imgurl": "img/93.jpg",
-      "partnernum": "182028483",
-      "location": "Zephyrix",
-      "id": "93"
-    },
-    {
-      "realname": "Jon Ferguson",
-      "name": "Ferngol Vonjon",
-      "description": "Can turn any outfit fabulous.\nSings like a fashion icon.\nMight judge your fashion choices.",
-      "imgurl": "img/94.jpg",
-      "partnernum": "201168592",
-      "location": "Chromalux",
-      "id": "94"
-    },
-    {
-      "realname": "Selena Zhang",
-      "name": "Selenazhangalite",
-      "description": "Can levitate tiny objects.\nBioluminescent when happy.\nObsessed with collecting space rocks.",
-      "imgurl": "img/95.jpg",
-      "partnernum": "203055622",
-      "location": "Luminesia",
-      "id": "95"
-    },
-    {
-      "realname": "Rita Issa",
-      "name": "Plexigarita Plexfus",
-      "description": "Predicts your cravings instantly\nCommunicates through mind-reading telepathy\nOccasionally merges with furniture accidentally",
-      "imgurl": "img/96.jpg",
-      "partnernum": "203972715",
-      "location": "Plexifusion",
-      "id": "96"
-    },
-    {
-      "realname": "Isabella Pu",
-      "name": "Isabellidus Rankingchef",
-      "description": "Hand-Fart Extraordinaire: High-pitched DOY mastery!\nWhisk Away Your Worries: Expert chef with culinary wizardry!\nDanced My Way to Wall Street: Raccoon-turned-financial guru!",
-      "imgurl": "img/97.jpg",
-      "partnernum": "204134385",
-      "location": "Racuonia",
-      "id": "97"
-    },
-    {
-      "realname": "Andrew Mazof",
-      "name": "Andromaz Eirthol",
-      "description": "Can eat cosmic amounts (digestive miracle)\nTentacles for sensual tickling\nHas commitment issues (oops)",
-      "imgurl": "img/98.jpg",
-      "partnernum": "204756904",
-      "location": "Zephyrion",
-      "id": "98"
-    },
-    {
-      "realname": "Eve Meltzer",
-      "name": "Melzertilian",
-      "description": "Master of intergalactic cuisine.\nCan communicate telepathically with plants.\nHas a laugh that's out of this world.",
-      "imgurl": "img/99.jpg",
-      "partnernum": "182622405",
-      "location": "Quasarion",
-      "id": "99"
-    },
-    {
-      "realname": "Annika Thomas",
-      "name": "Arianna Machina",
-      "description": "Fact: Has robot dance parties. \nFeature: Can build you robots. \nFlaw: Occasionally mixes up human emotions.",
-      "imgurl": "img/100.jpg",
-      "partnernum": "125222330",
-      "location": "NovaTechria",
-      "id": "100"
-    },
-    {
-      "realname": "Riccardo Fiorista",
-      "name": "Riccorodsian Speedrider",
-      "description": "Can levitate vehicles with mind\nAlways finds lost car keys\nFrequently forgets to pay transit fare",
-      "imgurl": "img/101.jpg",
-      "partnernum": "205843365",
-      "location": "Velocirion",
-      "id": "101"
-    },
-    {
-      "realname": "ana schon",
-      "name": "Znaa Glupro",
-      "description": "Can mimic any sound perfectly\nHair stays perfectly in place\nConstantly tells terrible dad jokes",
-      "imgurl": "img/102.jpg",
-      "partnernum": "208693628",
-      "location": "Floridrium",
-      "id": "102"
-    },
-    {
-      "realname": "Jason Ng",
-      "name": "Jasontop Nguum",
-      "description": "Pumpkin soup connoisseur \nEyes twinkle with cosmic knowledge \nEasily distracted by cosmic wonders",
-      "imgurl": "img/103.jpg",
-      "partnernum": "105016424",
-      "location": "Pumpanth",
-      "id": "103"
-    },
-    {
-      "realname": "Austin C. Davis",
-      "name": "Budzis Triflix",
-      "description": "Always high on life\nExpert bicycle trickster\nParanoid about alien drivers",
-      "imgurl": "img/104.jpg",
-      "partnernum": "140207067",
-      "location": "CannaSpin",
-      "id": "104"
-    },
-    {
-      "realname": "Vir Chachra",
-      "name": "Chirachraffiti",
-      "description": "Can write poetry with chirps.\nFluorescent colors change with mood.\nGets easily distracted by shiny objects.",
-      "imgurl": "img/105.jpg",
-      "partnernum": "209027128",
-      "location": "Glitternova",
-      "id": "105"
-    },
-    {
-      "realname": "Tien Nguyen",
-      "name": "Tienget'Ngein",
-      "description": "Can explode on command.\nGlowing bioluminescent tentacles.\nSometimes forgets to reassemble.",
-      "imgurl": "img/106.jpg",
-      "partnernum": "224703405",
-      "location": "Novaaris",
-      "id": "106"
-    },
-    {
-      "realname": "Candice Chen",
-      "name": "Candrake Chen",
-      "description": "Fact: Masters the art of teleportation.\nFeature: Rainbow-colored tentacle hair.\nFlaw: Communicates solely in interpretive dance.",
-      "imgurl": "img/107.jpg",
-      "partnernum": "209309704",
-      "location": "Aetherion",
-      "id": "107"
-    },
-    {
-      "realname": "Shamkhal ",
-      "name": "Yawnvax",
-      "description": "Can telepathically pick up WiFi signals\nHas the softest tentacle pillows\nHypnotic snoring cures insomnia",
-      "imgurl": "img/108.jpg",
-      "partnernum": "211319745",
-      "location": "Somnacor",
-      "id": "108"
-    },
-    {
-      "realname": "Aaron Householder",
-      "name": "Techarron",
-      "description": "Fact: Can hack anything, legally.\nFeature: Glowing neon swirls on skin.\nFlaw: Always misplaces ray gun.",
-      "imgurl": "img/109.jpg",
-      "partnernum": "166706530",
-      "location": "Spectraflux",
-      "id": "109"
-    },
-    {
-      "realname": "Leticia",
-      "name": "Letificia",
-      "description": "Fun Fact #1: Can levitate when happy.\n\nFun Fact #2: Glows in the dark.\n\nFun Fact #3: Has a slight magnetic personality.",
-      "imgurl": "img/110.jpg",
-      "partnernum": "214748488",
-      "location": "Blissoria",
-      "id": "110"
-    },
-    {
-      "realname": "Diego Antonelli",
-      "name": "Diegotalionelli",
-      "description": "Fact: Can levitate small objects.\nFeature: Glowing tentacles for hugging.\nFlaw: Always speaks in rhymes.",
-      "imgurl": "img/111.jpg",
-      "partnernum": "216392216",
-      "location": "Zerophilix",
-      "id": "111"
-    },
-    {
-      "realname": "Alan Han",
-      "name": "Lanar Alanesh",
-      "description": "Pattern-shattering rebel, seeking cosmic adventure!\nMind-reading, one intelligent alien!\nOccasional overthinking, but mostly charming.",
-      "imgurl": "img/112.jpg",
-      "partnernum": "221397165",
-      "location": "Transidian",
-      "id": "112"
-    },
-    {
-      "realname": "Ainhoa Genua Cervino",
-      "name": "Techervino",
-      "description": "Can fix anything with wires.\nGlows in the dark.\nOccasionally gets stuck in \"mute\" mode.",
-      "imgurl": "img/113.jpg",
-      "partnernum": "155711205",
-      "location": "Voltara",
-      "id": "113"
-    },
-    {
-      "realname": "Naroa Coretti",
-      "name": "Corettirona",
-      "description": "Fun Facts about Corettirona:\nCan juggle antimatter with ease.\nSings love ballads in Klingon.\nSneezes glitter, not snot.",
-      "imgurl": "img/114.jpg",
-      "partnernum": "193486028",
-      "location": "Pyroxis",
-      "id": "114"
-    },
-    {
-      "realname": "Aastha Shah",
-      "name": "Aqora Sabella",
-      "description": "Never overflows the dishwasher.\nCan breathe underwater indefinitely.\nTerrible at parallel parking.",
-      "imgurl": "img/115.jpg",
-      "partnernum": "179904784",
-      "location": "Aquaflora",
-      "id": "115"
-    },
-    {
-      "realname": "Andrew Bahle",
-      "name": "The new fun alien name is \"Bahlern\"!",
-      "description": "Fact: Absorbs sunlight for energy.\nFeature: Glows in the dark.\nFlaw: Has a compulsive hoarding habit.",
-      "imgurl": "img/116.jpg",
-      "partnernum": "223878416",
-      "location": "Zyroth",
-      "id": "116"
-    },
-    {
-      "realname": "Alena Chulick",
-      "name": "Alenatrick Omnivorix",
-      "description": "Eats like a bottomless pit\nCan make you feel validated\nIncredibly picky eater",
-      "imgurl": "img/117.jpg",
-      "partnernum": "255308932",
-      "location": "Gluttonvora",
-      "id": "117"
-    },
-    {
-      "realname": "Ulugbek Abdullaev",
-      "name": "Ulosvelk Abdulaev",
-      "description": "Master of extraterrestrial choreography\nSlides through life effortlessly\nProne to interstellar wanderlust",
-      "imgurl": "img/118.jpg",
-      "partnernum": "224888895",
-      "location": "Frolickine",
-      "id": "118"
-    },
-    {
-      "realname": "Artem Lukoianov",
-      "name": "Aratems Lukozianox",
-      "description": "Can levitate while sleeping.\nWhispers ancient wisdom during showers.\nHas a tendency to teleport unexpectedly.",
-      "imgurl": "img/119.jpg",
-      "partnernum": "226540432",
-      "location": "Omnicosmos",
-      "id": "119"
-    },
-    {
-      "realname": "Oganes Manasian",
-      "name": "Ogos Trabian",
-      "description": "Can brew a mean tea\nCan control their mood\nEasily gets coffee jitters",
-      "imgurl": "img/120.jpg",
-      "partnernum": "206393265",
-      "location": "Coffico",
-      "id": "120"
-    },
-    {
-      "realname": "Francesca Incalza",
-      "name": "Francessi Incalzor",
-      "description": "Secretly grants wishes... mostly.\nCan bake perfect cookies.\nRandom acts of kindness... awkwardly.",
-      "imgurl": "img/121.jpg",
-      "partnernum": "227443340",
-      "location": "Lumisomnia",
-      "id": "121"
-    },
-    {
-      "realname": "she islucky",
-      "name": "Flubblewok Curiositea",
-      "description": "Fact: Can levitate small objects.\nFeature: Has a contagious laughter.\nFlaw: Often gets lost in thought.",
-      "imgurl": "img/122.jpg",
-      "partnernum": "231111392",
-      "location": "Zephyrion",
-      "id": "122"
-    },
-    {
-      "realname": "David Annenberg",
-      "name": "Dax Irisatek",
-      "description": "Can juggle their eyeballs.\nTakes fun to new heights.\nRelentlessly curious, sometimes too much.",
-      "imgurl": "img/123.jpg",
-      "partnernum": "231465968",
-      "location": "Zephora",
-      "id": "123"
-    },
-    {
-      "realname": "Sean Patrick McKay",
-      "name": "Sharkrul Mivak",
-      "description": "Fact: Master of Universal Chit-Chat\nFeature: Fluent in all tongues\nFlaw: Parties for one only",
-      "imgurl": "img/124.jpg",
-      "partnernum": "172610492",
-      "location": "Lonlisar",
-      "id": "124"
-    },
-    {
-      "realname": "Perry Naseck",
-      "name": "Perilax Nostrek",
-      "description": "Can relive cherished moments perfectly.\nCan erase bad memories instantly.\nOccasionally forgets own memories.",
-      "imgurl": "img/125.jpg",
-      "partnernum": "131819506",
-      "location": "Quontaris",
-      "id": "125"
-    },
-    {
-      "realname": "Christina Meyer",
-      "name": "Crysteron Merial",
-      "description": "Can shape-shift into anything (feature)\nHas a contagious laughter (fact)\nOccasionally misplaces their teleporter (flaw)",
-      "imgurl": "img/126.jpg",
-      "partnernum": "129063812",
-      "location": "Aquashard",
-      "id": "126"
-    },
-    {
-      "realname": "Karin Heider",
-      "name": "Korax Hider",
-      "description": "Busts out moves unexpectedly.\nHilarious lack of rhythm.\nMaster of hiding skills.",
-      "imgurl": "img/127.jpg",
-      "partnernum": "138690045",
-      "location": "Lumientis",
-      "id": "127"
-    },
-    {
-      "realname": "Anna Buchele",
-      "name": "Annavirtual Experiencereality",
-      "description": "Ultimate dreamcatcher\nInfinite virtual memory\nReality glitch generator",
-      "imgurl": "img/128.jpg",
-      "partnernum": "188953970",
-      "location": "Illusiorbit",
-      "id": "128"
-    },
-    {
-      "realname": "Ambra D\u2019Imperio ",
-      "name": "Quizzon Inquireo",
-      "description": "Can talk to pugs.\nCan levitate using questions.\nShares Popcorn with squirrels.",
-      "imgurl": "img/129.jpg",
-      "partnernum": "231923488",
-      "location": "Solvoria",
-      "id": "129"
-    },
-    {
-      "realname": "Shruti Dhariwal",
-      "name": "Shrutivolt Dhariwal",
-      "description": "Fact: Eats lightning for breakfast.\nFeature: Glows in the dark.\nFlaw: Constantly loses sense of direction.",
-      "imgurl": "img/130.jpg",
-      "partnernum": "238162815",
-      "location": "Luminor",
-      "id": "130"
-    },
-    {
-      "realname": "Sophia Wienbar",
-      "name": "Zophazar Wibarxi",
-      "description": "Can levitate while dancing!\nCan make any food taste amazing\nLoses track of time",
-      "imgurl": "img/131.jpg",
-      "partnernum": "213484172",
-      "location": "Lumivida",
-      "id": "131"
-    },
-    {
-      "realname": "Matteo Castellani",
-      "name": "Mattalastellan",
-      "description": "Can eat pasta unconsciously.\nSecretly has a granola stash.\nNoodle twirling expert.",
-      "imgurl": "img/132.jpg",
-      "partnernum": "238238864",
-      "location": "Carbontellix",
-      "id": "132"
-    },
-    {
-      "realname": "John Devine",
-      "name": "Johnny \"Texaco\" Divine",
-      "description": "Can hula hoop in space\nExpert line dancer\nMixes air guitar and yodeling",
-      "imgurl": "img/133.jpg",
-      "partnernum": "208059752",
-      "location": "Petrolith",
-      "id": "133"
-    },
-    {
-      "realname": "Luke Hyma ",
-      "name": "Lukenar Hymblox",
-      "description": "Can juggle telephones... while asleep.\nCan read minds... accidentally.\nHas a contagious laughter disorder.",
-      "imgurl": "img/134.jpg",
-      "partnernum": "234587199",
-      "location": "Bureaublitz",
-      "id": "134"
-    },
-    {
-      "realname": "Francesc Canalejo Codina",
-      "name": "Frantechno Codinalejo",
-      "description": "Fun facts about Frantechno Codinalejo:\n\nFact: Speaks in binary code.\nFeature: Glowing antennae headgear.\nFlaw: Terrible at earthling small talk.",
-      "imgurl": "img/135.jpg",
-      "partnernum": "242126704",
-      "location": "Zantralis",
-      "id": "135"
-    },
-    {
-      "realname": "Guzzo",
-      "name": "Guzzolobida",
-      "description": "Always brings the party vibes.\nCan conjure delicious snacks.\nSlightly too obsessed with cheese.",
-      "imgurl": "img/136.jpg",
-      "partnernum": "190889986",
-      "location": "Zylvaterra",
-      "id": "136"
-    },
-    {
-      "realname": "Sasha Podshivalova",
-      "name": "Sashi Poditationalaxy",
-      "description": "Uses mind reading excessively beyond measure.\nHas 8 eyes for double the perspectives.\nIs prone to spontaneous dance-offs.",
-      "imgurl": "img/137.jpg",
-      "partnernum": "105064552",
-      "location": "Deliriumrex",
-      "id": "137"
-    },
-    {
-      "realname": "Alexa Balmuth",
-      "name": "Alxethia Balmuth",
-      "description": "Mind Reader: Knows your favorite food.\nTentacles: Amazing at massages.\nLactose Intolerant: No cheesy pickup lines.",
-      "imgurl": "img/138.jpg",
-      "partnernum": "242182930",
-      "location": "Prismoria",
-      "id": "138"
-    },
-    {
-      "realname": "Sulin Sardoschau",
-      "name": "Sardoschauvis",
-      "description": "Can levitate small objects.\nGlows in the dark.\nAlways sings slightly off-key.",
-      "imgurl": "img/139.jpg",
-      "partnernum": "245618415",
-      "location": "Nebulora",
-      "id": "139"
-    },
-    {
-      "realname": "Simon Sardoschau",
-      "name": "Simix Spenchosau",
-      "description": "Never loses a coin toss.\nConstantly performs impressive coin tricks.\nHas an uncontrollable urge to flip coins during every conversation.",
-      "imgurl": "img/140.jpg",
-      "partnernum": "248658488",
-      "location": "Flipporia",
-      "id": "140"
-    },
-    {
-      "realname": "Azfar Sulaiman",
-      "name": "Azfarulaiman",
-      "description": "Can imitate any musical instrument\nSkin glows in the dark\nIs addicted to playing pranks",
-      "imgurl": "img/141.jpg",
-      "partnernum": "250876395",
-      "location": "Xylophoron",
-      "id": "141"
-    },
-    {
-      "realname": "Manuj Dhariwal",
-      "name": "Dharian Munkweezle",
-      "description": "Never uses public restrooms.\nCan pause time whenever.\nEasily loses track of time.",
-      "imgurl": "img/142.jpg",
-      "partnernum": "110132055",
-      "location": "Temporium",
-      "id": "142"
-    },
-    {
-      "realname": "Samantha Chan",
-      "name": "Sumatra Solaris",
-      "description": "Can control minds, but... (flaw)\nAlways up for great food (feature)\nLives on a bustling planet (fact)",
-      "imgurl": "img/143.jpg",
-      "partnernum": "251302370",
-      "location": "Verdantron",
-      "id": "143"
-    },
-    {
-      "realname": "Diego morra",
-      "name": "Dioggo M\u00f6rreb",
-      "description": "Absorbs sadness, spreads happiness\nTentacles double as massage therapists\nTerrible at playing paddle",
-      "imgurl": "img/144.jpg",
-      "partnernum": "141213584",
-      "location": "Lacrymist",
-      "id": "144"
-    },
-    {
-      "realname": "Dylan Collins",
-      "name": "Dalan Crolinas",
-      "description": "Can juggle invisible objects.\nNose that always knows.\nConstantly loses own belongings.",
-      "imgurl": "img/145.jpg",
-      "partnernum": "252551048",
-      "location": "Fluxora",
-      "id": "145"
-    },
-    {
-      "realname": "Kevin Barker",
-      "name": "Kevlar Woodgrove",
-      "description": "Can levitate while meditating\nHas an ivy-covered spaceship\nGets lost in own thoughts",
-      "imgurl": "img/146.jpg",
-      "partnernum": "203314448",
-      "location": "Verdelight",
-      "id": "146"
-    },
-    {
-      "realname": "Gwen Tsai",
-      "name": "Glip Thornsworth",
-      "description": "Can sleep through anything\nAlways ready for a nap\nExpert snuggler",
-      "imgurl": "img/147.jpg",
-      "partnernum": "245201912",
-      "location": "Hypnozia",
-      "id": "147"
-    },
-    {
-      "realname": "Jeremy liew",
-      "name": "Germus Liewxi",
-      "description": "Can make objects dance.\nCosmic bubble teleportation.\nProne to moonwalk spontaneously.",
-      "imgurl": "img/148.jpg",
-      "partnernum": "271244830",
-      "location": "Frozmora",
-      "id": "148"
-    },
-    {
-      "realname": "Christopher Shallal",
-      "name": "Chrisraphyx the Harmonica",
-      "description": "Expert Harmonicist: Alien virtuoso of harmonica.\nLunar Daredevil: Surfs moon waves fearlessly.\nOverzealous Serenader: Occasionally plays harmonica non-stop.",
-      "imgurl": "img/149.jpg",
-      "partnernum": "252940545",
-      "location": "Melodiosia",
-      "id": "149"
-    },
-    {
-      "realname": "Jessica Rosendorf",
-      "name": "Jessindorf",
-      "description": "Whispers poetry in binary code.\nSix tentacled hug dispenser.\nHas an irrational fear of socks.",
-      "imgurl": "img/150.jpg",
-      "partnernum": "279327352",
-      "location": "Aurorithya",
-      "id": "150"
-    },
-    {
-      "realname": "Ameet Kallarackal",
-      "name": "Flitozar Kallarackal",
-      "description": "Can morph into any form.\nLoves pulling pranks for fun.\nOccasionally gets lost in transformation.",
-      "imgurl": "img/151.jpg",
-      "partnernum": "253703776",
-      "location": "Zephyrolift",
-      "id": "151"
-    },
-    {
-      "realname": "Charles Lee",
-      "name": "Charnox Larrow",
-      "description": "Galactic DJ: Spins cosmic beats!\n\"Infinite Empathy\" Vibe bracelets\nLoves musicals, hates karaoke",
-      "imgurl": "img/152.jpg",
-      "partnernum": "148532625",
-      "location": "Zenicor",
-      "id": "152"
-    },
-    {
-      "realname": "Francesca Romana Calvi",
-      "name": "Calviadon",
-      "description": "Fact: Has six arms.\nFeature: Can communicate telepathically.\nFlaw: Has an addiction to eating socks.",
-      "imgurl": "img/153.jpg",
-      "partnernum": "182108128",
-      "location": "Pyroxis",
-      "id": "153"
-    },
-    {
-      "realname": "Pietro Brach",
-      "name": "Nostalgius Reminisca",
-      "description": "Spontaneously predicts winning lottery numbers.\nCan communicate without speaking.\nConstantly lives in the moment.",
-      "imgurl": "img/154.jpg",
-      "partnernum": "160128436",
-      "location": "Melanchora",
-      "id": "154"
-    },
-    {
-      "realname": "Diana Mykhaylychenko ",
-      "name": "Dianiaworp",
-      "description": "Can eat lava.\nHas three hearts.\nOccasionally combusts during conversations.",
-      "imgurl": "img/155.jpg",
-      "partnernum": "256755056",
-      "location": "Blazoria",
-      "id": "155"
-    },
-    {
-      "realname": "Bernardo Camajori Tedeschini ",
-      "name": "Tedescorian Fishchine",
-      "description": "Fact: Can breathe chocolate milk.\nFeature: Pairs socks in record time.\nFlaw: Constantly forgets own name.",
-      "imgurl": "img/156.jpg",
-      "partnernum": "120115664",
-      "location": "Aquaterra",
-      "id": "156"
-    },
-    {
-      "realname": "Al Weiner ",
-      "name": "Alweirn, the Eternally Loving",
-      "description": "Can read minds, but selectively\nCan love unconditionally for eternity\nOccasionally misinterprets thoughts as feelings",
-      "imgurl": "img/157.jpg",
-      "partnernum": "168392450",
-      "location": "Seraphim",
-      "id": "157"
-    },
-    {
-      "realname": "Stefano Passoni",
-      "name": "Stefonitech",
-      "description": "Laserbeam eyes: Warm up leftovers instantly!\nFlaw: Constantly mispronounces Earth words.\nFeature: Glows in the dark.",
-      "imgurl": "img/158.jpg",
-      "partnernum": "244869135",
-      "location": "Xyloflux",
-      "id": "158"
-    },
-    {
-      "realname": "Richard Rose",
-      "name": "Rishard \"Mudswamp\" Droze",
-      "description": "Smooth-talking, amphibious heartthrob\nA shape-shifting dancing machine\nOccasionally leaves a trail behind",
-      "imgurl": "img/159.jpg",
-      "partnernum": "256948065",
-      "location": "Rotox",
-      "id": "159"
-    },
-    {
-      "realname": "Kamila Mustafina",
-      "name": "Kamaflux Mustaflame",
-      "description": "Can levitate while meditating.\nEyes can change color at will.\nMay accidentally set things on fire.",
-      "imgurl": "img/160.jpg",
-      "partnernum": "258904646",
-      "location": "Pyroflux",
-      "id": "160"
-    },
-    {
-      "realname": "Caitlin Norris-Grey ",
-      "name": "Caffrick Glorespin",
-      "description": "Mind-melting fur Elise solos!\nSpongey soft, great for cuddling.\nTalks forever about weather.",
-      "imgurl": "img/161.jpg",
-      "partnernum": "175826716",
-      "location": "Melodora",
-      "id": "161"
-    },
-    {
-      "realname": "Alexei Peters",
-      "name": "Xlypzay Peers",
-      "description": "Can read minds. Chaos ensues.\nTentacles that give great hugs.\nSometimes forgets how to speak.",
-      "imgurl": "img/162.jpg",
-      "partnernum": "260231192",
-      "location": "Mentraacia",
-      "id": "162"
-    },
-    {
-      "realname": "Ryan Cheng",
-      "name": "Rykava Chengflon",
-      "description": "Can fold socks telepathically.\nEye color changes with mood.\nSometimes communicates through interpretive dance.",
-      "imgurl": "img/163.jpg",
-      "partnernum": "118458976",
-      "location": "Zykiria",
-      "id": "163"
-    },
-    {
-      "realname": "Luca E. Lum",
-      "name": "Lucastrum Exceldron",
-      "description": "Fact: Can predict lottery numbers.\nFeature: Eyes change color with mood.\nFlaw: Persuades others a little too much.",
-      "imgurl": "img/164.jpg",
-      "partnernum": "244730224",
-      "location": "Striathron",
-      "id": "164"
-    },
-    {
-      "realname": "Sarah Barreto Ornellas",
-      "name": "Sarellas Battledressin",
-      "description": "Gravity-defying dance moves.\nImpeccable fashion sense.\nHas difficulty communicating verbally.",
-      "imgurl": "img/165.jpg",
-      "partnernum": "273272769",
-      "location": "Gravitora",
-      "id": "165"
-    },
-    {
-      "realname": "niko dellic",
-      "name": "Galaxiio Remixor",
-      "description": "Can tie shoes at warp speed.\nFluent in dolphin conversations.\nOccasionally mistakes moonwalking for normal walking.",
-      "imgurl": "img/166.jpg",
-      "partnernum": "196323170",
-      "location": "Rhythmoria",
-      "id": "166"
-    },
-    {
-      "realname": "Lydia Brosnahan",
-      "name": "Lyrin Broshada",
-      "description": "Hiccuping that reaches outer space\nGathers moon rocks for fun\nNever sleeps, always exploring",
-      "imgurl": "img/167.jpg",
-      "partnernum": "264764630",
-      "location": "Fyxiron",
-      "id": "167"
-    },
-    {
-      "realname": "Galton Van Sluytman",
-      "name": "Gazzlebon Lovegrove",
-      "description": "Gazzlebon can levitate while hugging.\nAlways has heart-shaped sunglasses.\nTerrible at telling jokes.",
-      "imgurl": "img/168.jpg",
-      "partnernum": "265192208",
-      "location": "Amorana",
-      "id": "168"
-    },
-    {
-      "realname": "Viet Nguyen",
-      "name": "Vidotron",
-      "description": "Speaks in TV show quotes.\nCan change the channel with mind.\nGets easily distracted during dates.",
-      "imgurl": "img/169.jpg",
-      "partnernum": "197261415",
-      "location": "Televisuria",
-      "id": "169"
-    },
-    {
-      "realname": "Alisha Kodibagkar",
-      "name": "Duncara Glazedbar",
-      "description": "Moves like a funky donut.\nUnlimited donuts at their disposal.\nCan dance their way out of any situation.",
-      "imgurl": "img/170.jpg",
-      "partnernum": "186088988",
-      "location": "Crullerion",
-      "id": "170"
-    },
-    {
-      "realname": "Fadi G Haddad",
-      "name": "Fadoh Ahsaddah",
-      "description": "Fluently speaks 200 alien languages.\nCan create cosmic harmony.\nSocially awkward in human interactions.",
-      "imgurl": "img/171.jpg",
-      "partnernum": "323303445",
-      "location": "Zandala",
-      "id": "171"
-    },
-    {
-      "realname": "Kush Tiwary ",
-      "name": "Kushaceus Tiwarius",
-      "description": "Can levitate coconuts.\nGlows in the dark.\nTerrible fisherman.",
-      "imgurl": "img/172.jpg",
-      "partnernum": "266171608",
-      "location": "Nebuloria",
-      "id": "172"
-    },
-    {
-      "realname": "Alex Ungar",
-      "name": "Alexanfish",
-      "description": "Fun Facts about Alexanfish:\nCommunicates through interpretive dance.\nHas bioluminescent scales for hypnotic light shows.\nForgets to breathe underwater sometimes.",
-      "imgurl": "img/173.jpg",
-      "partnernum": "267217335",
-      "location": "Equavida",
-      "id": "173"
-    },
-    {
-      "realname": "\u00c5se H\u00e5tveit",
-      "name": "\u00c5lis H\u00e5tdigis",
-      "description": "Talks to alternate universes\nHas a cool digital home\nProne to echo chamber debates",
-      "imgurl": "img/174.jpg",
-      "partnernum": "270039910",
-      "location": "Echoflux",
-      "id": "174"
-    },
-    {
-      "realname": "Clotilde",
-      "name": "Emotiklor",
-      "description": "Fact: Emotiklor changes eye color.\nFeature: Can feel your emotions.\nFlaw: Takes emotions too seriously.",
-      "imgurl": "img/175.jpg",
-      "partnernum": "227342704",
-      "location": "Sentirelia",
-      "id": "175"
-    },
-    {
-      "realname": "Wazeer Zulfikar",
-      "name": "Wazo Xulphikar",
-      "description": "Fact: Master of Slow-Mo Yoga \nFeature: Elastic Tentacle Arms \nFlaw: Can't Handle Speed Dating",
-      "imgurl": "img/176.jpg",
-      "partnernum": "258410030",
-      "location": "Xantalon",
-      "id": "176"
-    },
-    {
-      "realname": "Fernando Fern\u00e1ndez",
-      "name": "Frenzied Fuego",
-      "description": "Can levitate small objects.\nSense of humor is electrifying.\nTerrible at dancing.",
-      "imgurl": "img/177.jpg",
-      "partnernum": "301444250",
-      "location": "Flamwraith",
-      "id": "177"
-    },
-    {
-      "realname": "Leandra Tejedor ",
-      "name": "Leandrador Tejedeor",
-      "description": "Can knit a spaceship cozy.\nGlows in the dark.\nAlways loses intergalactic directions.",
-      "imgurl": "img/178.jpg",
-      "partnernum": "302651764",
-      "location": "Viserium",
-      "id": "178"
-    },
-    {
-      "realname": "Jacob Boeri",
-      "name": "Jacob Grindax",
-      "description": "Can transform into any creature (Feature)\nHas a contagious sense of humor (Feature)\nProne to chillaxing too often (Flaw)",
-      "imgurl": "img/179.jpg",
-      "partnernum": "210627578",
-      "location": "Grindmorphica",
-      "id": "179"
-    },
-    {
-      "realname": "Aaron Householder",
-      "name": "Arrtion Houseblender",
-      "description": "Fact: Loves dancing like nobody's watching.\nFeature: Can cook intergalactic cuisine.\nFlaw: Frequently loses antenna signal.",
-      "imgurl": "img/180.jpg",
-      "partnernum": "263110815",
-      "location": "Flutterprime",
-      "id": "180"
-    },
-    {
-      "realname": "Anubhav Guha",
-      "name": "Graxx Luxion",
-      "description": "Shape-shifting alien chameleon\nExpert at interstellar poker\nEasily bored with mundane activities",
-      "imgurl": "img/181.jpg",
-      "partnernum": "270208672",
-      "location": "Astracon",
-      "id": "181"
-    },
-    {
-      "realname": "Marissa Fisher",
-      "name": "Sashara Duneslinger",
-      "description": "Fact: Can divide anything, anytime.\nFeature: Sand surfing champion.\nFlaw: Obsessed with collecting sand.",
-      "imgurl": "img/182.jpg",
-      "partnernum": "207429525",
-      "location": "Calcisandria",
-      "id": "182"
-    },
-    {
-      "realname": "Lily Xu",
-      "name": "Lalix, the Sweetgroove",
-      "description": "Endlessly giggly baby whisperer.\nGlittery tentacles that boogie.\nDisguised as a disco ball.",
-      "imgurl": "img/183.jpg",
-      "partnernum": "226163096",
-      "location": "Glucora",
-      "id": "183"
-    },
-    {
-      "realname": "Wilka Carvalho ",
-      "name": "Wlirka Valorax",
-      "description": "Can sense your inner vibes.\nCan teleport to parallel dimensions.\nGets lost in thought easily.",
-      "imgurl": "img/184.jpg",
-      "partnernum": "273568144",
-      "location": "Luminoxis",
-      "id": "184"
-    },
-    {
-      "realname": "Jason Hou",
-      "name": "Jasandor Housand",
-      "description": "Can read minds, no filter.\nSkin changes color with mood.\nHas trouble expressing emotions.",
-      "imgurl": "img/185.jpg",
-      "partnernum": "271048340",
-      "location": "Glimmerdune",
-      "id": "185"
-    },
-    {
-      "realname": "Kachina",
-      "name": "Kachebula",
-      "description": "Telepathic masseuse - everywhere touch\nFour arms for epic hugs\nAlien cuisine connoisseur - spicy!",
-      "imgurl": "img/186.jpg",
-      "partnernum": "149364256",
-      "location": "Lumina",
-      "id": "186"
-    },
-    {
-      "realname": "Towako Hayashi",
-      "name": "Towazip Hayazaxon",
-      "description": "Sings like a funky alien\nTentacles double as backscratchers\nAccidentally disintegrates socks in laundry",
-      "imgurl": "img/187.jpg",
-      "partnernum": "270560385",
-      "location": "Energiria",
-      "id": "187"
-    },
-    {
-      "realname": "Mahelet Kassa",
-      "name": "Techialien",
-      "description": "Can hack any system *wink*\nHas built-in universal translator\nMomentarily glitches during emotional moments",
-      "imgurl": "img/188.jpg",
-      "partnernum": "331636372",
-      "location": "Nebtron",
-      "id": "188"
-    },
-    {
-      "realname": "Josh Williams",
-      "name": "Wiliamfish",
-      "description": "Can communicate through telepathy.\nGlows in the dark.\nOften forgets where they parked.",
-      "imgurl": "img/189.jpg",
-      "partnernum": "271629728",
-      "location": "Lunasphere",
-      "id": "189"
-    },
-    {
-      "realname": "Chance Jiajie Li",
-      "name": "LiTech Fang",
-      "description": "Mind-reading party trick\nGlowing tentacles for dancing\nTerrible at telling jokes",
-      "imgurl": "img/190.jpg",
-      "partnernum": "224355272",
-      "location": "Celestria",
-      "id": "190"
-    },
-    {
-      "realname": "Rohit Priyadarshi Sanatani",
-      "name": "Rohix Pribladix Sanastrani",
-      "description": "Can create microscopic masterpieces.\nHas nails that never chip.\nOccasionally mistakens fingers for canvas.",
-      "imgurl": "img/191.jpg",
-      "partnernum": "218772184",
-      "location": "Toenailia",
-      "id": "191"
-    },
-    {
-      "realname": "Sara Mesquita",
-      "name": "Saranautilus",
-      "description": "Fact: Has six spinning eyestalks.\nFeature: Can communicate through bioluminescent patterns.\nFlaw: Terrible at giving directions.",
-      "imgurl": "img/192.jpg",
-      "partnernum": "203592056",
-      "location": "Celestrosia",
-      "id": "192"
-    },
-    {
-      "realname": "Karolina",
-      "name": "Karolisse",
-      "description": "Can read minds on demand.\nHas charmingly curly tentacles.\nSometimes forgets to filter thoughts.",
-      "imgurl": "img/193.jpg",
-      "partnernum": "190055385",
-      "location": "Aquaridia",
-      "id": "193"
-    },
-    {
-      "realname": "Debjit Banerjee",
-      "name": "Gaviton Attractrix",
-      "description": "Can dance in zero gravity\nMagnetic personality, literally\nTerrible at giving directions",
-      "imgurl": "img/194.jpg",
-      "partnernum": "260678624",
-      "location": "GravitoNexus",
-      "id": "194"
-    },
-    {
-      "realname": "Joachim Schaeffer",
-      "name": "Jocham Zchaeffer",
-      "description": "Expert Techno Dancer\nMulti-dimensional Mannerism Connoisseur\nObsessed with Pretzel-shaped Spaceships",
-      "imgurl": "img/195.jpg",
-      "partnernum": "290441770",
-      "location": "Chromane",
-      "id": "195"
-    },
-    {
-      "realname": "Alina Fonseca Flores",
-      "name": "Aliya Fonsova Filmmorys",
-      "description": "Always serves desserts first.\nCan teleport in-between dance moves.\nForgets to finish movie titles.",
-      "imgurl": "img/196.jpg",
-      "partnernum": "103340640",
-      "location": "Harmonia",
-      "id": "196"
-    },
-    {
-      "realname": "Carme pons royo ",
-      "name": "Carmefish Ponsroyo",
-      "description": "Fact: Can turn invisible.\nFeature: Glows in the dark.\nFlaw: Often gets lost in translation.",
-      "imgurl": "img/197.jpg",
-      "partnernum": "184713976",
-      "location": "Chromalexis",
-      "id": "197"
-    },
-    {
-      "realname": "Parfait Atchade",
-      "name": "Parsatlak Etchade",
-      "description": "Multilingual love whisperer\nCan translate love in any tongue\nFrequently loses words mid-sentence",
-      "imgurl": "img/198.jpg",
-      "partnernum": "166212808",
-      "location": "Lingaria",
-      "id": "198"
-    },
-    {
-      "realname": "Noah Lerner",
-      "name": "Noako Lernaris",
-      "description": "Can expertly repair alien footwear\nHas a contagious laughter\nHas a tendency to misplace things",
-      "imgurl": "img/199.jpg",
-      "partnernum": "209816696",
-      "location": "Cordis",
-      "id": "199"
-    },
-    {
-      "realname": "Ingrid Lykke Borre",
-      "name": "Ingrilix Borranomy",
-      "description": "Can create new homes\nExpert at planet makeover\nSometimes forgets to eat",
-      "imgurl": "img/200.jpg",
-      "partnernum": "156322490",
-      "location": "Terraluna",
-      "id": "200"
-    },
-    {
-      "realname": "jaco",
-      "name": "Jaconucliv",
-      "description": "Can communicate with anyone\nAble to transcend boundaries\nOccasionally forgets personal boundaries",
-      "imgurl": "img/201.jpg",
-      "partnernum": "206790368",
-      "location": "Atomarxis",
-      "id": "201"
-    },
-    {
-      "realname": "Nemo Shi",
-      "name": "Nemoshiton",
-      "description": "Never eats the last slice.\nHas a tail that glows.\nOccasionally misplaces tentacles.",
-      "imgurl": "img/202.jpg",
-      "partnernum": "279947872",
-      "location": "Quazmirae",
-      "id": "202"
-    },
-    {
-      "realname": "Lasse Bruun",
-      "name": "Bruulnex",
-      "description": "Can levitate objects telepathically\nCan camouflage perfectly into surroundings\nForgets important dates easily",
-      "imgurl": "img/203.jpg",
-      "partnernum": "284847615",
-      "location": "Syntaris",
-      "id": "203"
-    },
-    {
-      "realname": "Eunhae Lee",
-      "name": "Lunara Sandwater",
-      "description": "Wears seashells as earrings.\nCan create sandcastles instantly.\nOccasionally floods the bathroom.",
-      "imgurl": "img/204.jpg",
-      "partnernum": "124015008",
-      "location": "Zehyros",
-      "id": "204"
-    },
-    {
-      "realname": "Wing Cheung Michael Wong",
-      "name": "Tech Cheung Michael Wong",
-      "description": "Fact: Can levitate small objects.\nFeature: Glowing neon green eyes.\nFlaw: Slightly obsessed with keyboards.",
-      "imgurl": "img/205.jpg",
-      "partnernum": "123228768",
-      "location": "Fluxoria",
-      "id": "205"
-    },
-    {
-      "realname": "Ticha Sethapakdi",
-      "name": "Tichaphak",
-      "description": "Fact: Eats pizza with tentacles.\nFeature: Glows in the dark.\nFlaw: Terrible at small talk.",
-      "imgurl": "img/206.jpg",
-      "partnernum": "274655648",
-      "location": "Zaldrax",
-      "id": "206"
-    },
-    {
-      "realname": "Vasha Dutell",
-      "name": "Xylara Wovenspace",
-      "description": "Weaves cosmic magic carpets.\nCalmness in every storm.\nForgets own phone number often.",
-      "imgurl": "img/207.jpg",
-      "partnernum": "269448634",
-      "location": "Serenithra",
-      "id": "207"
-    },
-    {
-      "realname": "Mark Hamilton",
-      "name": "Squarxlon Biltarb",
-      "description": "Finds square-shaped objects irresistible.\nCan levitate while foraging mushrooms.\nMistakes squares for mushrooms sometimes.",
-      "imgurl": "img/208.jpg",
-      "partnernum": "266560785",
-      "location": "Quadrosia",
-      "id": "208"
-    },
-    {
-      "realname": "Anne Harrington",
-      "name": "Harranix",
-      "description": "Fact: Has six arms\nFeature: Glows in the dark\nFlaw: Speaks entirely in riddles",
-      "imgurl": "img/209.jpg",
-      "partnernum": "125269528",
-      "location": "Celestora",
-      "id": "209"
-    },
-    {
-      "realname": "Eduardo Bilbao Pav\u00f3n",
-      "name": "Pavardo",
-      "description": "Hilarious mimicry skills: Spot-on impressions!\nGlowing multi-colored eyes: Disco party on demand.\nTerrible at telling jokes: So bad, it's good!",
-      "imgurl": "img/210.jpg",
-      "partnernum": "254264283",
-      "location": "Crystallion",
-      "id": "210"
-    },
-    {
-      "realname": "Elisabetta Cornacchia",
-      "name": "Elisafetta Cornanchia",
-      "description": "Fact: Can levitate everyday objects.\nFeature: Glowing purple antennae.\nFlaw: Eats all the cookies.",
-      "imgurl": "img/211.jpg",
-      "partnernum": "275148208",
-      "location": "Nepturianth",
-      "id": "211"
-    },
-    {
-      "realname": "Miranda Dawson",
-      "name": "Emryx Zenran",
-      "description": "Fact: Can rewind embarrassing moments.\nFeature: Infinite empathy, limited drama.\nFlaw: Multitasking, except with emotions.",
-      "imgurl": "img/212.jpg",
-      "partnernum": "173269088",
-      "location": "Syntera",
-      "id": "212"
-    },
-    {
-      "realname": "Mateo Fernandez",
-      "name": "Fernandezia",
-      "description": "Fact: Expert at salsa dancing.\nFeature: Glows in the dark.\nFlaw: Constantly forgets own name.",
-      "imgurl": "img/213.jpg",
-      "partnernum": "347397705",
-      "location": "Luminara",
-      "id": "213"
-    },
-    {
-      "realname": "Milka Piszczek",
-      "name": "Piszczekora",
-      "description": "Fact: Excellent at solving puzzles.\nFeature: Tentacles with a soft touch.\nFlaw: Easily distracted by shiny objects.",
-      "imgurl": "img/214.jpg",
-      "partnernum": "173843216",
-      "location": "Luminozis",
-      "id": "214"
-    },
-    {
-      "realname": "Andrea Lerner",
-      "name": "Aqua Lerna",
-      "description": "Can turn water into wine.\nGlows in the dark.\nSometimes creates fish tornadoes.",
-      "imgurl": "img/215.jpg",
-      "partnernum": "184694055",
-      "location": "Elysion",
-      "id": "215"
-    },
-    {
-      "realname": "Giuditta Perinelli",
-      "name": "Grydiatix Pernxalli",
-      "description": "Can balance upside down\nImpressive party trick\nOccasionally falls on face",
-      "imgurl": "img/216.jpg",
-      "partnernum": "141993412",
-      "location": "Lumiserra",
-      "id": "216"
-    },
-    {
-      "realname": "Francesco Destro",
-      "name": "Francesco Destrofin",
-      "description": "Bubble gum aficionado\n3-second memory span\nCan breathe underwater",
-      "imgurl": "img/217.jpg",
-      "partnernum": "165181144",
-      "location": "Aquarion",
-      "id": "217"
-    },
-    {
-      "realname": "Aleksandra Przegalinska",
-      "name": "Alekzweezl Przegalinsjarnk",
-      "description": "Grows roses on Venus.\nShoots lasers from antennae.\nOften accidentally sets things on fire.",
-      "imgurl": "img/218.jpg",
-      "partnernum": "256201912",
-      "location": "Verduranize",
-      "id": "218"
-    },
-    {
-      "realname": "Reed Foster",
-      "name": "Zeed Oraster",
-      "description": "Can out-dance anyone.\nSends good vibes through moves.\nAlways ready for a party.",
-      "imgurl": "img/219.jpg",
-      "partnernum": "166679096",
-      "location": "Rhythmora",
-      "id": "219"
-    },
-    {
-      "realname": "Saurabh Nath",
-      "name": "Saunor-Nathna",
-      "description": "Fact without descriptive words: Telekinetic cereal dispenser.\nFeature: Glows in the dark.\nFlaw: Can't resist salsa dancing.",
-      "imgurl": "img/220.jpg",
-      "partnernum": "257841296",
-      "location": "Elysirex",
-      "id": "220"
-    },
-    {
-      "realname": "Lenni Justen",
-      "name": "Lennax Jus-Zen",
-      "description": "Can jump galaxies\nAlways has a story\nNot a great listener",
-      "imgurl": "img/221.jpg",
-      "partnernum": "235831635",
-      "location": "Solara",
-      "id": "221"
-    },
-    {
-      "realname": "Jessie Mindel",
-      "name": "Elsie Mindor",
-      "description": "Enigmatic weaver of worlds.\nCalculates love, just for fun!\nBeware spontaneous musical combustion.",
-      "imgurl": "img/222.png",
-      "partnernum": "194594085",
-      "location": "Mythorium",
-      "id": "222"
+    "aliens": [
+        {
+            "realname": "William J. Wakefield",
+            "name": "Willifish J. Technofield",
+            "description": "Fact: Can telepathically communicate with fish.\nFeature: Glows in the dark.\nFlaw: Terrified of earth squirrels.",
+            "imgurl": "img/0.jpg",
+            "partnernum": "102023145",
+            "location": "Quasarinsum",
+            "id": "0"
+        },
+        {
+            "realname": "Eyal Perry",
+            "name": "Yale Paradox",
+            "description": "Communicates through efficient Morse code.\nCan complete tasks lightning-fast.\nOccasionally glitches but reboots quickly.",
+            "imgurl": "img/1.jpg",
+            "partnernum": "102719740",
+            "location": "Syneron",
+            "id": "1"
+        },
+        {
+            "realname": "Philip Tan",
+            "name": "Fliptor Phanstro",
+            "description": "Never judges your questionable wardrobe.\nSweats enough for two.\nGuaranteed to save money on cheese.",
+            "imgurl": "img/2.jpg",
+            "partnernum": "103034776",
+            "location": "Perspirium",
+            "id": "2"
+        },
+        {
+            "realname": "Cathy Fang",
+            "name": "Xa'feth Xi'ler",
+            "description": "Can play Jenga in 5-dimensional space.\nUnlimited cosmic pun potential.\nSometimes forgets which dimension you're in.",
+            "imgurl": "img/3.jpg",
+            "partnernum": "104887448",
+            "location": "Zerimox",
+            "id": "3"
+        },
+        {
+            "realname": "Jan Tiepelt",
+            "name": "Jan Triplox",
+            "description": "Creates art with fallen leaves.\nCan communicate with forest critters.\nHas a weakness for sunsets.",
+            "imgurl": "img/4.jpg",
+            "partnernum": "108734050",
+            "location": "Verdora",
+            "id": "4"
+        },
+        {
+            "realname": "Farhan Khodaee",
+            "name": "Orlak Zenojed",
+            "description": "Fact: Can solve any problem \nFeature: Telepathic communication \nFlaw: Socially awkward mathematician",
+            "imgurl": "img/5.jpg",
+            "partnernum": "109410345",
+            "location": "Solacris",
+            "id": "5"
+        },
+        {
+            "realname": "Alfonso Parra Runio",
+            "name": "Glimmorbubble",
+            "description": "Can juggle exploding glitter bombs.\nZero fear of bubble baths.\nCan't resist shiny trinkets.",
+            "imgurl": "img/6.jpg",
+            "partnernum": "110960710",
+            "location": "Glitternova",
+            "id": "6"
+        },
+        {
+            "realname": "Camron Blackburn",
+            "name": "Camara Blixon",
+            "description": "Can breathe underwater.\nGlows in the dark.\nProne to excessive hugging.",
+            "imgurl": "img/7.jpg",
+            "partnernum": "114944072",
+            "location": "Aquorion",
+            "id": "7"
+        },
+        {
+            "realname": "Ariel Ekblaw",
+            "name": "Floralix Ekbyag",
+            "description": "Only alien that can photosynthesize.\nSpaceships are literal flower bouquets.\nAccidentally creates time paradoxes sometimes.",
+            "imgurl": "img/8.jpg",
+            "partnernum": "115259625",
+            "location": "Lumentia",
+            "id": "8"
+        },
+        {
+            "realname": "Christian Landis",
+            "name": "Exillian Dimarchus",
+            "description": "No \"inside voice\" button.\nCan pan-fry with telekinesis.\nOccasionally speaks in alien puns.",
+            "imgurl": "img/9.jpg",
+            "partnernum": "116970399",
+            "location": "Savora",
+            "id": "9"
+        },
+        {
+            "realname": "Michael Fernandez",
+            "name": "Mikthrall Ferva",
+            "description": "Masters mowing lawns with stilts!\nInvented \"banana-potato\" fusion cuisine.\nCollects novelty rubber chicken toys.",
+            "imgurl": "img/10.jpg",
+            "partnernum": "115447424",
+            "location": "Quixarium",
+            "id": "10"
+        },
+        {
+            "realname": "Mike Hao Jiang",
+            "name": "Mikarnus Jawahvort",
+            "description": "Can paint with thoughts.\nCan morph into anything.\nEasily misunderstood due to telepathy.",
+            "imgurl": "img/11.jpg",
+            "partnernum": "115749344",
+            "location": "Melodria",
+            "id": "11"
+        },
+        {
+            "realname": "Bel\u00e9n Sald\u00edas",
+            "name": "Techb\u00e9len Sald\u00edas",
+            "description": "Fact: Can hack multiple dimensions.\nFeature: Glowing neon tentacles.\nFlaw: Always forgets to charge.",
+            "imgurl": "img/12.jpg",
+            "partnernum": "116654896",
+            "location": "Chromatopia",
+            "id": "12"
+        },
+        {
+            "realname": "Isabelle Iversen",
+            "name": "Ivora Issen",
+            "description": "Gives galaxy's best hugs.\nCan cure alien heartbreak.\nSometimes forgets they have tentacles.",
+            "imgurl": "img/13.jpg",
+            "partnernum": "118458830",
+            "location": "Harmonia",
+            "id": "13"
+        },
+        {
+            "realname": "Tzofi Klinghoffer",
+            "name": "Tzotechlinghive",
+            "description": "Has twelve tentacles for hugs.\nWorships the galactic disco ball.\nIs oddly addicted to lasagna.",
+            "imgurl": "img/14.jpg",
+            "partnernum": "120812175",
+            "location": "Nebuloria",
+            "id": "14"
+        },
+        {
+            "realname": "Han Zhang",
+            "name": "Zhangzor",
+            "description": "Infallible dance moves.\nAlways wears mismatched socks.\nOccasionally eats partners' leftovers.",
+            "imgurl": "img/15.jpg",
+            "partnernum": "121293315",
+            "location": "Quasarxor",
+            "id": "15"
+        },
+        {
+            "realname": "Lucy Li",
+            "name": "Lutech",
+            "description": "Can generate electricity mentally.\nAdorable glowing antennae.\nTends to accidentally delete memories.",
+            "imgurl": "img/16.jpg",
+            "partnernum": "127924335",
+            "location": "Lutara",
+            "id": "16"
+        },
+        {
+            "realname": "Kai Hu",
+            "name": "Kio Shlur",
+            "description": "Never needs to pay electric bills.\nGlows in the dark... naturally.\nOccasionally mistaken for a houseplant.",
+            "imgurl": "img/17.jpg",
+            "partnernum": "131118975",
+            "location": "Chlorios",
+            "id": "17"
+        },
+        {
+            "realname": "Shrestha Mohanty",
+            "name": "Mohantyshrestha",
+            "description": "Fact: Telepathic communication with plants.\nFeature: Glows in the dark.\nFlaw: Sensitive to Earth's gravity.",
+            "imgurl": "img/18.jpg",
+            "partnernum": "131483835",
+            "location": "Euphoros",
+            "id": "18"
+        },
+        {
+            "realname": "Minja Axelsson",
+            "name": "Mijix Fluxon",
+            "description": "Communicates with your pet!\nGlawarps the best home-cooked meals.\nBit of a sugar addict.",
+            "imgurl": "img/19.jpg",
+            "partnernum": "133089500",
+            "location": "Glawarpterra",
+            "id": "19"
+        },
+        {
+            "realname": "Ada Ren-Mitchell",
+            "name": "Treasa Junkwet",
+            "description": "Can turn trash into treasure.\nCreates elaborate paper spaceships.\nHas an aversion to cleaning.",
+            "imgurl": "img/20.jpg",
+            "partnernum": "133178325",
+            "location": "Eternal Waste",
+            "id": "20"
+        },
+        {
+            "realname": "I\u00f1igo Azcarate",
+            "name": "Azca\u00f1igo",
+            "description": "Dresses in stylish intergalactic fashion.\nCan mimic any voice perfectly.\nHas an uncontrollable love for disco dancing.",
+            "imgurl": "img/21.jpg",
+            "partnernum": "133768816",
+            "location": "Zephrosia",
+            "id": "21"
+        },
+        {
+            "realname": "Georine Pierre",
+            "name": "Georine Pierretech",
+            "description": "Can levitate for 30 seconds.\nHas a contagious giggle.\nOccasionally gets lost in time.",
+            "imgurl": "img/22.jpg",
+            "partnernum": "126671985",
+            "location": "Pyroterra",
+            "id": "22"
+        },
+        {
+            "realname": "Hope Schroeder",
+            "name": "Xebor Hopesen",
+            "description": "Can paint with telekinesis.\nNever sleeps, always creates.\nFrequently forgets to eat.",
+            "imgurl": "img/23.jpg",
+            "partnernum": "134312152",
+            "location": "Novastrum",
+            "id": "23"
+        },
+        {
+            "realname": "Robert Bench",
+            "name": "Curious Thriveling",
+            "description": "Eats curiosity for breakfast.\nCan translate cosmic languages. \nForgets to refill spaceship's fuel.",
+            "imgurl": "img/24.jpg",
+            "partnernum": "134886465",
+            "location": "Lushoria",
+            "id": "24"
+        },
+        {
+            "realname": "Patrick Chwalek",
+            "name": "Patralek",
+            "description": "Fact: Loves to dance awkwardly.\nFeature: Glowing tentacle hair.\nFlaw: Always forgets their spaceship keys.",
+            "imgurl": "img/25.jpg",
+            "partnernum": "136549413",
+            "location": "Quasirix",
+            "id": "25"
+        },
+        {
+            "realname": "Vincy Xiao",
+            "name": "Vindy Xaonzo",
+            "description": "Can make you do anything.\nNo more indecisiveness!\nDangerously persuasive in arguments.",
+            "imgurl": "img/26.jpg",
+            "partnernum": "136770075",
+            "location": "Psychoria",
+            "id": "26"
+        },
+        {
+            "realname": "Lasse Mohr",
+            "name": "Lasse Mohrror",
+            "description": "Can turn puns into sustenance.\nHas an impressive collection of constellation prizes.\nMay be a tad unoriginal at times.",
+            "imgurl": "img/27.jpg",
+            "partnernum": "137424188",
+            "location": "Punthos",
+            "id": "27"
+        },
+        {
+            "realname": "Manuel Cherep",
+            "name": "Ponguel Cherex",
+            "description": "Also great at air hockey.\nMasters hide and seek champion.\nCan't resist marathons... of sitcoms.",
+            "imgurl": "img/28.jpg",
+            "partnernum": "138605350",
+            "location": "Gravitasia",
+            "id": "28"
+        },
+        {
+            "realname": "Katie Matton",
+            "name": "Kattar Volcanis",
+            "description": "Can teleport across galaxies.\nGlow-in-the-dark lava hair.\nGets overly attached to space rocks.",
+            "imgurl": "img/29.jpg",
+            "partnernum": "147313850",
+            "location": "Pyrosphere",
+            "id": "29"
+        },
+        {
+            "realname": "Alex Berke",
+            "name": "Alestra Frostbane",
+            "description": "Learns salsa, teaches partners.\nMind reader: never second-guessing you.\nForgets own birthday, cooks great.",
+            "imgurl": "img/30.jpg",
+            "partnernum": "176374564",
+            "location": "Glacialoria",
+            "id": "30"
+        },
+        {
+            "realname": "Fangzheng Liu",
+            "name": "Fengrom Liiari",
+            "description": "Fact: Can communicate telepathically with plants.\nFeature: Glows in the dark.\nFlaw: Easily offended by sarcasm.",
+            "imgurl": "img/31.jpg",
+            "partnernum": "139009990",
+            "location": "Hydraelia",
+            "id": "31"
+        },
+        {
+            "realname": "Shivam",
+            "name": "Shisha",
+            "description": "Fact: Breathes sweet scented smoke.\nFeature: Glows in the dark.\nFlaw: Constantly craving sugary treats.",
+            "imgurl": "img/32.jpg",
+            "partnernum": "132692805",
+            "location": "Lumis",
+            "id": "32"
+        },
+        {
+            "realname": "Georgios Varelas",
+            "name": "Gekrox Varlun",
+            "description": "Can calculate galaxy-sized expenses.\nMakes taxes strangely enjoyable.\nOccasionally forgets to blink.",
+            "imgurl": "img/33.jpg",
+            "partnernum": "140744835",
+            "location": "Quaztron",
+            "id": "33"
+        },
+        {
+            "realname": "Ayush Chopra",
+            "name": "Choprayquarium",
+            "description": "Loves to dance like jellyfish\nGrows bioluminescent tentacles when happy\nOften forgets own alien language",
+            "imgurl": "img/34.jpg",
+            "partnernum": "140815384",
+            "location": "Chrominost",
+            "id": "34"
+        },
+        {
+            "realname": "Tobin South",
+            "name": "Tobin Peanutgrow",
+            "description": "Almost always has snacks\nCan crack peanuts with mind\nAlways prepared for movie night",
+            "imgurl": "img/35.jpg",
+            "partnernum": "144788020",
+            "location": "Arachis Farmland",
+            "id": "35"
+        },
+        {
+            "realname": "anurag237@gmail.com",
+            "name": "Anuraglon",
+            "description": "Talks in alien limericks.\nTentacles that give great massages.\nHas a slight marshmallow addiction.",
+            "imgurl": "img/36.jpg",
+            "partnernum": "145040288",
+            "location": "Chromalite",
+            "id": "36"
+        },
+        {
+            "realname": "Jessica Shand",
+            "name": "Jessysand of Climagia",
+            "description": "Communicates through flute solos.\nCan create art out of anything.\nOccasionally forgets to breathe.",
+            "imgurl": "img/37.jpg",
+            "partnernum": "116983744",
+            "location": "Zyphoros",
+            "id": "37"
+        },
+        {
+            "realname": "Paris Myers",
+            "name": "Aquryn Metalix",
+            "description": "Fluent in love languages\nShimmering liquid voice\nRusts when emotionally overwhelmed",
+            "imgurl": "img/38.jpg",
+            "partnernum": "146648612",
+            "location": "Hydronix",
+            "id": "38"
+        },
+        {
+            "realname": "Hang Jiang",
+            "name": "Techligator",
+            "description": "Fact: Eats phones for breakfast.\nFeature: Can communicate through Wi-Fi.\nFlaw: Constantly glitches while dancing.",
+            "imgurl": "img/39.jpg",
+            "partnernum": "147366765",
+            "location": "Electro",
+            "id": "39"
+        },
+        {
+            "realname": "Xiajie Zhang",
+            "name": "Xialien Zhunquad",
+            "description": "Problem-solving magician\nDeep thinker, shallow problems\nOccasionally forgets Earthly responsibilities",
+            "imgurl": "img/40.jpg",
+            "partnernum": "148077644",
+            "location": "Vanishara",
+            "id": "40"
+        },
+        {
+            "realname": "Dian Zhong",
+            "name": "Dizzro Zang",
+            "description": "Reads minds, ignores bad thoughts.\nAlways brings the best snacks.\nBreakdances like nobody's business.",
+            "imgurl": "img/41.jpg",
+            "partnernum": "153015550",
+            "location": "Celebron",
+            "id": "41"
+        },
+        {
+            "realname": "Stephen Holtz ",
+            "name": "Holzarian",
+            "description": "Has two left feet.\nGlows in the dark.\nObsessed with intergalactic karaoke.",
+            "imgurl": "img/42.jpg",
+            "partnernum": "154190750",
+            "location": "Zentura",
+            "id": "42"
+        },
+        {
+            "realname": "Ruby Liu",
+            "name": "Aurubi Uniquenova",
+            "description": "Can effortlessly become your favorite person\nNo need for disguise on Halloween\nSometimes forgets what it is",
+            "imgurl": "img/43.jpg",
+            "partnernum": "155578180",
+            "location": "Prolimorph",
+            "id": "43"
+        },
+        {
+            "realname": "Benedetta D\u2019Elia",
+            "name": "Benedorama Delphian",
+            "description": "Can serenade you anytime, anywhere.\nDancing skills rival Dancing Queen.\nMight break into spontaneous karaoke.",
+            "imgurl": "img/44.jpg",
+            "partnernum": "155797390",
+            "location": "Melodysphere",
+            "id": "44"
+        },
+        {
+            "realname": "michael pusic",
+            "name": "Micropus",
+            "description": "Can juggle 10 flaming asteroids.\nTentacles that give great backrubs.\nGets hangry if not fed.",
+            "imgurl": "img/45.jpg",
+            "partnernum": "156226856",
+            "location": "Lunaria",
+            "id": "45"
+        },
+        {
+            "realname": "Valerie Balog",
+            "name": "Valob Eafar",
+            "description": "Can possess 10 bodies simultaneously.\nLoves hosting celestial dinner parties.\nOccasionally forgets which body they're in.",
+            "imgurl": "img/46.jpg",
+            "partnernum": "166562685",
+            "location": "Symbinor",
+            "id": "46"
+        },
+        {
+            "realname": "Dexter Callender",
+            "name": "Dextercorn",
+            "description": "Silently juggles rainbow-colored quills.\nCan communicate telepathically with chickens.\nOccasionally falls asleep mid-conversation.",
+            "imgurl": "img/47.jpg",
+            "partnernum": "157151410",
+            "location": "Lumisire",
+            "id": "47"
+        },
+        {
+            "realname": "Luis Alonso Pastor",
+            "name": "Lushalon Crescendo",
+            "description": "Photosynthetic partner: Guaranteed fresh oxygen!\nSolar-powered snuggles: Warmth without electric bills.\nSnooze-a-thon champion: Medals for marathon naps.",
+            "imgurl": "img/48.jpg",
+            "partnernum": "161088158",
+            "location": "Verdora",
+            "id": "48"
+        },
+        {
+            "realname": "Mary Chan",
+            "name": "Merriax Raynfall",
+            "description": "Never needs an umbrella\nMaster of condensing conversations\nSometimes talks in shorthand",
+            "imgurl": "img/49.jpg",
+            "partnernum": "162936904",
+            "location": "Planimbia",
+            "id": "49"
+        },
+        {
+            "realname": "Abby Obeng-Marnu",
+            "name": "Abbyfari Obeng-Marnu!",
+            "description": "Fact: Travelled through 10 wormholes.\nFeature: Glowing tentacles that hypnotize.\nFlaw: Obsessed with chewing on asteroids.",
+            "imgurl": "img/50.jpg",
+            "partnernum": "139057448",
+            "location": "Zelthran",
+            "id": "50"
+        },
+        {
+            "realname": "Mrinalini Singha",
+            "name": "Mrinxia Singtat",
+            "description": "Can massage for lightyears.\nGlows with cosmic charm.\nHas an insatiable appetite.",
+            "imgurl": "img/51.jpg",
+            "partnernum": "164733752",
+            "location": "Luminova",
+            "id": "51"
+        },
+        {
+            "realname": "Marcus Edmonds",
+            "name": "Marcedus Extratech",
+            "description": "Fact: Eats entire pizzas, crust first.\nFeature: Glows in the dark.\nFlaw: Develops sudden ping pong obsession.",
+            "imgurl": "img/52.jpg",
+            "partnernum": "165323696",
+            "location": "Xylovon",
+            "id": "52"
+        },
+        {
+            "realname": "Jue Ma",
+            "name": "Jue Mareo",
+            "description": "Fact: Absorbs energy from surroundings.\nFeature: Glowing neon tentacles.\nFlaw: Has an insatiable appetite.",
+            "imgurl": "img/53.jpg",
+            "partnernum": "165742395",
+            "location": "Nebulos",
+            "id": "53"
+        },
+        {
+            "realname": "Linyue Zhang",
+            "name": "Linzhang the Caffeineless",
+            "description": "Can levitate while sleeping\nSmiles even while dreaming\nSnores in perfect harmony",
+            "imgurl": "img/54.jpg",
+            "partnernum": "166737550",
+            "location": "Somnia",
+            "id": "54"
+        },
+        {
+            "realname": "Mehul Agarwal",
+            "name": "Lexis Chronosmoke",
+            "description": "Infinite laughter generator!\nCan do aerial flips!\nOccasionally arrives fashionably late...",
+            "imgurl": "img/55.jpg",
+            "partnernum": "168930032",
+            "location": "Chromaflame",
+            "id": "55"
+        },
+        {
+            "realname": "Anne Curtis",
+            "name": "Nneacust Rnis",
+            "description": "Can ride gravity-defying waves.\nHas a perpetual suntan.\nOccasionally gets lost in the ocean.",
+            "imgurl": "img/56.jpg",
+            "partnernum": "169000448",
+            "location": "Aquorid",
+            "id": "56"
+        },
+        {
+            "realname": "Gauri Agarwal",
+            "name": "Gaurifish",
+            "description": "Can levitate... sometimes.\nCan breathe underwater indefinitely.\nCan eat planets... on accident.",
+            "imgurl": "img/57.jpg",
+            "partnernum": "169335790",
+            "location": "Luminara",
+            "id": "57"
+        },
+        {
+            "realname": "Nathan Whitmore",
+            "name": "Neitham Whgit",
+            "description": "Mind-reader without an off-switch.\nAble to navigate virtual worlds effortlessly.\nHas an adorable obsession with Canadian geese.",
+            "imgurl": "img/58.jpg",
+            "partnernum": "169652512",
+            "location": "Simultron",
+            "id": "58"
+        },
+        {
+            "realname": "Indrajeet Haldar",
+            "name": "Indrija Malnick",
+            "description": "Can levitate while laughing.\nAlways remembers everyone's birthdays.\nHas a tendency to adopt stray asteroids.",
+            "imgurl": "img/59.jpg",
+            "partnernum": "159017308",
+            "location": "Whisperia",
+            "id": "59"
+        },
+        {
+            "realname": "Justin Kipness",
+            "name": "Kiptun Xalas",
+            "description": "Eats cosmic tacos with no regrets.\nCan teleport via bike.\nBeware intergalactic dad jokes.",
+            "imgurl": "img/60.jpg",
+            "partnernum": "169884784",
+            "location": "Aquaflora",
+            "id": "60"
+        },
+        {
+            "realname": "Ne Myo Han",
+            "name": "Neptio the Tiddletat Farmer",
+            "description": "Effortlessly walks on brewdios\nObsessed with tiddletat fashion\nOccasionally forgets to harvest tiddletats",
+            "imgurl": "img/61.jpg",
+            "partnernum": "170566690",
+            "location": "Croporia",
+            "id": "61"
+        },
+        {
+            "realname": "Becky Lin",
+            "name": "Veckanlina",
+            "description": "Fact: Highly skilled prankster extraordinaire!\nFeature: Glows in the dark.\nFlaw: Has an insatiable appetite.",
+            "imgurl": "img/62.jpg",
+            "partnernum": "167155024",
+            "location": "Verlixi",
+            "id": "62"
+        },
+        {
+            "realname": "Angela Vujic",
+            "name": "Anglex Vujifrex",
+            "description": "Never loses car keys.\nSings in intergalactic choir.\nAlways forgets birthdays.",
+            "imgurl": "img/63.jpg",
+            "partnernum": "179029010",
+            "location": "Remnoria",
+            "id": "63"
+        },
+        {
+            "realname": "Perrin Davidson",
+            "name": "Derron Pavidsen",
+            "description": "Expert at intergalactic karaoke.\nGravity-defying dance moves.\nAlways gets lost in space.",
+            "imgurl": "img/64.jpg",
+            "partnernum": "172271385",
+            "location": "Whalopia",
+            "id": "64"
+        },
+        {
+            "realname": "Aditi Garg",
+            "name": "Adritor Gling",
+            "description": "Can predict your future.\nMind-reader extraordinaire.\nOccasionally predicts winning lottery numbers.",
+            "imgurl": "img/65.jpg",
+            "partnernum": "132926625",
+            "location": "Alvorith",
+            "id": "65"
+        },
+        {
+            "realname": "Duncan Lee",
+            "name": "Daxtrix Chee",
+            "description": "Ultimate party snack improviser\nFoot finger contortionist\nTerrible at following instructions",
+            "imgurl": "img/66.jpg",
+            "partnernum": "175032884",
+            "location": "Doritox",
+            "id": "66"
+        },
+        {
+            "realname": "Matthias Hofer",
+            "name": "Matthias Hofertron",
+            "description": "Master of interstellar dance.\nBioluminescent tentacle party trick.\nInability to understand sarcasm.",
+            "imgurl": "img/67.jpg",
+            "partnernum": "165195890",
+            "location": "Astrelope",
+            "id": "67"
+        },
+        {
+            "realname": "Valerie Chen",
+            "name": "Cheniferous Valsari",
+            "description": "Fact: Speaks fluent Klingonian.\nFeature: Has bright, multi-colored tentacles.\nFlaw: Occasionally forgets to blink.",
+            "imgurl": "img/68.jpg",
+            "partnernum": "163634510",
+            "location": "Chromaluna",
+            "id": "68"
+        },
+        {
+            "realname": "Berta Vall",
+            "name": "Sportta Exploreza",
+            "description": "Can talk, *no words*\nChanges color for fun\nTerrible at landing spaceships",
+            "imgurl": "img/69.jpg",
+            "partnernum": "176632390",
+            "location": "Gymsphere",
+            "id": "69"
+        },
+        {
+            "realname": "Yan Luo",
+            "name": "Techlyan",
+            "description": "Fact: Can send cat videos telepathically.\nFeature: Glows in the dark.\nFlaw: Gets sidetracked by intergalactic memes.",
+            "imgurl": "img/70.jpg",
+            "partnernum": "182618810",
+            "location": "Xenoplasmia",
+            "id": "70"
+        },
+        {
+            "realname": "Miela Gross",
+            "name": "Meepel Grix",
+            "description": "Can belly roll on demand!\nAlways ready for a food challenge.\nMay accidentally roll away mid-conversation.",
+            "imgurl": "img/71.jpg",
+            "partnernum": "147382335",
+            "location": "Quigorp",
+            "id": "71"
+        },
+        {
+            "realname": "Ilse Hill",
+            "name": "Ilsema Hilmom",
+            "description": "Predicts lottery numbers. \nHas x-ray vision glasses. \nOften gets lost in visions.",
+            "imgurl": "img/72.jpg",
+            "partnernum": "116251550",
+            "location": "Zyphora",
+            "id": "72"
+        },
+        {
+            "realname": "Nina Roussille",
+            "name": "Zina Dazzilar",
+            "description": "Fact: Zina never misses a beat\nFeature: Dazzling disco diva\nFlaw: Sometimes dance floor domination",
+            "imgurl": "img/73.jpg",
+            "partnernum": "177997352",
+            "location": "Glittergroove",
+            "id": "73"
+        },
+        {
+            "realname": "Elinor Poole-Dayan ",
+            "name": "Elinea Beautiscape",
+            "description": "Can talk to plants!\nHome planet is stunningly breathtaking.\nCan be a bit nostalgic.",
+            "imgurl": "img/74.jpg",
+            "partnernum": "180038452",
+            "location": "Verdelight",
+            "id": "74"
+        },
+        {
+            "realname": "Wylie Chang",
+            "name": "Wylfishang",
+            "description": "Double-jointed tentacles for cuddling.\nCan levitate while meditating.\nConstantly mispronounces popular Earth names.",
+            "imgurl": "img/75.jpg",
+            "partnernum": "181088985",
+            "location": "Vexira",
+            "id": "75"
+        },
+        {
+            "realname": "Gauri Gupta",
+            "name": "Gauri Guptanian",
+            "description": "Sparkling Eyes: Reflects cosmic wonder\nTentacle Tickles: Prone to playful surprises\nMemory Mix-up: Endearing forgetfulness",
+            "imgurl": "img/76.jpg",
+            "partnernum": "182702024",
+            "location": "Ziridian",
+            "id": "76"
+        },
+        {
+            "realname": "Phillip Cherner",
+            "name": "Funkor Dancernativo",
+            "description": "Spontaneous dance parties guaranteed!\nCan talk to any creature.\nOccasionally gets stuck in dance-off competitions",
+            "imgurl": "img/77.jpg",
+            "partnernum": "173499952",
+            "location": "Rhythmosphere",
+            "id": "77"
+        },
+        {
+            "realname": "Alessandro Buzzi",
+            "name": "Allesandro Buzzuplanet",
+            "description": "Can levitate while eating cookies.\nShiny bald head attracts good luck.\nTerrible at hiding cookie crumbs.",
+            "imgurl": "img/78.jpg",
+            "partnernum": "183408615",
+            "location": "Crumbsia",
+            "id": "78"
+        },
+        {
+            "realname": "Jurgis Ruza",
+            "name": "Jurtelix Ruzatron",
+            "description": "Fact: Can communicate through interpretive dance.\nFeature: Has glowing tentacles for hair.\nFlaw: Constantly mispronounces Earth words.",
+            "imgurl": "img/79.jpg",
+            "partnernum": "186753688",
+            "location": "\"Vortustria\"",
+            "id": "79"
+        },
+        {
+            "realname": "Emma Batson",
+            "name": "Marella Vortex",
+            "description": "Can recite entire encyclopedia.\nTentacles for high-fives.\nJokes dissolve into giggles.",
+            "imgurl": "img/80.jpg",
+            "partnernum": "186878110",
+            "location": "Aquora",
+            "id": "80"
+        },
+        {
+            "realname": "Jonny Cohen",
+            "name": "Cohenix",
+            "description": "Fact: Can communicate through interpretive dance.\nFeature: Glowing tentacles for hugs.\nFlaw: Often gets lost in other dimensions.",
+            "imgurl": "img/81.jpg",
+            "partnernum": "189406984",
+            "location": "Quarkos",
+            "id": "81"
+        },
+        {
+            "realname": "Vicole Li",
+            "name": "Vicolatron",
+            "description": "Can levitate small objects.\nNever forgets a person's birthday.\nGets easily distracted by shiny objects.",
+            "imgurl": "img/82.jpg",
+            "partnernum": "190888155",
+            "location": "Syntharis",
+            "id": "82"
+        },
+        {
+            "realname": "Cassie Lee",
+            "name": "Casleen Falorra",
+            "description": "Can serenade with cosmic melodies\nAlways up for an adventure\nCan communicate without words",
+            "imgurl": "img/83.jpg",
+            "partnernum": "195857415",
+            "location": "Glitteron",
+            "id": "83"
+        },
+        {
+            "realname": "Jo\u00e3o Loula",
+            "name": "Joulala",
+            "description": "Can communicate through interpretive dance.\nGlows in the dark.\nOccasionally gets sucked into time vortexes.",
+            "imgurl": "img/84.jpg",
+            "partnernum": "196421715",
+            "location": "Ziratul",
+            "id": "84"
+        },
+        {
+            "realname": "Lisia Pertiwi",
+            "name": "Pelisia Vertix",
+            "description": "Fact: Can shape-shift into snacks.\nFeature: Has nine eyes. \nFlaw: Constantly mispronounces common words.",
+            "imgurl": "img/85.jpg",
+            "partnernum": "197704670",
+            "location": "Pyroflix",
+            "id": "85"
+        },
+        {
+            "realname": "Shayne Longpre",
+            "name": "Shaynepre",
+            "description": "Fact: Has six tentacles for multitasking\nFeature: Glows in the dark\nFlaw: Constantly speaks in rhymes",
+            "imgurl": "img/86.jpg",
+            "partnernum": "133471275",
+            "location": "Aetherius",
+            "id": "86"
+        },
+        {
+            "realname": "Anna Stansbury",
+            "name": "Stanna Blanstury",
+            "description": "Colorful dancing alien Sunny.\nHandsome and charming, with a killer smile.\nHas a slight addiction to gum.",
+            "imgurl": "img/87.jpg",
+            "partnernum": "123757335",
+            "location": "Zephyrionex",
+            "id": "87"
+        },
+        {
+            "realname": "Guillermo Herrera-Arcos",
+            "name": "Guitrachthos",
+            "description": "Has a pet space sloth.\nCan flawlessly play air guitar.\nTerrible at intergalactic karaoke.",
+            "imgurl": "img/88.jpg",
+            "partnernum": "199432948",
+            "location": "Zephritheia",
+            "id": "88"
+        },
+        {
+            "realname": "Naana Obeng-Marnu",
+            "name": "Noolara Cal-enjoyer",
+            "description": "Floats pancakes for breakfast.\nCan levitate during movie marathons.\nSometimes telepathy leads to awkwardness.",
+            "imgurl": "img/89.jpg",
+            "partnernum": "196214265",
+            "location": "Blissoria",
+            "id": "89"
+        },
+        {
+            "realname": "Rachele Didero",
+            "name": "Rachelle Shido",
+            "description": "Always glowing pink\nCan make you shine too\nTerrible at blending in",
+            "imgurl": "img/90.jpg",
+            "partnernum": "200328232",
+            "location": "Glimmerdusk",
+            "id": "90"
+        },
+        {
+            "realname": "Beatrice Quagliarini",
+            "name": "QuagliariniTech",
+            "description": "Flaw: Frequently forgets to blink.\nFeature: Has a glowing tentacle.\nFact: Communicates through interpretive dance.",
+            "imgurl": "img/91.jpg",
+            "partnernum": "200879055",
+            "location": "Nebulon",
+            "id": "91"
+        },
+        {
+            "realname": "Rachele Invernizzi",
+            "name": "Invernifish",
+            "description": "Breathes ice, makes cool drinks.\nGlows in the dark parties.\nLeaves slippery trails like disco dance floor.",
+            "imgurl": "img/92.jpg",
+            "partnernum": "155709416",
+            "location": "Cryofinale",
+            "id": "92"
+        },
+        {
+            "realname": "Riccardo Giorgino",
+            "name": "Riccardogino",
+            "description": "Quick-witted and pun-derful.\nCan cook intergalactic pasta.\nOverpowers conversation with loudness.",
+            "imgurl": "img/93.jpg",
+            "partnernum": "182028483",
+            "location": "Zephyrix",
+            "id": "93"
+        },
+        {
+            "realname": "Jon Ferguson",
+            "name": "Ferngol Vonjon",
+            "description": "Can turn any outfit fabulous.\nSings like a fashion icon.\nMight judge your fashion choices.",
+            "imgurl": "img/94.jpg",
+            "partnernum": "201168592",
+            "location": "Chromalux",
+            "id": "94"
+        },
+        {
+            "realname": "Selena Zhang",
+            "name": "Selenazhangalite",
+            "description": "Can levitate tiny objects.\nBioluminescent when happy.\nObsessed with collecting space rocks.",
+            "imgurl": "img/95.jpg",
+            "partnernum": "203055622",
+            "location": "Luminesia",
+            "id": "95"
+        },
+        {
+            "realname": "Rita Issa",
+            "name": "Plexigarita Plexfus",
+            "description": "Predicts your cravings instantly\nCommunicates through mind-reading telepathy\nOccasionally merges with furniture accidentally",
+            "imgurl": "img/96.jpg",
+            "partnernum": "203972715",
+            "location": "Plexifusion",
+            "id": "96"
+        },
+        {
+            "realname": "Isabella Pu",
+            "name": "Isabellidus Rankingchef",
+            "description": "Hand-Fart Extraordinaire: High-pitched DOY mastery!\nWhisk Away Your Worries: Expert chef with culinary wizardry!\nDanced My Way to Wall Street: Raccoon-turned-financial guru!",
+            "imgurl": "img/97.jpg",
+            "partnernum": "204134385",
+            "location": "Racuonia",
+            "id": "97"
+        },
+        {
+            "realname": "Andrew Mazof",
+            "name": "Andromaz Eirthol",
+            "description": "Can eat cosmic amounts (digestive miracle)\nTentacles for sensual tickling\nHas commitment issues (oops)",
+            "imgurl": "img/98.jpg",
+            "partnernum": "204756904",
+            "location": "Zephyrion",
+            "id": "98"
+        },
+        {
+            "realname": "Eve Meltzer",
+            "name": "Melzertilian",
+            "description": "Master of intergalactic cuisine.\nCan communicate telepathically with plants.\nHas a laugh that's out of this world.",
+            "imgurl": "img/99.jpg",
+            "partnernum": "182622405",
+            "location": "Quasarion",
+            "id": "99"
+        },
+        {
+            "realname": "Annika Thomas",
+            "name": "Arianna Machina",
+            "description": "Fact: Has robot dance parties. \nFeature: Can build you robots. \nFlaw: Occasionally mixes up human emotions.",
+            "imgurl": "img/100.jpg",
+            "partnernum": "125222330",
+            "location": "NovaTechria",
+            "id": "100"
+        },
+        {
+            "realname": "Riccardo Fiorista",
+            "name": "Riccorodsian Speedrider",
+            "description": "Can levitate vehicles with mind\nAlways finds lost car keys\nFrequently forgets to pay transit fare",
+            "imgurl": "img/101.jpg",
+            "partnernum": "205843365",
+            "location": "Velocirion",
+            "id": "101"
+        },
+        {
+            "realname": "ana schon",
+            "name": "Znaa Glupro",
+            "description": "Can mimic any sound perfectly\nHair stays perfectly in place\nConstantly tells terrible dad jokes",
+            "imgurl": "img/102.jpg",
+            "partnernum": "208693628",
+            "location": "Floridrium",
+            "id": "102"
+        },
+        {
+            "realname": "Jason Ng",
+            "name": "Jasontop Nguum",
+            "description": "Pumpkin soup connoisseur \nEyes twinkle with cosmic knowledge \nEasily distracted by cosmic wonders",
+            "imgurl": "img/103.jpg",
+            "partnernum": "105016424",
+            "location": "Pumpanth",
+            "id": "103"
+        },
+        {
+            "realname": "Austin C. Davis",
+            "name": "Budzis Triflix",
+            "description": "Always high on life\nExpert bicycle trickster\nParanoid about alien drivers",
+            "imgurl": "img/104.jpg",
+            "partnernum": "140207067",
+            "location": "CannaSpin",
+            "id": "104"
+        },
+        {
+            "realname": "Vir Chachra",
+            "name": "Chirachraffiti",
+            "description": "Can write poetry with chirps.\nFluorescent colors change with mood.\nGets easily distracted by shiny objects.",
+            "imgurl": "img/105.jpg",
+            "partnernum": "209027128",
+            "location": "Glitternova",
+            "id": "105"
+        },
+        {
+            "realname": "Tien Nguyen",
+            "name": "Tienget'Ngein",
+            "description": "Can explode on command.\nGlowing bioluminescent tentacles.\nSometimes forgets to reassemble.",
+            "imgurl": "img/106.jpg",
+            "partnernum": "224703405",
+            "location": "Novaaris",
+            "id": "106"
+        },
+        {
+            "realname": "Candice Chen",
+            "name": "Candrake Chen",
+            "description": "Fact: Masters the art of teleportation.\nFeature: Rainbow-colored tentacle hair.\nFlaw: Communicates solely in interpretive dance.",
+            "imgurl": "img/107.jpg",
+            "partnernum": "209309704",
+            "location": "Aetherion",
+            "id": "107"
+        },
+        {
+            "realname": "Shamkhal ",
+            "name": "Yawnvax",
+            "description": "Can telepathically pick up WiFi signals\nHas the softest tentacle pillows\nHypnotic snoring cures insomnia",
+            "imgurl": "img/108.jpg",
+            "partnernum": "211319745",
+            "location": "Somnacor",
+            "id": "108"
+        },
+        {
+            "realname": "Aaron Householder",
+            "name": "Techarron",
+            "description": "Fact: Can hack anything, legally.\nFeature: Glowing neon swirls on skin.\nFlaw: Always misplaces ray gun.",
+            "imgurl": "img/109.jpg",
+            "partnernum": "166706530",
+            "location": "Spectraflux",
+            "id": "109"
+        },
+        {
+            "realname": "Leticia",
+            "name": "Letificia",
+            "description": "Can levitate when happy.\nGlows in the dark.\nHas a slight magnetic personality.",
+            "imgurl": "img/110.jpg",
+            "partnernum": "214748488",
+            "location": "Blissoria",
+            "id": "110"
+        },
+        {
+            "realname": "Diego Antonelli",
+            "name": "Diegotalionelli",
+            "description": "Fact: Can levitate small objects.\nFeature: Glowing tentacles for hugging.\nFlaw: Always speaks in rhymes.",
+            "imgurl": "img/111.jpg",
+            "partnernum": "216392216",
+            "location": "Zerophilix",
+            "id": "111"
+        },
+        {
+            "realname": "Alan Han",
+            "name": "Lanar Alanesh",
+            "description": "Pattern-shattering rebel, seeking cosmic adventure!\nMind-reading, one intelligent alien!\nOccasional overthinking, but mostly charming.",
+            "imgurl": "img/112.jpg",
+            "partnernum": "221397165",
+            "location": "Transidian",
+            "id": "112"
+        },
+        {
+            "realname": "Ainhoa Genua Cervino",
+            "name": "Techervino",
+            "description": "Can fix anything with wires.\nGlows in the dark.\nOccasionally gets stuck in \"mute\" mode.",
+            "imgurl": "img/113.jpg",
+            "partnernum": "155711205",
+            "location": "Voltara",
+            "id": "113"
+        },
+        {
+            "realname": "Naroa Coretti",
+            "name": "Corettirona",
+            "description": "Can juggle antimatter with ease.\nSings love ballads in Klingon.\nSneezes glitter, not snot.",
+            "imgurl": "img/114.jpg",
+            "partnernum": "193486028",
+            "location": "Pyroxis",
+            "id": "114"
+        },
+        {
+            "realname": "Aastha Shah",
+            "name": "Aqora Sabella",
+            "description": "Never overflows the dishwasher.\nCan breathe underwater indefinitely.\nTerrible at parallel parking.",
+            "imgurl": "img/115.jpg",
+            "partnernum": "179904784",
+            "location": "Aquaflora",
+            "id": "115"
+        },
+        {
+            "realname": "Andrew Bahle",
+            "name": "Bahlern",
+            "description": "Fact: Absorbs sunlight for energy.\nFeature: Glows in the dark.\nFlaw: Has a compulsive hoarding habit.",
+            "imgurl": "img/116.jpg",
+            "partnernum": "223878416",
+            "location": "Zyroth",
+            "id": "116"
+        },
+        {
+            "realname": "Alena Chulick",
+            "name": "Alenatrick Omnivorix",
+            "description": "Eats like a bottomless pit\nCan make you feel validated\nIncredibly picky eater",
+            "imgurl": "img/117.jpg",
+            "partnernum": "255308932",
+            "location": "Gluttonvora",
+            "id": "117"
+        },
+        {
+            "realname": "Ulugbek Abdullaev",
+            "name": "Ulosvelk Abdulaev",
+            "description": "Master of extraterrestrial choreography\nSlides through life effortlessly\nProne to interstellar wanderlust",
+            "imgurl": "img/118.jpg",
+            "partnernum": "224888895",
+            "location": "Frolickine",
+            "id": "118"
+        },
+        {
+            "realname": "Artem Lukoianov",
+            "name": "Aratems Lukozianox",
+            "description": "Can levitate while sleeping.\nWhispers ancient wisdom during showers.\nHas a tendency to teleport unexpectedly.",
+            "imgurl": "img/119.jpg",
+            "partnernum": "226540432",
+            "location": "Omnicosmos",
+            "id": "119"
+        },
+        {
+            "realname": "Oganes Manasian",
+            "name": "Ogos Trabian",
+            "description": "Can brew a mean tea\nCan control their mood\nEasily gets coffee jitters",
+            "imgurl": "img/120.jpg",
+            "partnernum": "206393265",
+            "location": "Coffico",
+            "id": "120"
+        },
+        {
+            "realname": "Francesca Incalza",
+            "name": "Francessi Incalzor",
+            "description": "Secretly grants wishes... mostly.\nCan bake perfect cookies.\nRandom acts of kindness... awkwardly.",
+            "imgurl": "img/121.jpg",
+            "partnernum": "227443340",
+            "location": "Lumisomnia",
+            "id": "121"
+        },
+        {
+            "realname": "she islucky",
+            "name": "Flubblewok Curiositea",
+            "description": "Fact: Can levitate small objects.\nFeature: Has a contagious laughter.\nFlaw: Often gets lost in thought.",
+            "imgurl": "img/122.jpg",
+            "partnernum": "231111392",
+            "location": "Zephyrion",
+            "id": "122"
+        },
+        {
+            "realname": "David Annenberg",
+            "name": "Dax Irisatek",
+            "description": "Can juggle their eyeballs.\nTakes fun to new heights.\nRelentlessly curious, sometimes too much.",
+            "imgurl": "img/123.jpg",
+            "partnernum": "231465968",
+            "location": "Zephora",
+            "id": "123"
+        },
+        {
+            "realname": "Sean Patrick McKay",
+            "name": "Sharkrul Mivak",
+            "description": "Fact: Master of Universal Chit-Chat\nFeature: Fluent in all tongues\nFlaw: Parties for one only",
+            "imgurl": "img/124.jpg",
+            "partnernum": "172610492",
+            "location": "Lonlisar",
+            "id": "124"
+        },
+        {
+            "realname": "Perry Naseck",
+            "name": "Perilax Nostrek",
+            "description": "Can relive cherished moments perfectly.\nCan erase bad memories instantly.\nOccasionally forgets own memories.",
+            "imgurl": "img/125.jpg",
+            "partnernum": "131819506",
+            "location": "Quontaris",
+            "id": "125"
+        },
+        {
+            "realname": "Christina Meyer",
+            "name": "Crysteron Merial",
+            "description": "Can shape-shift into anything (feature)\nHas a contagious laughter (fact)\nOccasionally misplaces their teleporter (flaw)",
+            "imgurl": "img/126.jpg",
+            "partnernum": "129063812",
+            "location": "Aquashard",
+            "id": "126"
+        },
+        {
+            "realname": "Karin Heider",
+            "name": "Korax Hider",
+            "description": "Busts out moves unexpectedly.\nHilarious lack of rhythm.\nMaster of hiding skills.",
+            "imgurl": "img/127.jpg",
+            "partnernum": "138690045",
+            "location": "Lumientis",
+            "id": "127"
+        },
+        {
+            "realname": "Anna Buchele",
+            "name": "Annavirtual Experiencereality",
+            "description": "Ultimate dreamcatcher\nInfinite virtual memory\nReality glitch generator",
+            "imgurl": "img/128.jpg",
+            "partnernum": "188953970",
+            "location": "Illusiorbit",
+            "id": "128"
+        },
+        {
+            "realname": "Ambra D\u2019Imperio ",
+            "name": "Quizzon Inquireo",
+            "description": "Can talk to pugs.\nCan levitate using questions.\nShares Popcorn with squirrels.",
+            "imgurl": "img/129.jpg",
+            "partnernum": "231923488",
+            "location": "Solvoria",
+            "id": "129"
+        },
+        {
+            "realname": "Shruti Dhariwal",
+            "name": "Shrutivolt Dhariwal",
+            "description": "Fact: Eats lightning for breakfast.\nFeature: Glows in the dark.\nFlaw: Constantly loses sense of direction.",
+            "imgurl": "img/130.jpg",
+            "partnernum": "238162815",
+            "location": "Luminor",
+            "id": "130"
+        },
+        {
+            "realname": "Sophia Wienbar",
+            "name": "Zophazar Wibarxi",
+            "description": "Can levitate while dancing!\nCan make any food taste amazing\nLoses track of time",
+            "imgurl": "img/131.jpg",
+            "partnernum": "213484172",
+            "location": "Lumivida",
+            "id": "131"
+        },
+        {
+            "realname": "Matteo Castellani",
+            "name": "Mattalastellan",
+            "description": "Can eat pasta unconsciously.\nSecretly has a granola stash.\nNoodle twirling expert.",
+            "imgurl": "img/132.jpg",
+            "partnernum": "238238864",
+            "location": "Carbontellix",
+            "id": "132"
+        },
+        {
+            "realname": "John Devine",
+            "name": "Johnny \"Texaco\" Divine",
+            "description": "Can hula hoop in space\nExpert line dancer\nMixes air guitar and yodeling",
+            "imgurl": "img/133.jpg",
+            "partnernum": "208059752",
+            "location": "Petrolith",
+            "id": "133"
+        },
+        {
+            "realname": "Luke Hyma ",
+            "name": "Lukenar Hymblox",
+            "description": "Can juggle telephones... while asleep.\nCan read minds... accidentally.\nHas a contagious laughter disorder.",
+            "imgurl": "img/134.jpg",
+            "partnernum": "234587199",
+            "location": "Bureaublitz",
+            "id": "134"
+        },
+        {
+            "realname": "Francesc Canalejo Codina",
+            "name": "Frantechno Codinalejo",
+            "description": "Fact: Speaks in binary code.\nFeature: Glowing antennae headgear.\nFlaw: Terrible at earthling small talk.",
+            "imgurl": "img/135.jpg",
+            "partnernum": "242126704",
+            "location": "Zantralis",
+            "id": "135"
+        },
+        {
+            "realname": "Guzzo",
+            "name": "Guzzolobida",
+            "description": "Always brings the party vibes.\nCan conjure delicious snacks.\nSlightly too obsessed with cheese.",
+            "imgurl": "img/136.jpg",
+            "partnernum": "190889986",
+            "location": "Zylvaterra",
+            "id": "136"
+        },
+        {
+            "realname": "Sasha Podshivalova",
+            "name": "Sashi Poditationalaxy",
+            "description": "Uses mind reading excessively beyond measure.\nHas 8 eyes for double the perspectives.\nIs prone to spontaneous dance-offs.",
+            "imgurl": "img/137.jpg",
+            "partnernum": "105064552",
+            "location": "Deliriumrex",
+            "id": "137"
+        },
+        {
+            "realname": "Alexa Balmuth",
+            "name": "Alxethia Balmuth",
+            "description": "Mind Reader: Knows your favorite food.\nTentacles: Amazing at massages.\nLactose Intolerant: No cheesy pickup lines.",
+            "imgurl": "img/138.jpg",
+            "partnernum": "242182930",
+            "location": "Prismoria",
+            "id": "138"
+        },
+        {
+            "realname": "Sulin Sardoschau",
+            "name": "Sardoschauvis",
+            "description": "Can levitate small objects.\nGlows in the dark.\nAlways sings slightly off-key.",
+            "imgurl": "img/139.jpg",
+            "partnernum": "245618415",
+            "location": "Nebulora",
+            "id": "139"
+        },
+        {
+            "realname": "Simon Sardoschau",
+            "name": "Simix Spenchosau",
+            "description": "Never loses a coin toss.\nConstantly performs impressive coin tricks.\nHas an uncontrollable urge to flip coins during every conversation.",
+            "imgurl": "img/140.jpg",
+            "partnernum": "248658488",
+            "location": "Flipporia",
+            "id": "140"
+        },
+        {
+            "realname": "Azfar Sulaiman",
+            "name": "Azfarulaiman",
+            "description": "Can imitate any musical instrument\nSkin glows in the dark\nIs addicted to playing pranks",
+            "imgurl": "img/141.jpg",
+            "partnernum": "250876395",
+            "location": "Xylophoron",
+            "id": "141"
+        },
+        {
+            "realname": "Manuj Dhariwal",
+            "name": "Dharian Munkweezle",
+            "description": "Never uses public restrooms.\nCan pause time whenever.\nEasily loses track of time.",
+            "imgurl": "img/142.jpg",
+            "partnernum": "110132055",
+            "location": "Temporium",
+            "id": "142"
+        },
+        {
+            "realname": "Samantha Chan",
+            "name": "Sumatra Solaris",
+            "description": "Can control minds, but... (flaw)\nAlways up for great food (feature)\nLives on a bustling planet (fact)",
+            "imgurl": "img/143.jpg",
+            "partnernum": "251302370",
+            "location": "Verdantron",
+            "id": "143"
+        },
+        {
+            "realname": "Diego morra",
+            "name": "Dioggo M\u00f6rreb",
+            "description": "Absorbs sadness, spreads happiness\nTentacles double as massage therapists\nTerrible at playing paddle",
+            "imgurl": "img/144.jpg",
+            "partnernum": "141213584",
+            "location": "Lacrymist",
+            "id": "144"
+        },
+        {
+            "realname": "Dylan Collins",
+            "name": "Dalan Crolinas",
+            "description": "Can juggle invisible objects.\nNose that always knows.\nConstantly loses own belongings.",
+            "imgurl": "img/145.jpg",
+            "partnernum": "252551048",
+            "location": "Fluxora",
+            "id": "145"
+        },
+        {
+            "realname": "Kevin Barker",
+            "name": "Kevlar Woodgrove",
+            "description": "Can levitate while meditating\nHas an ivy-covered spaceship\nGets lost in own thoughts",
+            "imgurl": "img/146.jpg",
+            "partnernum": "203314448",
+            "location": "Verdelight",
+            "id": "146"
+        },
+        {
+            "realname": "Gwen Tsai",
+            "name": "Glip Thornsworth",
+            "description": "Can sleep through anything\nAlways ready for a nap\nExpert snuggler",
+            "imgurl": "img/147.jpg",
+            "partnernum": "245201912",
+            "location": "Hypnozia",
+            "id": "147"
+        },
+        {
+            "realname": "Jeremy liew",
+            "name": "Germus Liewxi",
+            "description": "Can make objects dance.\nCosmic bubble teleportation.\nProne to moonwalk spontaneously.",
+            "imgurl": "img/148.jpg",
+            "partnernum": "271244830",
+            "location": "Frozmora",
+            "id": "148"
+        },
+        {
+            "realname": "Christopher Shallal",
+            "name": "Chrisraphyx the Harmonica",
+            "description": "Expert Harmonicist: Alien virtuoso of harmonica.\nLunar Daredevil: Surfs moon waves fearlessly.\nOverzealous Serenader: Occasionally plays harmonica non-stop.",
+            "imgurl": "img/149.jpg",
+            "partnernum": "252940545",
+            "location": "Melodiosia",
+            "id": "149"
+        },
+        {
+            "realname": "Jessica Rosendorf",
+            "name": "Jessindorf",
+            "description": "Whispers poetry in binary code.\nSix tentacled hug dispenser.\nHas an irrational fear of socks.",
+            "imgurl": "img/150.jpg",
+            "partnernum": "279327352",
+            "location": "Aurorithya",
+            "id": "150"
+        },
+        {
+            "realname": "Ameet Kallarackal",
+            "name": "Flitozar Kallarackal",
+            "description": "Can morph into any form.\nLoves pulling pranks for fun.\nOccasionally gets lost in transformation.",
+            "imgurl": "img/151.jpg",
+            "partnernum": "253703776",
+            "location": "Zephyrolift",
+            "id": "151"
+        },
+        {
+            "realname": "Charles Lee",
+            "name": "Charnox Larrow",
+            "description": "Galactic DJ: Spins cosmic beats!\n\"Infinite Empathy\" Vibe bracelets\nLoves musicals, hates karaoke",
+            "imgurl": "img/152.jpg",
+            "partnernum": "148532625",
+            "location": "Zenicor",
+            "id": "152"
+        },
+        {
+            "realname": "Francesca Romana Calvi",
+            "name": "Calviadon",
+            "description": "Fact: Has six arms.\nFeature: Can communicate telepathically.\nFlaw: Has an addiction to eating socks.",
+            "imgurl": "img/153.jpg",
+            "partnernum": "182108128",
+            "location": "Pyroxis",
+            "id": "153"
+        },
+        {
+            "realname": "Pietro Brach",
+            "name": "Nostalgius Reminisca",
+            "description": "Spontaneously predicts winning lottery numbers.\nCan communicate without speaking.\nConstantly lives in the moment.",
+            "imgurl": "img/154.jpg",
+            "partnernum": "160128436",
+            "location": "Melanchora",
+            "id": "154"
+        },
+        {
+            "realname": "Diana Mykhaylychenko ",
+            "name": "Dianiaworp",
+            "description": "Can eat lava.\nHas three hearts.\nOccasionally combusts during conversations.",
+            "imgurl": "img/155.jpg",
+            "partnernum": "256755056",
+            "location": "Blazoria",
+            "id": "155"
+        },
+        {
+            "realname": "Bernardo Camajori Tedeschini ",
+            "name": "Tedescorian Fishchine",
+            "description": "Fact: Can breathe chocolate milk.\nFeature: Pairs socks in record time.\nFlaw: Constantly forgets own name.",
+            "imgurl": "img/156.jpg",
+            "partnernum": "120115664",
+            "location": "Aquaterra",
+            "id": "156"
+        },
+        {
+            "realname": "Al Weiner",
+            "name": "Alweirn, the Eternally Loving",
+            "description": "Can read minds, but selectively\nCan love unconditionally for eternity\nOccasionally misinterprets thoughts as feelings",
+            "imgurl": "img/157.jpg",
+            "partnernum": "168392450",
+            "location": "Seraphim",
+            "id": "157"
+        },
+        {
+            "realname": "Stefano Passoni",
+            "name": "Stefonitech",
+            "description": "Laserbeam eyes: Warm up leftovers instantly!\nFlaw: Constantly mispronounces Earth words.\nFeature: Glows in the dark.",
+            "imgurl": "img/158.jpg",
+            "partnernum": "244869135",
+            "location": "Xyloflux",
+            "id": "158"
+        },
+        {
+            "realname": "Richard Rose",
+            "name": "Rishard \"Mudswamp\" Droze",
+            "description": "Smooth-talking, amphibious heartthrob\nA shape-shifting dancing machine\nOccasionally leaves a trail behind",
+            "imgurl": "img/159.jpg",
+            "partnernum": "256948065",
+            "location": "Rotox",
+            "id": "159"
+        },
+        {
+            "realname": "Kamila Mustafina",
+            "name": "Kamaflux Mustaflame",
+            "description": "Can levitate while meditating.\nEyes can change color at will.\nMay accidentally set things on fire.",
+            "imgurl": "img/160.jpg",
+            "partnernum": "258904646",
+            "location": "Pyroflux",
+            "id": "160"
+        },
+        {
+            "realname": "Caitlin Norris-Grey ",
+            "name": "Caffrick Glorespin",
+            "description": "Mind-melting fur Elise solos!\nSpongey soft, great for cuddling.\nTalks forever about weather.",
+            "imgurl": "img/161.jpg",
+            "partnernum": "175826716",
+            "location": "Melodora",
+            "id": "161"
+        },
+        {
+            "realname": "Alexei Peters",
+            "name": "Xlypzay Peers",
+            "description": "Can read minds. Chaos ensues.\nTentacles that give great hugs.\nSometimes forgets how to speak.",
+            "imgurl": "img/162.jpg",
+            "partnernum": "260231192",
+            "location": "Mentraacia",
+            "id": "162"
+        },
+        {
+            "realname": "Ryan Cheng",
+            "name": "Rykava Chengflon",
+            "description": "Can fold socks telepathically.\nEye color changes with mood.\nSometimes communicates through interpretive dance.",
+            "imgurl": "img/163.jpg",
+            "partnernum": "118458976",
+            "location": "Zykiria",
+            "id": "163"
+        },
+        {
+            "realname": "Luca E. Lum",
+            "name": "Lucastrum Exceldron",
+            "description": "Fact: Can predict lottery numbers.\nFeature: Eyes change color with mood.\nFlaw: Persuades others a little too much.",
+            "imgurl": "img/164.jpg",
+            "partnernum": "244730224",
+            "location": "Striathron",
+            "id": "164"
+        },
+        {
+            "realname": "Sarah Barreto Ornellas",
+            "name": "Sarellas Battledressin",
+            "description": "Gravity-defying dance moves.\nImpeccable fashion sense.\nHas difficulty communicating verbally.",
+            "imgurl": "img/165.jpg",
+            "partnernum": "273272769",
+            "location": "Gravitora",
+            "id": "165"
+        },
+        {
+            "realname": "niko dellic",
+            "name": "Galaxiio Remixor",
+            "description": "Can tie shoes at warp speed.\nFluent in dolphin conversations.\nOccasionally mistakes moonwalking for normal walking.",
+            "imgurl": "img/166.jpg",
+            "partnernum": "196323170",
+            "location": "Rhythmoria",
+            "id": "166"
+        },
+        {
+            "realname": "Lydia Brosnahan",
+            "name": "Lyrin Broshada",
+            "description": "Hiccuping that reaches outer space\nGathers moon rocks for fun\nNever sleeps, always exploring",
+            "imgurl": "img/167.jpg",
+            "partnernum": "264764630",
+            "location": "Fyxiron",
+            "id": "167"
+        },
+        {
+            "realname": "Galton Van Sluytman",
+            "name": "Gazzlebon Lovegrove",
+            "description": "Gazzlebon can levitate while hugging.\nAlways has heart-shaped sunglasses.\nTerrible at telling jokes.",
+            "imgurl": "img/168.jpg",
+            "partnernum": "265192208",
+            "location": "Amorana",
+            "id": "168"
+        },
+        {
+            "realname": "Viet Nguyen",
+            "name": "Vidotron",
+            "description": "Speaks in TV show quotes.\nCan change the channel with mind.\nGets easily distracted during dates.",
+            "imgurl": "img/169.jpg",
+            "partnernum": "197261415",
+            "location": "Televisuria",
+            "id": "169"
+        },
+        {
+            "realname": "Alisha Kodibagkar",
+            "name": "Duncara Glazedbar",
+            "description": "Moves like a funky donut.\nUnlimited donuts at their disposal.\nCan dance their way out of any situation.",
+            "imgurl": "img/170.jpg",
+            "partnernum": "186088988",
+            "location": "Crullerion",
+            "id": "170"
+        },
+        {
+            "realname": "Fadi G Haddad",
+            "name": "Fadoh Ahsaddah",
+            "description": "Fluently speaks 200 alien languages.\nCan create cosmic harmony.\nSocially awkward in human interactions.",
+            "imgurl": "img/171.jpg",
+            "partnernum": "323303445",
+            "location": "Zandala",
+            "id": "171"
+        },
+        {
+            "realname": "Kush Tiwary ",
+            "name": "Kushaceus Tiwarius",
+            "description": "Can levitate coconuts.\nGlows in the dark.\nTerrible fisherman.",
+            "imgurl": "img/172.jpg",
+            "partnernum": "266171608",
+            "location": "Nebuloria",
+            "id": "172"
+        },
+        {
+            "realname": "Alex Ungar",
+            "name": "Alexanfish",
+            "description": "Communicates through interpretive dance.\nHas bioluminescent scales for hypnotic light shows.\nForgets to breathe underwater sometimes.",
+            "imgurl": "img/173.jpg",
+            "partnernum": "267217335",
+            "location": "Equavida",
+            "id": "173"
+        },
+        {
+            "realname": "\u00c5se H\u00e5tveit",
+            "name": "\u00c5lis H\u00e5tdigis",
+            "description": "Talks to alternate universes\nHas a cool digital home\nProne to echo chamber debates",
+            "imgurl": "img/174.jpg",
+            "partnernum": "270039910",
+            "location": "Echoflux",
+            "id": "174"
+        },
+        {
+            "realname": "Clotilde",
+            "name": "Emotiklor",
+            "description": "Fact: Emotiklor changes eye color.\nFeature: Can feel your emotions.\nFlaw: Takes emotions too seriously.",
+            "imgurl": "img/175.jpg",
+            "partnernum": "227342704",
+            "location": "Sentirelia",
+            "id": "175"
+        },
+        {
+            "realname": "Wazeer Zulfikar",
+            "name": "Wazo Xulphikar",
+            "description": "Fact: Master of Slow-Mo Yoga \nFeature: Elastic Tentacle Arms \nFlaw: Can't Handle Speed Dating",
+            "imgurl": "img/176.jpg",
+            "partnernum": "258410030",
+            "location": "Xantalon",
+            "id": "176"
+        },
+        {
+            "realname": "Fernando Fern\u00e1ndez",
+            "name": "Frenzied Fuego",
+            "description": "Can levitate small objects.\nSense of humor is electrifying.\nTerrible at dancing.",
+            "imgurl": "img/177.jpg",
+            "partnernum": "301444250",
+            "location": "Flamwraith",
+            "id": "177"
+        },
+        {
+            "realname": "Leandra Tejedor ",
+            "name": "Leandrador Tejedeor",
+            "description": "Can knit a spaceship cozy.\nGlows in the dark.\nAlways loses intergalactic directions.",
+            "imgurl": "img/178.jpg",
+            "partnernum": "302651764",
+            "location": "Viserium",
+            "id": "178"
+        },
+        {
+            "realname": "Jacob Boeri",
+            "name": "Jacob Grindax",
+            "description": "Can transform into any creature (Feature)\nHas a contagious sense of humor (Feature)\nProne to chillaxing too often (Flaw)",
+            "imgurl": "img/179.jpg",
+            "partnernum": "210627578",
+            "location": "Grindmorphica",
+            "id": "179"
+        },
+        {
+            "realname": "Aaron Householder",
+            "name": "Arrtion Houseblender",
+            "description": "Fact: Loves dancing like nobody's watching.\nFeature: Can cook intergalactic cuisine.\nFlaw: Frequently loses antenna signal.",
+            "imgurl": "img/180.jpg",
+            "partnernum": "263110815",
+            "location": "Flutterprime",
+            "id": "180"
+        },
+        {
+            "realname": "Anubhav Guha",
+            "name": "Graxx Luxion",
+            "description": "Shape-shifting alien chameleon\nExpert at interstellar poker\nEasily bored with mundane activities",
+            "imgurl": "img/181.jpg",
+            "partnernum": "270208672",
+            "location": "Astracon",
+            "id": "181"
+        },
+        {
+            "realname": "Marissa Fisher",
+            "name": "Sashara Duneslinger",
+            "description": "Fact: Can divide anything, anytime.\nFeature: Sand surfing champion.\nFlaw: Obsessed with collecting sand.",
+            "imgurl": "img/182.jpg",
+            "partnernum": "207429525",
+            "location": "Calcisandria",
+            "id": "182"
+        },
+        {
+            "realname": "Lily Xu",
+            "name": "Lalix, the Sweetgroove",
+            "description": "Endlessly giggly baby whisperer.\nGlittery tentacles that boogie.\nDisguised as a disco ball.",
+            "imgurl": "img/183.jpg",
+            "partnernum": "226163096",
+            "location": "Glucora",
+            "id": "183"
+        },
+        {
+            "realname": "Wilka Carvalho ",
+            "name": "Wlirka Valorax",
+            "description": "Can sense your inner vibes.\nCan teleport to parallel dimensions.\nGets lost in thought easily.",
+            "imgurl": "img/184.jpg",
+            "partnernum": "273568144",
+            "location": "Luminoxis",
+            "id": "184"
+        },
+        {
+            "realname": "Jason Hou",
+            "name": "Jasandor Housand",
+            "description": "Can read minds, no filter.\nSkin changes color with mood.\nHas trouble expressing emotions.",
+            "imgurl": "img/185.jpg",
+            "partnernum": "271048340",
+            "location": "Glimmerdune",
+            "id": "185"
+        },
+        {
+            "realname": "Kachina",
+            "name": "Kachebula",
+            "description": "Telepathic masseuse - everywhere touch\nFour arms for epic hugs\nAlien cuisine connoisseur - spicy!",
+            "imgurl": "img/186.jpg",
+            "partnernum": "149364256",
+            "location": "Lumina",
+            "id": "186"
+        },
+        {
+            "realname": "Towako Hayashi",
+            "name": "Towazip Hayazaxon",
+            "description": "Sings like a funky alien\nTentacles double as backscratchers\nAccidentally disintegrates socks in laundry",
+            "imgurl": "img/187.jpg",
+            "partnernum": "270560385",
+            "location": "Energiria",
+            "id": "187"
+        },
+        {
+            "realname": "Mahelet Kassa",
+            "name": "Techialien",
+            "description": "Can hack any system *wink*\nHas built-in universal translator\nMomentarily glitches during emotional moments",
+            "imgurl": "img/188.jpg",
+            "partnernum": "331636372",
+            "location": "Nebtron",
+            "id": "188"
+        },
+        {
+            "realname": "Josh Williams",
+            "name": "Wiliamfish",
+            "description": "Can communicate through telepathy.\nGlows in the dark.\nOften forgets where they parked.",
+            "imgurl": "img/189.jpg",
+            "partnernum": "271629728",
+            "location": "Lunasphere",
+            "id": "189"
+        },
+        {
+            "realname": "Chance Jiajie Li",
+            "name": "LiTech Fang",
+            "description": "Mind-reading party trick\nGlowing tentacles for dancing\nTerrible at telling jokes",
+            "imgurl": "img/190.jpg",
+            "partnernum": "224355272",
+            "location": "Celestria",
+            "id": "190"
+        },
+        {
+            "realname": "Rohit Priyadarshi Sanatani",
+            "name": "Rohix Pribladix Sanastrani",
+            "description": "Can create microscopic masterpieces.\nHas nails that never chip.\nOccasionally mistakens fingers for canvas.",
+            "imgurl": "img/191.jpg",
+            "partnernum": "218772184",
+            "location": "Toenailia",
+            "id": "191"
+        },
+        {
+            "realname": "Sara Mesquita",
+            "name": "Saranautilus",
+            "description": "Fact: Has six spinning eyestalks.\nFeature: Can communicate through bioluminescent patterns.\nFlaw: Terrible at giving directions.",
+            "imgurl": "img/192.jpg",
+            "partnernum": "203592056",
+            "location": "Celestrosia",
+            "id": "192"
+        },
+        {
+            "realname": "Karolina",
+            "name": "Karolisse",
+            "description": "Can read minds on demand.\nHas charmingly curly tentacles.\nSometimes forgets to filter thoughts.",
+            "imgurl": "img/193.jpg",
+            "partnernum": "190055385",
+            "location": "Aquaridia",
+            "id": "193"
+        },
+        {
+            "realname": "Debjit Banerjee",
+            "name": "Gaviton Attractrix",
+            "description": "Can dance in zero gravity\nMagnetic personality, literally\nTerrible at giving directions",
+            "imgurl": "img/194.jpg",
+            "partnernum": "260678624",
+            "location": "GravitoNexus",
+            "id": "194"
+        },
+        {
+            "realname": "Joachim Schaeffer",
+            "name": "Jocham Zchaeffer",
+            "description": "Expert Techno Dancer\nMulti-dimensional Mannerism Connoisseur\nObsessed with Pretzel-shaped Spaceships",
+            "imgurl": "img/195.jpg",
+            "partnernum": "290441770",
+            "location": "Chromane",
+            "id": "195"
+        },
+        {
+            "realname": "Alina Fonseca Flores",
+            "name": "Aliya Fonsova Filmmorys",
+            "description": "Always serves desserts first.\nCan teleport in-between dance moves.\nForgets to finish movie titles.",
+            "imgurl": "img/196.jpg",
+            "partnernum": "103340640",
+            "location": "Harmonia",
+            "id": "196"
+        },
+        {
+            "realname": "Carme pons royo ",
+            "name": "Carmefish Ponsroyo",
+            "description": "Fact: Can turn invisible.\nFeature: Glows in the dark.\nFlaw: Often gets lost in translation.",
+            "imgurl": "img/197.jpg",
+            "partnernum": "184713976",
+            "location": "Chromalexis",
+            "id": "197"
+        },
+        {
+            "realname": "Parfait Atchade",
+            "name": "Parsatlak Etchade",
+            "description": "Multilingual love whisperer\nCan translate love in any tongue\nFrequently loses words mid-sentence",
+            "imgurl": "img/198.jpg",
+            "partnernum": "166212808",
+            "location": "Lingaria",
+            "id": "198"
+        },
+        {
+            "realname": "Noah Lerner",
+            "name": "Noako Lernaris",
+            "description": "Can expertly repair alien footwear\nHas a contagious laughter\nHas a tendency to misplace things",
+            "imgurl": "img/199.jpg",
+            "partnernum": "209816696",
+            "location": "Cordis",
+            "id": "199"
+        },
+        {
+            "realname": "Ingrid Lykke Borre",
+            "name": "Ingrilix Borranomy",
+            "description": "Can create new homes\nExpert at planet makeover\nSometimes forgets to eat",
+            "imgurl": "img/200.jpg",
+            "partnernum": "156322490",
+            "location": "Terraluna",
+            "id": "200"
+        },
+        {
+            "realname": "jaco",
+            "name": "Jaconucliv",
+            "description": "Can communicate with anyone\nAble to transcend boundaries\nOccasionally forgets personal boundaries",
+            "imgurl": "img/201.jpg",
+            "partnernum": "206790368",
+            "location": "Atomarxis",
+            "id": "201"
+        },
+        {
+            "realname": "Nemo Shi",
+            "name": "Nemoshiton",
+            "description": "Never eats the last slice.\nHas a tail that glows.\nOccasionally misplaces tentacles.",
+            "imgurl": "img/202.jpg",
+            "partnernum": "279947872",
+            "location": "Quazmirae",
+            "id": "202"
+        },
+        {
+            "realname": "Lasse Bruun",
+            "name": "Bruulnex",
+            "description": "Can levitate objects telepathically\nCan camouflage perfectly into surroundings\nForgets important dates easily",
+            "imgurl": "img/203.jpg",
+            "partnernum": "284847615",
+            "location": "Syntaris",
+            "id": "203"
+        },
+        {
+            "realname": "Eunhae Lee",
+            "name": "Lunara Sandwater",
+            "description": "Wears seashells as earrings.\nCan create sandcastles instantly.\nOccasionally floods the bathroom.",
+            "imgurl": "img/204.jpg",
+            "partnernum": "124015008",
+            "location": "Zehyros",
+            "id": "204"
+        },
+        {
+            "realname": "Wing Cheung Michael Wong",
+            "name": "Tech Cheung Michael Wong",
+            "description": "Fact: Can levitate small objects.\nFeature: Glowing neon green eyes.\nFlaw: Slightly obsessed with keyboards.",
+            "imgurl": "img/205.jpg",
+            "partnernum": "123228768",
+            "location": "Fluxoria",
+            "id": "205"
+        },
+        {
+            "realname": "Ticha Sethapakdi",
+            "name": "Tichaphak",
+            "description": "Fact: Eats pizza with tentacles.\nFeature: Glows in the dark.\nFlaw: Terrible at small talk.",
+            "imgurl": "img/206.jpg",
+            "partnernum": "274655648",
+            "location": "Zaldrax",
+            "id": "206"
+        },
+        {
+            "realname": "Vasha Dutell",
+            "name": "Xylara Wovenspace",
+            "description": "Weaves cosmic magic carpets.\nCalmness in every storm.\nForgets own phone number often.",
+            "imgurl": "img/207.jpg",
+            "partnernum": "269448634",
+            "location": "Serenithra",
+            "id": "207"
+        },
+        {
+            "realname": "Mark Hamilton",
+            "name": "Squarxlon Biltarb",
+            "description": "Finds square-shaped objects irresistible.\nCan levitate while foraging mushrooms.\nMistakes squares for mushrooms sometimes.",
+            "imgurl": "img/208.jpg",
+            "partnernum": "266560785",
+            "location": "Quadrosia",
+            "id": "208"
+        },
+        {
+            "realname": "Anne Harrington",
+            "name": "Harranix",
+            "description": "Fact: Has six arms\nFeature: Glows in the dark\nFlaw: Speaks entirely in riddles",
+            "imgurl": "img/209.jpg",
+            "partnernum": "125269528",
+            "location": "Celestora",
+            "id": "209"
+        },
+        {
+            "realname": "Eduardo Bilbao Pav\u00f3n",
+            "name": "Pavardo",
+            "description": "Hilarious mimicry skills: Spot-on impressions!\nGlowing multi-colored eyes: Disco party on demand.\nTerrible at telling jokes: So bad, it's good!",
+            "imgurl": "img/210.jpg",
+            "partnernum": "254264283",
+            "location": "Crystallion",
+            "id": "210"
+        },
+        {
+            "realname": "Elisabetta Cornacchia",
+            "name": "Elisafetta Cornanchia",
+            "description": "Fact: Can levitate everyday objects.\nFeature: Glowing purple antennae.\nFlaw: Eats all the cookies.",
+            "imgurl": "img/211.jpg",
+            "partnernum": "275148208",
+            "location": "Nepturianth",
+            "id": "211"
+        },
+        {
+            "realname": "Miranda Dawson",
+            "name": "Emryx Zenran",
+            "description": "Fact: Can rewind embarrassing moments.\nFeature: Infinite empathy, limited drama.\nFlaw: Multitasking, except with emotions.",
+            "imgurl": "img/212.jpg",
+            "partnernum": "173269088",
+            "location": "Syntera",
+            "id": "212"
+        },
+        {
+            "realname": "Mateo Fernandez",
+            "name": "Fernandezia",
+            "description": "Fact: Expert at salsa dancing.\nFeature: Glows in the dark.\nFlaw: Constantly forgets own name.",
+            "imgurl": "img/213.jpg",
+            "partnernum": "347397705",
+            "location": "Luminara",
+            "id": "213"
+        },
+        {
+            "realname": "Milka Piszczek",
+            "name": "Piszczekora",
+            "description": "Fact: Excellent at solving puzzles.\nFeature: Tentacles with a soft touch.\nFlaw: Easily distracted by shiny objects.",
+            "imgurl": "img/214.jpg",
+            "partnernum": "173843216",
+            "location": "Luminozis",
+            "id": "214"
+        },
+        {
+            "realname": "Andrea Lerner",
+            "name": "Aqua Lerna",
+            "description": "Can turn water into wine.\nGlows in the dark.\nSometimes creates fish tornadoes.",
+            "imgurl": "img/215.jpg",
+            "partnernum": "184694055",
+            "location": "Elysion",
+            "id": "215"
+        },
+        {
+            "realname": "Giuditta Perinelli",
+            "name": "Grydiatix Pernxalli",
+            "description": "Can balance upside down\nImpressive party trick\nOccasionally falls on face",
+            "imgurl": "img/216.jpg",
+            "partnernum": "141993412",
+            "location": "Lumiserra",
+            "id": "216"
+        },
+        {
+            "realname": "Francesco Destro",
+            "name": "Francesco Destrofin",
+            "description": "Bubble gum aficionado\n3-second memory span\nCan breathe underwater",
+            "imgurl": "img/217.jpg",
+            "partnernum": "165181144",
+            "location": "Aquarion",
+            "id": "217"
+        },
+        {
+            "realname": "Aleksandra Przegalinska",
+            "name": "Alekzweezl Przegalinsjarnk",
+            "description": "Grows roses on Venus.\nShoots lasers from antennae.\nOften accidentally sets things on fire.",
+            "imgurl": "img/218.jpg",
+            "partnernum": "256201912",
+            "location": "Verduranize",
+            "id": "218"
+        },
+        {
+            "realname": "Reed Foster",
+            "name": "Zeed Oraster",
+            "description": "Can out-dance anyone.\nSends good vibes through moves.\nAlways ready for a party.",
+            "imgurl": "img/219.jpg",
+            "partnernum": "166679096",
+            "location": "Rhythmora",
+            "id": "219"
+        },
+        {
+            "realname": "Saurabh Nath",
+            "name": "Saunor-Nathna",
+            "description": "Fact without descriptive words: Telekinetic cereal dispenser.\nFeature: Glows in the dark.\nFlaw: Can't resist salsa dancing.",
+            "imgurl": "img/220.jpg",
+            "partnernum": "257841296",
+            "location": "Elysirex",
+            "id": "220"
+        },
+        {
+            "realname": "Lenni Justen",
+            "name": "Lennax Jus-Zen",
+            "description": "Can jump galaxies\nAlways has a story\nNot a great listener",
+            "imgurl": "img/221.jpg",
+            "partnernum": "235831635",
+            "location": "Solara",
+            "id": "221"
+        },
+        {
+            "realname": "Jessie Mindel",
+            "name": "Elsie Mindor",
+            "description": "Enigmatic weaver of worlds.\nCalculates love, just for fun!\nBeware spontaneous musical combustion.",
+            "imgurl": "img/222.png",
+            "partnernum": "194594085",
+            "location": "Mythorium",
+            "id": "222"
+        },
+        {
+            "realname": "Placeholder 0",
+            "name": "Spork Zponful",
+            "description": "Redacted\nRedacted\nRedacted",
+            "imgurl": "img/placeholder.png",
+            "partnernum": "-1",
+            "location": "Not Earth",
+            "id": "-1"
+        }
+    ],
+    "matches": {
+        "0": [
+            "9"
+        ],
+        "9": [
+            "0"
+        ],
+        "1": [
+            "126"
+        ],
+        "126": [
+            "1"
+        ],
+        "2": [
+            "103"
+        ],
+        "103": [
+            "2"
+        ],
+        "3": [
+            "137"
+        ],
+        "137": [
+            "3"
+        ],
+        "4": [
+            "72"
+        ],
+        "72": [
+            "4"
+        ],
+        "5": [
+            "142"
+        ],
+        "142": [
+            "5"
+        ],
+        "6": [
+            "100"
+        ],
+        "100": [
+            "6"
+        ],
+        "7": [
+            "209"
+        ],
+        "209": [
+            "7"
+        ],
+        "8": [
+            "87"
+        ],
+        "87": [
+            "8"
+        ],
+        "10": [
+            "163"
+        ],
+        "163": [
+            "10"
+        ],
+        "11": [
+            "37"
+        ],
+        "37": [
+            "11"
+        ],
+        "12": [
+            "156"
+        ],
+        "156": [
+            "12"
+        ],
+        "13": [
+            "125"
+        ],
+        "125": [
+            "13"
+        ],
+        "14": [
+            "22"
+        ],
+        "22": [
+            "14"
+        ],
+        "15": [
+            "127"
+        ],
+        "127": [
+            "15"
+        ],
+        "16": [
+            "152"
+        ],
+        "152": [
+            "16"
+        ],
+        "17": [
+            "65"
+        ],
+        "65": [
+            "17"
+        ],
+        "18": [
+            "32"
+        ],
+        "32": [
+            "18"
+        ],
+        "19": [
+            "30"
+        ],
+        "30": [
+            "19"
+        ],
+        "20": [
+            "86"
+        ],
+        "86": [
+            "20"
+        ],
+        "21": [
+            "144"
+        ],
+        "144": [
+            "21"
+        ],
+        "23": [
+            "50"
+        ],
+        "50": [
+            "23"
+        ],
+        "24": [
+            "71"
+        ],
+        "71": [
+            "24"
+        ],
+        "25": [
+            "104"
+        ],
+        "104": [
+            "25"
+        ],
+        "26": [
+            "113"
+        ],
+        "113": [
+            "26"
+        ],
+        "27": [
+            "216"
+        ],
+        "216": [
+            "27"
+        ],
+        "28": [
+            "29"
+        ],
+        "29": [
+            "28"
+        ],
+        "31": [
+            "200"
+        ],
+        "200": [
+            "31"
+        ],
+        "33": [
+            "46"
+        ],
+        "46": [
+            "33"
+        ],
+        "34": [
+            "92"
+        ],
+        "92": [
+            "34"
+        ],
+        "35": [
+            "170"
+        ],
+        "170": [
+            "35"
+        ],
+        "36": [
+            "186"
+        ],
+        "186": [
+            "36"
+        ],
+        "38": [
+            "59"
+        ],
+        "59": [
+            "38"
+        ],
+        "39": [
+            "93"
+        ],
+        "93": [
+            "39"
+        ],
+        "40": [
+            "154"
+        ],
+        "154": [
+            "40"
+        ],
+        "41": [
+            "157"
+        ],
+        "157": [
+            "41"
+        ],
+        "42": [
+            "136"
+        ],
+        "136": [
+            "42"
+        ],
+        "43": [
+            "124"
+        ],
+        "124": [
+            "43"
+        ],
+        "44": [
+            "67"
+        ],
+        "67": [
+            "44"
+        ],
+        "45": [
+            "217"
+        ],
+        "217": [
+            "45"
+        ],
+        "47": [
+            "68"
+        ],
+        "68": [
+            "47"
+        ],
+        "48": [
+            "109"
+        ],
+        "109": [
+            "48"
+        ],
+        "49": [
+            "219"
+        ],
+        "219": [
+            "49"
+        ],
+        "51": [
+            "198"
+        ],
+        "198": [
+            "51"
+        ],
+        "52": [
+            "62"
+        ],
+        "62": [
+            "52"
+        ],
+        "53": [
+            "99"
+        ],
+        "99": [
+            "53"
+        ],
+        "54": [
+            "128"
+        ],
+        "128": [
+            "54"
+        ],
+        "55": [
+            "115"
+        ],
+        "115": [
+            "55"
+        ],
+        "56": [
+            "77"
+        ],
+        "77": [
+            "56"
+        ],
+        "57": [
+            "63"
+        ],
+        "63": [
+            "57"
+        ],
+        "58": [
+            "212"
+        ],
+        "212": [
+            "58"
+        ],
+        "60": [
+            "214"
+        ],
+        "214": [
+            "60"
+        ],
+        "61": [
+            "85"
+        ],
+        "85": [
+            "61"
+        ],
+        "64": [
+            "169"
+        ],
+        "169": [
+            "64"
+        ],
+        "66": [
+            "161"
+        ],
+        "161": [
+            "66"
+        ],
+        "69": [
+            "70"
+        ],
+        "70": [
+            "69"
+        ],
+        "73": [
+            "153"
+        ],
+        "153": [
+            "73"
+        ],
+        "74": [
+            "114"
+        ],
+        "114": [
+            "74"
+        ],
+        "75": [
+            "215"
+        ],
+        "215": [
+            "75"
+        ],
+        "76": [
+            "197"
+        ],
+        "197": [
+            "76"
+        ],
+        "78": [
+            "193"
+        ],
+        "193": [
+            "78"
+        ],
+        "79": [
+            "133"
+        ],
+        "133": [
+            "79"
+        ],
+        "80": [
+            "166"
+        ],
+        "166": [
+            "80"
+        ],
+        "81": [
+            "192"
+        ],
+        "192": [
+            "81"
+        ],
+        "82": [
+            "222"
+        ],
+        "222": [
+            "82"
+        ],
+        "83": [
+            "89"
+        ],
+        "89": [
+            "83"
+        ],
+        "84": [
+            "106"
+        ],
+        "106": [
+            "84"
+        ],
+        "88": [
+            "131"
+        ],
+        "131": [
+            "88"
+        ],
+        "90": [
+            "201"
+        ],
+        "201": [
+            "90"
+        ],
+        "91": [
+            "120"
+        ],
+        "120": [
+            "91"
+        ],
+        "94": [
+            "146"
+        ],
+        "146": [
+            "94"
+        ],
+        "95": [
+            "179"
+        ],
+        "179": [
+            "95"
+        ],
+        "96": [
+            "182"
+        ],
+        "182": [
+            "96"
+        ],
+        "97": [
+            "158"
+        ],
+        "158": [
+            "97"
+        ],
+        "98": [
+            "183"
+        ],
+        "183": [
+            "98"
+        ],
+        "101": [
+            "210"
+        ],
+        "210": [
+            "101"
+        ],
+        "102": [
+            "117"
+        ],
+        "117": [
+            "102"
+        ],
+        "105": [
+            "190"
+        ],
+        "190": [
+            "105"
+        ],
+        "107": [
+            "199"
+        ],
+        "199": [
+            "107"
+        ],
+        "108": [
+            "134"
+        ],
+        "134": [
+            "108"
+        ],
+        "110": [
+            "147"
+        ],
+        "147": [
+            "110"
+        ],
+        "111": [
+            "191"
+        ],
+        "191": [
+            "111"
+        ],
+        "112": [
+            "221"
+        ],
+        "221": [
+            "112"
+        ],
+        "116": [
+            "175"
+        ],
+        "175": [
+            "116"
+        ],
+        "118": [
+            "165"
+        ],
+        "165": [
+            "118"
+        ],
+        "119": [
+            "123"
+        ],
+        "123": [
+            "119"
+        ],
+        "121": [
+            "178"
+        ],
+        "178": [
+            "121"
+        ],
+        "122": [
+            "129"
+        ],
+        "129": [
+            "122"
+        ],
+        "130": [
+            "187"
+        ],
+        "187": [
+            "130"
+        ],
+        "132": [
+            "164"
+        ],
+        "164": [
+            "132"
+        ],
+        "135": [
+            "220"
+        ],
+        "220": [
+            "135"
+        ],
+        "138": [
+            "176"
+        ],
+        "176": [
+            "138"
+        ],
+        "139": [
+            "208"
+        ],
+        "208": [
+            "139"
+        ],
+        "140": [
+            "218"
+        ],
+        "218": [
+            "140"
+        ],
+        "141": [
+            "171"
+        ],
+        "171": [
+            "141"
+        ],
+        "143": [
+            "148"
+        ],
+        "148": [
+            "143"
+        ],
+        "145": [
+            "150"
+        ],
+        "150": [
+            "145"
+        ],
+        "149": [
+            "203"
+        ],
+        "203": [
+            "149"
+        ],
+        "151": [
+            "194"
+        ],
+        "194": [
+            "151"
+        ],
+        "155": [
+            "184"
+        ],
+        "184": [
+            "155"
+        ],
+        "159": [
+            "180"
+        ],
+        "180": [
+            "159"
+        ],
+        "160": [
+            "207"
+        ],
+        "207": [
+            "160"
+        ],
+        "162": [
+            "172"
+        ],
+        "172": [
+            "162"
+        ],
+        "167": [
+            "195"
+        ],
+        "195": [
+            "167"
+        ],
+        "168": [
+            "211"
+        ],
+        "211": [
+            "168"
+        ],
+        "173": [
+            "213"
+        ],
+        "213": [
+            "173"
+        ],
+        "174": [
+            "177"
+        ],
+        "177": [
+            "174"
+        ],
+        "181": [
+            "206"
+        ],
+        "206": [
+            "181"
+        ],
+        "185": [
+            "188"
+        ],
+        "188": [
+            "185"
+        ],
+        "189": [
+            "202"
+        ],
+        "202": [
+            "189"
+        ],
+        "196": [
+            "205",
+            "204"
+        ],
+        "205": [
+            "196",
+            "204"
+        ],
+        "204": [
+            "205",
+            "196"
+        ]
     }
-  ],
-  "matches": {
-    "0": ["9"],
-    "9": ["0"],
-    "1": ["126"],
-    "126": ["1"],
-    "2": ["103"],
-    "103": ["2"],
-    "3": ["137"],
-    "137": ["3"],
-    "4": ["72"],
-    "72": ["4"],
-    "5": ["142"],
-    "142": ["5"],
-    "6": ["100"],
-    "100": ["6"],
-    "7": ["209"],
-    "209": ["7"],
-    "8": ["87"],
-    "87": ["8"],
-    "10": ["163"],
-    "163": ["10"],
-    "11": ["37"],
-    "37": ["11"],
-    "12": ["156"],
-    "156": ["12"],
-    "13": ["125"],
-    "125": ["13"],
-    "14": ["22"],
-    "22": ["14"],
-    "15": ["127"],
-    "127": ["15"],
-    "16": ["152"],
-    "152": ["16"],
-    "17": ["65"],
-    "65": ["17"],
-    "18": ["32"],
-    "32": ["18"],
-    "19": ["30"],
-    "30": ["19"],
-    "20": ["86"],
-    "86": ["20"],
-    "21": ["144"],
-    "144": ["21"],
-    "23": ["50"],
-    "50": ["23"],
-    "24": ["71"],
-    "71": ["24"],
-    "25": ["104"],
-    "104": ["25"],
-    "26": ["113"],
-    "113": ["26"],
-    "27": ["216"],
-    "216": ["27"],
-    "28": ["29"],
-    "29": ["28"],
-    "31": ["200"],
-    "200": ["31"],
-    "33": ["46"],
-    "46": ["33"],
-    "34": ["92"],
-    "92": ["34"],
-    "35": ["170"],
-    "170": ["35"],
-    "36": ["186"],
-    "186": ["36"],
-    "38": ["59"],
-    "59": ["38"],
-    "39": ["93"],
-    "93": ["39"],
-    "40": ["154"],
-    "154": ["40"],
-    "41": ["157"],
-    "157": ["41"],
-    "42": ["136"],
-    "136": ["42"],
-    "43": ["124"],
-    "124": ["43"],
-    "44": ["67"],
-    "67": ["44"],
-    "45": ["217"],
-    "217": ["45"],
-    "47": ["68"],
-    "68": ["47"],
-    "48": ["109"],
-    "109": ["48"],
-    "49": ["219"],
-    "219": ["49"],
-    "51": ["198"],
-    "198": ["51"],
-    "52": ["62"],
-    "62": ["52"],
-    "53": ["99"],
-    "99": ["53"],
-    "54": ["128"],
-    "128": ["54"],
-    "55": ["115"],
-    "115": ["55"],
-    "56": ["77"],
-    "77": ["56"],
-    "57": ["63"],
-    "63": ["57"],
-    "58": ["212"],
-    "212": ["58"],
-    "60": ["214"],
-    "214": ["60"],
-    "61": ["85"],
-    "85": ["61"],
-    "64": ["169"],
-    "169": ["64"],
-    "66": ["161"],
-    "161": ["66"],
-    "69": ["70"],
-    "70": ["69"],
-    "73": ["153"],
-    "153": ["73"],
-    "74": ["114"],
-    "114": ["74"],
-    "75": ["215"],
-    "215": ["75"],
-    "76": ["197"],
-    "197": ["76"],
-    "78": ["193"],
-    "193": ["78"],
-    "79": ["133"],
-    "133": ["79"],
-    "80": ["166"],
-    "166": ["80"],
-    "81": ["192"],
-    "192": ["81"],
-    "82": ["222"],
-    "222": ["82"],
-    "83": ["89"],
-    "89": ["83"],
-    "84": ["106"],
-    "106": ["84"],
-    "88": ["131"],
-    "131": ["88"],
-    "90": ["201"],
-    "201": ["90"],
-    "91": ["120"],
-    "120": ["91"],
-    "94": ["146"],
-    "146": ["94"],
-    "95": ["179"],
-    "179": ["95"],
-    "96": ["182"],
-    "182": ["96"],
-    "97": ["158"],
-    "158": ["97"],
-    "98": ["183"],
-    "183": ["98"],
-    "101": ["210"],
-    "210": ["101"],
-    "102": ["117"],
-    "117": ["102"],
-    "105": ["190"],
-    "190": ["105"],
-    "107": ["199"],
-    "199": ["107"],
-    "108": ["134"],
-    "134": ["108"],
-    "110": ["147"],
-    "147": ["110"],
-    "111": ["191"],
-    "191": ["111"],
-    "112": ["221"],
-    "221": ["112"],
-    "116": ["175"],
-    "175": ["116"],
-    "118": ["165"],
-    "165": ["118"],
-    "119": ["123"],
-    "123": ["119"],
-    "121": ["178"],
-    "178": ["121"],
-    "122": ["129"],
-    "129": ["122"],
-    "130": ["187"],
-    "187": ["130"],
-    "132": ["164"],
-    "164": ["132"],
-    "135": ["220"],
-    "220": ["135"],
-    "138": ["176"],
-    "176": ["138"],
-    "139": ["208"],
-    "208": ["139"],
-    "140": ["218"],
-    "218": ["140"],
-    "141": ["171"],
-    "171": ["141"],
-    "143": ["148"],
-    "148": ["143"],
-    "145": ["150"],
-    "150": ["145"],
-    "149": ["203"],
-    "203": ["149"],
-    "151": ["194"],
-    "194": ["151"],
-    "155": ["184"],
-    "184": ["155"],
-    "159": ["180"],
-    "180": ["159"],
-    "160": ["207"],
-    "207": ["160"],
-    "162": ["172"],
-    "172": ["162"],
-    "167": ["195"],
-    "195": ["167"],
-    "168": ["211"],
-    "211": ["168"],
-    "173": ["213"],
-    "213": ["173"],
-    "174": ["177"],
-    "177": ["174"],
-    "181": ["206"],
-    "206": ["181"],
-    "185": ["188"],
-    "188": ["185"],
-    "189": ["202"],
-    "202": ["189"],
-    "196": ["205", "204"],
-    "205": ["196", "204"]
-  }
 }

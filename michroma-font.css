@@ -1,0 +1,11 @@
+/* add michroma font face from google fonts */
+@font-face {
+  font-family: "michroma";
+  /* src: url(https://fonts.googleapis.com/css2?family=Michroma&display=swap); */
+  src: url(https://fonts.gstatic.com/s/michroma/v19/PN_zRfy9qWD8fEagAPgzpTnr_w.woff2);
+  /* src: url(/fonts/michroma.ttf) format("truetype"); */
+}
+
+body {
+  font-family: "michroma" !important;
+}
