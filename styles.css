@@ -1,10 +1,5 @@
-/* @font-face {
-  font-family: "pain";
-  src: url(./Berzulis-MAGYLA-Regular.ttf) format("truetype");
-} */
-
 @font-face {
-  src: url(/EurostileExtendedBlack.ttf);
+  src: url(/fonts/EurostileExtendedBlack.ttf);
   font-family: "eurostyle";
 }
 
@@ -13,7 +8,7 @@
   font-family: "michroma";
   /* src: url(https://fonts.googleapis.com/css2?family=Michroma&display=swap); */
   /* src: url(https://fonts.gstatic.com/s/michroma/v19/PN_zRfy9qWD8fEagAPgzpTnr_w.woff2); */
-  src: url(/Michroma-Regular.ttf);
+  src: url(/fonts/Michroma-Regular.ttf);
 }
 
 body {
@@ -37,7 +32,7 @@ body {
     #eeeeee
   );
 
-  font-family: "roboto", sans-serif;
+  font-family: "michroma", "roboto", sans-serif;
   margin: 3rem;
   color: white;
   /* animation: gradientAnimation 5s linear infinite; */

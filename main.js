@@ -110,7 +110,7 @@ for (let i = 0; i < matchMaker.length; i += partitionSize) {
 // slice none of the json
 // const plot = pagedJson.slice(0, 2);
 
-const start = 0;
+const start = pagedJson.length - 1;
 // const end = 8;
 const end = pagedJson.length;
 
@@ -133,6 +133,22 @@ const plot = pagedJson.slice(start, end);
     // Add the CSS style to the page
     const css = fs.readFileSync("./styles.css", "utf8");
     await page.addStyleTag({ content: css });
+    await page.addStyleTag({ content: 
+      `
+      @font-face {
+        font-family: 'michroma';
+        src: local('michroma'), url('./fonts/michroma.ttf') format('truetype');
+      }
+      body {
+        font-family: 'michroma', sans-serif !important;
+      }
+    `
+  });
+
+  // wait for selector
+  await page.waitForSelector("h1.your-name")
+
+
 
     // Perform additional operations for each data item if needed
 
@@ -150,10 +166,25 @@ const plot = pagedJson.slice(start, end);
     //   printBackground: true,
     // });
 
+
+    // console log the viewporet size
+
+    await page.setViewport({ 
+      // make 4k @ 16:9
+      width: 2048,
+      height: 1152,
+    });
+    const viewport = await page.viewport();
+
+    console.log(viewport)
+
+
     await page.screenshot({
       path: `./output/output_${plot.indexOf(dataItem) + start}.png`,
       fullPage: true,
     });
+
+    console.log(`wrote output_${plot.indexOf(dataItem) + start}.png`)
 
     // Close the page
     await page.close();
