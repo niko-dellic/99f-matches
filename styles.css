@@ -1,0 +1,75 @@
+/* @font-face {
+  font-family: "pain";
+  src: url(./Berzulis-MAGYLA-Regular.ttf) format("truetype");
+} */
+
+@keyframes gradientAnimation {
+  0% {
+    background: linear-gradient(45deg, #ff5733, #6e45e2, #1d8cf8);
+  }
+  50% {
+    background: linear-gradient(45deg, #1d8cf8, #ff5733, #6e45e2);
+  }
+  100% {
+    background: linear-gradient(45deg, #6e45e2, #1d8cf8, #ff5733);
+  }
+}
+
+body {
+  /* linear gradient backgrounbd */
+  background: linear-gradient(
+    45deg,
+    rgba(0, 212, 255, 1) 0%,
+    rgba(9, 9, 121, 1) 65%,
+    rgb(17, 255, 0) 80%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  font-family: "roboto", sans-serif !important;
+  margin: 3rem;
+  color: white;
+  /* animation: gradientAnimation 5s linear infinite; */
+}
+
+h1 {
+  white-space: nowrap;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  /* center grid items */
+  align-items: center;
+  justify-items: center;
+  /* align center */
+  text-align: center;
+  gap: 5rem;
+}
+
+.grid * {
+  width: 100%;
+}
+
+img {
+  /* cover */
+  object-fit: cover;
+  max-width: 250px;
+  max-height: 350px;
+}
+
+/* select the first four children */
+.grid div:nth-child(1),
+.grid div:nth-child(2),
+.grid div:nth-child(3),
+.grid div:nth-child(4) {
+  transform: rotate(180deg);
+}
+
+/* first row of grid upside down */
+
+.life-is-an-internal-battle {
+  font-family: "pain", sans-serif;
+  border: 1px solid white;
+  display: inline-block;
+  width: auto;
+  padding: 1rem;
+}
