@@ -3,18 +3,6 @@
   src: url(./Berzulis-MAGYLA-Regular.ttf) format("truetype");
 } */
 
-@keyframes gradientAnimation {
-  0% {
-    background: linear-gradient(45deg, #ff5733, #6e45e2, #1d8cf8);
-  }
-  50% {
-    background: linear-gradient(45deg, #1d8cf8, #ff5733, #6e45e2);
-  }
-  100% {
-    background: linear-gradient(45deg, #6e45e2, #1d8cf8, #ff5733);
-  }
-}
-
 body {
   /* linear gradient backgrounbd */
   background: linear-gradient(

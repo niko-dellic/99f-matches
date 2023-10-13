@@ -21,24 +21,22 @@ for (let i = 0; i < jsonData.length; i += 4) {
   const partition = jsonData.slice(i, i + 4);
   const flatten = [];
   // get flatten of json with combined keys
+  const newElement = {};
+
   partition.forEach((element, index) => {
     // rename keys to be unique with the index
     const keys = Object.keys(element);
     const newKeys = keys.map((key) => `${key}${index}`);
 
     // combine keys and values
-    const newElement = {};
     newKeys.forEach((key, index) => {
       newElement[key] = element[keys[index]];
     });
-
-    flatten.push(newElement);
   });
 
+  flatten.push(newElement);
   pagedJson.push(flatten);
 }
-
-console.log(pagedJson);
 
 (async () => {
   const browser = await puppeteer.launch({
@@ -48,6 +46,8 @@ console.log(pagedJson);
 
   // Inject the HTML content into the page
   const htmlContent = template({ data: pagedJson[0] });
+
+  console.log(htmlContent);
 
   await page.setContent(htmlContent);
 
