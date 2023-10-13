@@ -1,53 +1,64 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Generated Content</title>
-    <link rel="stylesheet" href="styles.css" type="text/css" />
-  </head>
-  <body>
-    {{#each data}}
-    <!-- placeholder image -->
-    <div class="grid">
-      <!-- TOP ROWS -->
-      <div>
-        <h1>{{name0}}</h1>
-        <img src="{{imgurl0}}" />
-        <h3>YOUR Personal Love Key:</h3>
-        <h4 class="life-is-an-internal-battle">{{description0}}</h4>
-      </div>
-      <div>
-        <h1>{{name2}}</h1>
-        <img src="{{imgurl2}}" />
-        <h3>YOUR Personal Love Key:</h3>
-        <h4 class="life-is-an-internal-battle">{{description2}}</h4>
-      </div>
-      <div>
-        <h1>{{name4}}</h1>
-        <img src="{{imgurl4}}" />
 
-        <h3>YOUR Personal Love Key:</h3>
-        <h4 class="life-is-an-internal-battle">{{description4}}</h4>
+<head>
+  <title>Generated Content</title>
+  <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+
+<body>
+  {{#each data}}
+  <!-- placeholder image -->
+  <div class="grid">
+    <!-- TOP ROWS -->
+    <div class="id-card">
+      <h2 id="match-label">YOUR PERFECT MATCH</h2>
+      <img class="profile" id="match-profile" src="/alien_example.png" />
+      <h1 class="profile-name" id="match-name">{{name0}}</h1>
+      <h3 class="partner-id-label">UNLOCK YOUR LOVE</h3>
+      <div class="partnernum">
+        <h4 class="partner-id">{{partnernum}}</h4>
       </div>
-      <div>
-        <h1>{{name6}}</h1>
-        <img src="{{imgurl6}}" />
-        <h3>YOUR Personal Love Key:</h3>
-        <h4 class="life-is-an-internal-battle">{{description6}}</h4>
-      </div>
-      <div>
-        <!-- BOTTOM ROWS -->
-        <h1>{{name1}}</h1>
-        <img src="{{imgurl1}}" />
-        <h3>About me</h3>
-        <h4>{{description1}}</h4>
-      </div>
-      <div>
-        <h1>{{name3}}</h1>
-        <img src="{{imgurl3}}" />
-        <h3>About me</h3>
-        <h4>{{description3}}</h4>
-      </div>
-      <!-- <div>
+      <h5 class="watermark" id="left">CERTIFIED ALIEN LOVER</h5>
+      <h5 class="watermark" id="right">CERTIFIED ALIEN LOVER</h5>
+    </div>
+    <div>
+      <h1>{{name2}}</h1>
+      <img src="{{imgurl2}}" />
+      <h3>YOUR Personal Love Key:</h3>
+      <h4 class="life-is-an-internal-battle">{{description2}}</h4>
+    </div>
+    <div>
+      <h1>{{name4}}</h1>
+      <img src="{{imgurl4}}" />
+
+      <h3>YOUR Personal Love Key:</h3>
+      <h4 class="life-is-an-internal-battle">{{description4}}</h4>
+    </div>
+    <div>
+      <h1>{{name6}}</h1>
+      <img src="{{imgurl6}}" />
+      <h3>YOUR Personal Love Key:</h3>
+      <h4 class="life-is-an-internal-battle">{{description6}}</h4>
+    </div>
+
+    <!-- BOTTOM ROWS -->
+    <div class="id-card">
+      <img class="profile" id="your-profile" src="/alien_example2.png" />
+      <h1 class="profile-name" id="your-name">{{name1}}</h1>
+      <h1 class="profile-name" id="your-real-name">{{real_name1}}</h1>
+      <h4 class="life-is-an-internal-battle">{{description0}}</h4>
+      <h5 class="watermark" id="left">CERTIFIED ALIEN LOVER</h5>
+      <h5 class="watermark" id="right">CERTIFIED ALIEN LOVER</h5>
+    </div>
+
+    <div>
+      <h1>{{name3}}</h1>
+      <img src="{{imgurl3}}" />
+      <h3>About me</h3>
+      <h4>{{description3}}</h4>
+    </div>
+    <!-- <div>
         <h1>{{name5}}</h1>
         <img src="{{imgurl5}}" />
         <h3>About me</h3>
@@ -59,26 +70,27 @@
         <h3>About me</h3>
         <h4>{{description7}}</h4>
       </div> -->
-    </div>
-    {{/each}}
-    <table>
-      <thead>
-        <tr>
-          <!-- <th>Column 1</th>
+  </div>
+  {{/each}}
+  <table>
+    <thead>
+      <tr>
+        <!-- <th>Column 1</th>
           <th>Column 2</th>
           <th>Column 3</th> -->
-          <!-- Add more table headers as needed -->
-        </tr>
-      </thead>
-      <tbody>
-        <!-- {{#each data}} -->
-        <!-- <tr>
+        <!-- Add more table headers as needed -->
+      </tr>
+    </thead>
+    <tbody>
+      <!-- {{#each data}} -->
+      <!-- <tr>
           <td>{{this.column1}}</td>
           <td>{{this.column2}}</td>
           <td>{{this.column3}}</td>
         </tr> -->
-        <!-- {{/each}} -->
-      </tbody>
-    </table>
-  </body>
+      <!-- {{/each}} -->
+    </tbody>
+  </table>
+</body>
+
 </html>
