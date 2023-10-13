@@ -36,7 +36,8 @@ jsonData.aliens.map((alien, index) => {
   // Resolve the image path and add it to the alien data
   alien.imagePath = path.resolve(__dirname, alien.imgurl); // Assuming 'image' is the key for the image path in your JSON data
   const imageNum = alien.imgurl.split("/")[1].split(".")[0];
-  alien.githubPath = `https://github.com/niko-dellic/99f-matches/blob/main/img/${imageNum}.jpg?raw=true`;
+  const imgType = alien.imgurl.split("/")[1].split(".")[1];
+  alien.githubPath = `https://github.com/niko-dellic/99f-matches/blob/main/img/${imageNum}.${imgType}?raw=true`;
 });
 
 // partition the json into sets of four
@@ -107,16 +108,13 @@ for (let i = 0; i < matchMaker.length; i += partitionSize) {
 }
 
 // slice none of the json
-// const plot = pagedJson.slice(0, pagedJson.length);
 // const plot = pagedJson.slice(0, 2);
 
-const start = pagedJson.length - 1;
+const start = 0;
+// const end = 8;
 const end = pagedJson.length;
-console.log(start);
 
 const plot = pagedJson.slice(start, end);
-
-console.log(plot);
 
 // prettier-ignore
 (async () => {
