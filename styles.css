@@ -13,24 +13,6 @@
 
 body {
   /* linear gradient backgrounbd */
-  background: linear-gradient(
-    45deg,
-    #000033,
-    #330066,
-    #660099,
-    #7777aa,
-    #9900cc,
-    #aaaaee,
-    #cc00ff,
-    #ddbbff,
-    #ff99dd,
-    #ff0066,
-    #ff3333,
-    #ff6600,
-    #dddddd,
-    #ffcccc,
-    #eeeeee
-  );
 
   font-family: "michroma", "roboto", sans-serif;
   margin: 3rem;
