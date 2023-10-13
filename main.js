@@ -137,17 +137,22 @@ const plot = pagedJson.slice(start, end);
     // Perform additional operations for each data item if needed
 
     // Generate a PDF for each data item
-    await page.pdf({
-      path: `./output/output_${plot.indexOf(dataItem) + start}.pdf`, // Use a unique name for each PDF
-      width: "17in",
-      height: "11in",
-      margin: {
-        top: "0.25in",
-        bottom: "0.25in",
-        left: "0.25in",
-        right: "0.25in",
-      },
-      printBackground: true,
+    // await page.pdf({
+    //   path: `./output/output_${plot.indexOf(dataItem) + start}.pdf`, // Use a unique name for each PDF
+    //   width: "17in",
+    //   height: "11in",
+    //   margin: {
+    //     top: "0.25in",
+    //     bottom: "0.25in",
+    //     left: "0.25in",
+    //     right: "0.25in",
+    //   },
+    //   printBackground: true,
+    // });
+
+    await page.screenshot({
+      path: `./output/output_${plot.indexOf(dataItem) + start}.png`,
+      fullPage: true,
     });
 
     // Close the page
