@@ -3,6 +3,11 @@
   src: url(./Berzulis-MAGYLA-Regular.ttf) format("truetype");
 } */
 
+@font-face {
+  font-family: eurostyle;
+  src: url(/EurostileExtendedBlack.ttf);
+}
+
 body {
   /* linear gradient backgrounbd */
   background: linear-gradient(
@@ -12,10 +17,21 @@ body {
     rgb(17, 255, 0) 80%,
     rgba(0, 212, 255, 1) 100%
   );
-  font-family: "roboto", sans-serif !important;
+  font-family: eurostyle, "Exo 2", "roboto", sans-serif !important;
   margin: 3rem;
   color: white;
   /* animation: gradientAnimation 5s linear infinite; */
+}
+
+.id-card {
+  display: inline;
+  background: linear-gradient(
+    45deg,
+    #9263E7,
+    #AAADA3,
+    #9263E7
+  );
+  position: relative;
 }
 
 h1 {
@@ -37,11 +53,112 @@ h1 {
   width: 100%;
 }
 
+.id-card {
+  border: 5px solid red;
+  width: 297px;
+  height: 386px;
+  z-index: -2;
+}
+
+#match-profile {
+  width: 175px;
+  height: 225px;
+}
+
+#match-label {
+  font-size: 1em;
+}
+
+#your-profile {
+  width: 90%;
+  height: 65%;
+  margin-top: 20px;
+}
+
+#your-name {
+  position: absolute;
+  bottom: 30%;
+}
+
+#your-real-name {
+  color: #878989;
+  font-size: 1em;
+  position: absolute;
+  right: 0;
+  text-align: right;
+  padding-right: 15%;
+}
+
+h1 {
+  color: #9F1CB5;
+  text-align: left;
+  padding-left: 0.5em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  font-size: 2em;
+  width: 75% !important;
+}
+
+#match-name {
+  font-size: 1.5em;
+}
+
+.partner-id-label {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  color: black;
+  font-size: 1em;
+  position: absolute;
+  right: 0;
+  width: 80%;
+  bottom: 50px;
+  z-index: 100;
+}
+
+.partnernum {
+  background-color: #9F1CB5;
+  justify-content: center;
+  text-align: center;
+  justify-self: end;
+  width: 80%;
+  height: 12%;
+  position: absolute;
+  right: 0;
+  bottom: 15px;
+}
+
+.partner-id {
+  font-size: 1.5em;
+  margin: 0;
+  height: 100%;
+  padding: 2% 0;
+}
+
+.watermark {
+  text-align: start;
+  transform: rotate(90deg);
+  position: absolute;
+  z-index: -1;
+  color: #AAADA3;
+}
+
+#left {
+  left: 125px;
+  top: 150px;
+}
+
+#right {
+  transform: rotate(-90deg);
+  right: 125px;
+  bottom: 150px;
+}
+
 img {
   /* cover */
   object-fit: cover;
-  max-width: 250px;
-  max-height: 350px;
+  max-width: 70%;
+  max-height: 70%;
+  border-radius: 25px;
 }
 
 /* select the first four children */
@@ -55,9 +172,11 @@ img {
 /* first row of grid upside down */
 
 .life-is-an-internal-battle {
-  font-family: "pain", sans-serif;
-  border: 1px solid white;
-  display: inline-block;
+  /* display: inline-block; */
   width: auto;
-  padding: 1rem;
+  padding-left: 15%;
+  font-size: 0.75em;
+  color: black;
+  text-align: left;
+  padding-top: 5%;
 }
