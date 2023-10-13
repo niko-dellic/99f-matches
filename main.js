@@ -110,7 +110,7 @@ for (let i = 0; i < matchMaker.length; i += partitionSize) {
 // slice none of the json
 // const plot = pagedJson.slice(0, 2);
 
-const start = pagedJson.length - 1;
+const start = 0;
 // const end = 8;
 const end = pagedJson.length;
 
@@ -133,20 +133,20 @@ const plot = pagedJson.slice(start, end);
     // Add the CSS style to the page
     const css = fs.readFileSync("./styles.css", "utf8");
     await page.addStyleTag({ content: css });
-    await page.addStyleTag({ content: 
-      `
-      @font-face {
-        font-family: 'michroma';
-        src: local('michroma'), url('./fonts/michroma.ttf') format('truetype');
-      }
-      body {
-        font-family: 'michroma', sans-serif !important;
-      }
-    `
-  });
+  //   await page.addStyleTag({ content: 
+  //     `
+  //     @font-face {
+  //       font-family: 'michroma';
+  //       src: local('michroma'), url('./fonts/michroma.ttf') format('truetype');
+  //     }
+  //     body {
+  //       font-family: 'michroma', sans-serif !important;
+  //     }
+  //   `
+  // });
 
-  // wait for selector
-  await page.waitForSelector("h1.your-name")
+  // // wait for selector
+  // await page.waitForSelector("h1.your-name")
 
 
 
@@ -173,10 +173,10 @@ const plot = pagedJson.slice(start, end);
       // make 4k @ 16:9
       width: 2048,
       height: 1152,
+      deviceScaleFactor: 1.5, // Adjust the device scale factor as needed
+
     });
     const viewport = await page.viewport();
-
-    console.log(viewport)
 
 
     await page.screenshot({
