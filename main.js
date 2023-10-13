@@ -54,12 +54,10 @@ Object.keys(jsonData.matches).forEach((entry, index) => {
   // add the new keys to the cutie object
   newKeys.forEach((key, index) => {
     cutie[key] = cutie[keys[index]];
-    //   delete the old key
-    delete cutie[keys[index]];
+    //   delete the old key or maybe not
+    // delete cutie[keys[index]];
   });
   const matchmate = jsonData.aliens.find((alien) => alien.id === pair) || {};
-
-  //   console.log(Object.keys(matchmate).length);
 
   //   if not emptry object
   if (Object.keys(matchmate).length > 0) {
@@ -101,7 +99,8 @@ for (let i = 0; i < matchMaker.length; i += partitionSize) {
 }
 
 // slice none of the json
-const plot = pagedJson.slice(0, pagedJson.length / 2);
+const plot = pagedJson.slice(0, pagedJson.length);
+// const plot = pagedJson.slice(0, 2);
 
 (async () => {
   const browser = await puppeteer.launch({
@@ -124,7 +123,7 @@ const plot = pagedJson.slice(0, pagedJson.length / 2);
 
     // Generate a PDF for each data item
     await page.pdf({
-      path: `./output/output_${test.indexOf(dataItem)}.pdf`, // Use a unique name for each PDF
+      path: `./output/output_${plot.indexOf(dataItem)}.pdf`, // Use a unique name for each PDF
       width: "17in",
       height: "11in",
       margin: {

@@ -50,8 +50,18 @@ body {
 }
 
 h1 {
-  white-space: nowrap;
+  /* white-space: nowrap; */
   /* write upwards */
+  /* outer glow */
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de,
+    0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+}
+
+img {
+  /* outer glow */
+  box-shadow: 0 0 10px #ffffff80, 0 0 20px #ffffff75, 0 0 30px #ffffff73,
+    0 0 40px #ff00dd7a, 0 0 70px #ff00dd7e, 0 0 80px #ff00dd80,
+    0 0 100px #ff00dd77, 0 0 150px #ff00dd7a;
 }
 
 .grid {
@@ -118,7 +128,9 @@ h1 {
 }
 
 .match-name {
-  font-size: 1.5em;
+  /* font-size: 1.5em; */
+  position: absolute;
+  bottom: 30%;
 }
 
 .partner-id-label {
